@@ -1,0 +1,2316 @@
+[
+  {
+    "name": "Ahmedabad Showroom",
+    "key": "ahmedabad-showroom",
+    "status": 1,
+    "email": {
+      "primary": "goldlites.ahmedabad@gmail.com"
+    },
+    "street": "Shree balaji heights, GF-07, Near IDBI bank, Bodyline, Chimanlal Girdharlal Rd, Char Rasta, C G, Ellisbridge",
+    "city": "Ahmedabad",
+    "region": "Gujarat",
+    "pin": 380009,
+    "lat": 23.029083,
+    "lon": 72.55699129,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "mon": {
+          "open": [14, 0],
+          "close": [19, 30]
+        },
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "9081253100"
+    },
+    "rating": 4.4,
+    "placeId": "ChIJY3MoK1SFXjkRFgytSOZ5_BQ",
+    "cid": "1512217604858383382",
+    "gname": "P. C. Chandra Jewellers Ahmedabad",
+    "gcode": "7JMJ2HH4+JQ"
+  },
+  {
+    "name": "Agartala Showroom",
+    "key": "agartala-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc_agartala@yahoo.in"
+    },
+    "street": "Paradise Chowmohani, 60, H.G.B Road, Dhaleswar",
+    "city": "Agartala",
+    "region": "Tripura",
+    "pin": 799001,
+    "lat": 23.8288189,
+    "lon": 91.27572020000001,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [20, 0]
+      }
+    },
+    "phone": {
+      "primary": "7005801725"
+    },
+    "rating": 4.2,
+    "placeId": "ChIJ_x99A_fzUzcRBblGSUAGVlU",
+    "cid": "6149109214398036229",
+    "gname": "P.C.Chandra Jewellers, Agartala",
+    "gcode": "7MMHR7HG+G7"
+  },
+  {
+    "name": "Arambagh Showroom",
+    "key": "arambagh-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccapex@pcchandraindia.com"
+    },
+    "street": "214/F, Link Road, Ward No 3",
+    "city": "Hooghly",
+    "region": "West Bengal",
+    "pin": 712601,
+    "lat": 22.8824425,
+    "lon": 87.78858199,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "03211 255004",
+      "other": [
+        {
+          "phone": "03211 255005",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "placeId": "ChIJRVlQ6n0T-DkRc2kIkd9gapg",
+    "cid": "10982697154623596915",
+    "gname": "P.C. Chandra Jewellers Arambagh",
+    "gcode": "7MJ9VQJQ+XC"
+  },
+  {
+    "name": "Asansol Showroom",
+    "key": "asansol-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccasansol@pcchandraindia.com"
+    },
+    "street": "Laxminarayana Building, 71, GT Rd, East, Murgasol",
+    "city": "Asansol",
+    "region": "West Bengal",
+    "pin": 713303,
+    "lat": 23.6804977,
+    "lon": 86.99292179,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "0341-2274331",
+      "other": [
+        {
+          "phone": "91-9674400480",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJpWDo58If9zkR1Aj5IUI7ZKA",
+    "cid": "11557427698963384532",
+    "gname": "P. C. Chandra Jewellers, Asansol",
+    "gcode": "7MM8MXJV+55"
+  },
+  {
+    "name": "Girish Park Showroom",
+    "key": "girish-park-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccglobalvkroad@yahoo.com"
+    },
+    "street": "79, Vivekananda Rd, opposite Simla Byam Samiti, Hedua, Machuabazar",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700006,
+    "lat": 22.5862642,
+    "lon": 88.3646727,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "91-9830906029"
+    },
+    "rating": 4.7,
+    "placeId": "ChIJ69B08tJ3AjoREGFnPBEubT0",
+    "cid": "4426244660337795344",
+    "gname": "P.C.Chandra Jewellers, Vivekananda Road",
+    "gcode": "7MJCH9P7+GV"
+  },
+  {
+    "name": "Balurghat Showroom",
+    "key": "balurghat-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccbalurghat@pcchandraindia.com"
+    },
+    "street": "Nazrul Sarani, opp. SBI Bazar Branch, Khadimpur, Narayanpur",
+    "city": "Dinajpur",
+    "region": "West Bengal",
+    "pin": 733101,
+    "lat": 25.224434,
+    "lon": 88.781167,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "9674725067"
+    },
+    "rating": 4.3,
+    "placeId": "ChIJ24m1cdFh-zkRGVCebrS9BFQ",
+    "cid": "6054172381740421145",
+    "gname": "P C Chandra Jewellers, Balurghat",
+    "gcode": "7MQC6QFJ+QF"
+  },
+  {
+    "name": "Bankura Showroom",
+    "key": "bankura-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccapex@pcchandraindia.com"
+    },
+    "street": "Nutanchati Rd, near Udayan Sangha, Paddapukur Palli",
+    "city": "Bankura",
+    "region": "West Bengal",
+    "pin": 722101,
+    "lat": 23.2438731,
+    "lon": 87.04869269,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      }
+    },
+    "phone": {
+      "primary": "9230772815"
+    },
+    "rating": 4.1,
+    "placeId": "ChIJ59rmR0Sv9zkRXLM6e3iYZ14",
+    "cid": "6802573405397365596",
+    "gname": "P.C. Chandra Jewellers Bankura",
+    "gcode": "7MM962VX+GF"
+  },
+  {
+    "name": "Barasat Showroom",
+    "key": "barasat-showroom",
+    "status": 1,
+    "email": {
+      "primary": "barasat@pcchandraindia.com"
+    },
+    "street": "SOUTH DAK-BUNGALOW MORE, 43, Jessore Rd, Gupta Colony",
+    "city": "Barasat",
+    "region": "West Bengal",
+    "pin": 700124,
+    "lat": 22.7115026,
+    "lon": 88.47576649,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "033-2584-3093",
+      "other": [
+        {
+          "phone": "033-2584-3092",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.7,
+    "placeId": "ChIJ1czIo6uY-DkR_UrLAOAmm6U",
+    "cid": "11933174381176113917",
+    "gname": "P C Chandra Jewellers-Barasat (WB)",
+    "gcode": "7MJCPF6G+J8"
+  },
+  {
+    "name": "Barrackpore Showroom",
+    "key": "barrackpore-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.barrackpore@pcchandraindia.com"
+    },
+    "street": "23, 14, SN Banerjee Rd, P.S, Titagarh",
+    "city": "Barrackpore",
+    "region": "West Bengal",
+    "pin": 700120,
+    "lat": 22.7615819,
+    "lon": 88.3669484,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "033-25945000",
+      "other": [
+        {
+          "phone": "91-9007100280",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.9,
+    "placeId": "ChIJ_Y7m-_qb-DkRvHAiNApeurg",
+    "cid": "13311055046564278460",
+    "gname": "P.C.Chandra Jewellers, Barrackpore",
+    "gcode": "7MJCQ968+JQ"
+  },
+  {
+    "name": "Baruipur Showroom",
+    "key": "baruipur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Subuddhipur",
+    "city": "Baruipur",
+    "region": "West Bengal",
+    "pin": 700144,
+    "lat": 22.3608116,
+    "lon": 88.43227429,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "91-8336923150",
+      "other": [
+        {
+          "phone": "91-8336923180",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.3,
+    "placeId": "ChIJOfMclFpsAjoRzEHYgUynh84",
+    "cid": "14882047440706879948",
+    "gname": "P.C. Chandra Jewellers, Baruipur",
+    "gcode": "7MJC9C6J+8W"
+  },
+  {
+    "name": "Behala Showroom",
+    "key": "behala-showroom",
+    "status": 1,
+    "email": {
+      "primary": "behala@pcchandraindia.com"
+    },
+    "street": "293, 1, Diamond Harbour Rd, beside Bank of Baroda, Behala Thana, Gholeshapur, Behala",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700034,
+    "lat": 22.5045523,
+    "lon": 88.3193149,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "6291669474"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJQVVVVQl6AjoRs86sI2PSTI8",
+    "cid": "10325859368895827635",
+    "gname": "P. C. Chandra Jewellers, Behala",
+    "gcode": "7MJCG839+RP"
+  },
+  {
+    "name": "Bengaluru (Koramangala) Showroom",
+    "key": "bengaluru-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcckoramangala@pcchandraindia.com"
+    },
+    "street": "Site No 42 Koramangala 6th block extension, 100 Feet Rd, near Sony Signal",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "pin": 560095,
+    "lat": 12.9358204,
+    "lon": 77.6247716,
+    "schedule": {
+      "default": {
+        "open": [10, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "mon": null
+      }
+    },
+    "phone": {
+      "primary": "080-46845555",
+      "other": [
+        {
+          "phone": "91-8884723431",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.7,
+    "placeId": "ChIJk4-Jv3UVrjsR1-GY82HWrFQ",
+    "cid": "6101487311367234007",
+    "gname": "P C Chandra Jewellers, Koramangala",
+    "gcode": "7J4VWJPF+8W"
+  },
+  {
+    "name": "Bengaluru (Ulsoor) Showroom",
+    "key": "bengaluru-showroom-ulsoor",
+    "status": 1,
+    "email": {
+      "primary": "pcculsoor@pcchandraindia.com"
+    },
+    "street": "46, Ulsoor Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "pin": 560042,
+    "lat": 12.9760327,
+    "lon": 77.6151793,
+    "schedule": {
+      "default": {
+        "open": [10, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "tue": null
+      }
+    },
+    "phone": {
+      "primary": "7795444942"
+    },
+    "rating": 4.7,
+    "placeId": "ChIJtT58H_IXrjsRRj90IKGXyLo",
+    "cid": "13459174204686745414",
+    "gname": "P.C. Chandra Jewellers-Ulsoor",
+    "gcode": "7J4VXJG8+C3"
+  },
+  {
+    "name": "Berhampore Showroom",
+    "key": "berhampore-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccberhampore@yahoo.co.in"
+    },
+    "street": "119, G, 1, Rabindranath Tagore Rd, Laldighi, Gora Bazar",
+    "city": "Murshidabad",
+    "region": "West Bengal",
+    "pin": 742101,
+    "lat": 24.0941169,
+    "lon": 88.2541713,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      },
+      "exceptions": {
+        "mon": {
+          "open": [10, 30],
+          "close": [16, 0]
+        },
+        "tue": null
+      }
+    },
+    "phone": {
+      "primary": "03482-259066"
+    },
+    "rating": 4.2,
+    "placeId": "ChIJly81mNF9-TkRlf1Ffg_uyKQ",
+    "cid": "11874002167872748949",
+    "gname": "P. C. Chandra Jewellers, Berhampore",
+    "gcode": "7MPC37V3+JM"
+  },
+  {
+    "name": "Bhubaneswar Showroom",
+    "key": "bhubaneswar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccbbsr@yahoo.in"
+    },
+    "street": "Plot No-501,Room No:1A, Narula Market Complex Kharavela Nagar,Sriya Square, Unit 3, Kharvela Nagar",
+    "city": "Bhubaneswar",
+    "region": "Odisha",
+    "pin": 751001,
+    "lat": 20.2742263,
+    "lon": 85.8432629,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "91-9556705600"
+    },
+    "rating": 4,
+    "placeId": "ChIJX1iDYFGnGToRkbiELLvY34s",
+    "cid": "10079012789495838865",
+    "gname": "P.C.Chandra Jewellers, Bhubaneswar",
+    "gcode": "7MG77RFV+M8"
+  },
+  {
+    "name": "Bishnupur Showroom",
+    "key": "bishnupur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "Pccbishnupur@pcchandraindia.com"
+    },
+    "street": "240/B/1, Ward No. - 19, Guyanala, Station Road (Near Jhapor More P.O. & P.S, Station Area",
+    "city": "Bankura",
+    "region": "West Bengal",
+    "pin": 722122,
+    "lat": 23.0627888,
+    "lon": 87.3086994,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      }
+    },
+    "phone": {
+      "primary": "9230772817",
+      "other": [
+        {
+          "phone": "9230991970",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJmcn4OBuT9zkRCJkrZ3XrUYA",
+    "cid": "9246430399442950408",
+    "gname": "P. C. Chandra Jewellers, Bishnupur",
+    "gcode": "7MM93875+4F"
+  },
+  {
+    "name": "Bowbazar Showroom",
+    "key": "bowbazar-showroom-ganguly",
+    "status": 1,
+    "email": {
+      "primary": "bowbazar@pcchandra.com"
+    },
+    "street": "127, 1A, Bepin Behari Ganguly St, Lebutala, Bowbazar",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700012,
+    "lat": 22.5677637,
+    "lon": 88.3660536,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2227-7221",
+      "other": [
+        {
+          "phone": "033-2227-7272",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-2227-9440",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJHTLCwK53AjoRFIA4ftfrxRc",
+    "cid": "1713034544052469780",
+    "gname": "P. C. Chandra Jewellers Bowbazar",
+    "gcode": "7MJCH998+4C"
+  },
+  {
+    "name": "Bowbazar Showroom (GLOBAL)",
+    "key": "bowbazar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccglobal@pcchandraindia.com"
+    },
+    "street": "127, 1A, Bepin Behari Ganguly St, Lebutala, Bowbazar",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700012,
+    "lat": 22.5677637,
+    "lon": 88.3660536,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2226-3700",
+      "other": [
+        {
+          "phone": "033-2226-3701",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJHTLCwK53AjoRFIA4ftfrxRc",
+    "cid": "1713034544052469780",
+    "gname": "P. C. Chandra Jewellers Bowbazar",
+    "gcode": "7MJCH998+4C"
+  },
+  {
+    "name": "Burdwan Showroom",
+    "key": "burdwan-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc_bdn@yahoo.co.in"
+    },
+    "street": "Tower -01st Floor, 24, Grand Trunk Rd, City",
+    "city": "Burdwan",
+    "region": "West Bengal",
+    "pin": 713101,
+    "lat": 23.2418951,
+    "lon": 87.867853,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "9679472499"
+    },
+    "rating": 4.3,
+    "placeId": "ChIJPVVVVcFJ-DkRsoFEXjN7VuM",
+    "cid": "16381416155161854386",
+    "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
+    "gcode": "7MM96VR9+Q4"
+  },
+  {
+    "name": "Chandannagar Showroom",
+    "key": "chandannagar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "goldlites@gmail.com"
+    },
+    "street": "1320, Grand Trunk Rd, Dharampur",
+    "city": "Hooghly",
+    "region": "West Bengal",
+    "pin": 712136,
+    "lat": 22.8582942,
+    "lon": 88.36596109,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "2685 8581",
+      "other": [
+        {
+          "phone": "2685 8582",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.3,
+    "placeId": "ChIJcxXH9QaR-DkRetjM9R62pEc",
+    "cid": "5162451316962547834",
+    "gname": "P.C. Chandra Jewellers, Chandannagar",
+    "gcode": "7MJCV958+89"
+  },
+  {
+    "name": "Chowringhee (Diamond) Showroom",
+    "key": "chowringhee-diamond-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccelgin@vsnl.net"
+    },
+    "street": "83a, Jawaharlal Nehru Rd, Sreepally, Bhowanipore",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700020,
+    "lat": 22.5386915,
+    "lon": 88.346488,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-22238062",
+      "other": [
+        {
+          "phone": "033-22237974",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-22231279",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJO12VRz53AjoRbTOiVlQsmIY",
+    "cid": "9698550538284708717",
+    "gname": "P.C.Chandra Jewellers, Chowringhee",
+    "gcode": "7MJCG8QW+FH"
+  },
+  {
+    "name": "Chowringhee Showroom",
+    "key": "chowringhee-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccelgin@vsnl.net"
+    },
+    "street": "83a, Jawaharlal Nehru Rd, Sreepally, Bhowanipore",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700020,
+    "lat": 22.5386915,
+    "lon": 88.346488,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-22238062",
+      "other": [
+        {
+          "phone": "033-22237974",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-22231279",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJO12VRz53AjoRbTOiVlQsmIY",
+    "cid": "9698550538284708717",
+    "gname": "P.C.Chandra Jewellers, Chowringhee",
+    "gcode": "7MJCG8QW+FH"
+  },
+  {
+    "name": "Cooch Behar Showroom",
+    "key": "cooch-behar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc_cob@yahoo.in"
+    },
+    "street": "B. S. Road, near Marwari Mandir",
+    "city": "Cooch Behar",
+    "region": "West Bengal",
+    "pin": 736101,
+    "lat": 26.3253702,
+    "lon": 89.4453715,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "91-7076364566",
+      "other": [
+        {
+          "phone": "91-7479232419",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.1,
+    "placeId": "ChIJvc8FyIL-4jkRcsdimWPnNlA",
+    "cid": "5780061586737776498",
+    "gname": "P. C. Chandra Jewellers, Cooch Behar"
+  },
+  {
+    "name": "Darjeeling Showroom",
+    "key": "darjeeling-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccdarjeeling@pcchandraindia.com"
+    },
+    "street": "The Rink Mall, 19, Laden la Rd, Limbugaon",
+    "city": "Darjeeling",
+    "region": "West Bengal",
+    "pin": 734101,
+    "lat": 27.0397038,
+    "lon": 88.2648478,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      }
+    },
+    "phone": {
+      "primary": "9230996030",
+      "other": [
+        {
+          "phone": "9230996020",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.8,
+    "placeId": "ChIJsVEaC0sv5DkRdt-n9SWz3_o",
+    "cid": "18077364404905041782",
+    "gname": "PCC Lites by P. C. Chandra Jewellers, Darjeeling",
+    "gcode": "7MVC27Q7+VW"
+  },
+  {
+    "name": "Delhi Showroom",
+    "key": "delhi-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.delhi@pcchandraindia.com"
+    },
+    "street": "K1/20, CR Park Main Rd, opp. S.B.I Kalkaji Branch, near DESHBANDHU COLLEGE, Block K 1, Chittaranjan Park",
+    "city": "New Delhi",
+    "region": "Delhi",
+    "pin": 110019,
+    "lat": 28.5391885,
+    "lon": 77.25256019,
+    "schedule": {
+      "default": {
+        "open": [11, 30],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "011-26270034"
+    },
+    "rating": 4.7,
+    "placeId": "ChIJK7oD6NnjDDkRkX4_UgtVk3k",
+    "cid": "8760439207278640785",
+    "gname": "P.C.Chandra Jewellers, Delhi",
+    "gcode": "7JWVG7Q3+M2"
+  },
+  {
+    "name": "Durgapur 2nd Showroom",
+    "key": "durgapur-2nd-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccdurgapurcc@pcchandraindia.com"
+    },
+    "street": "Holding No. N/39, P.O. & Ps :, Pushpanjali Building, C 71/A, Shahid Khudiram Sarani, City Center",
+    "city": "Asansol",
+    "region": "West Bengal",
+    "pin": 713216,
+    "lat": 23.5382744,
+    "lon": 87.2938593,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "91-9674020717"
+    },
+    "rating": 4.5,
+    "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
+    "cid": "5158784928054683809",
+    "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
+    "gcode": "7MM9G7QV+8G"
+  },
+  {
+    "name": "Durgapur Showroom",
+    "key": "durgapur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccdurgapur@gmail.com"
+    },
+    "street": "Holding No. N/39, P.O. & Ps :, Pushpanjali Building, C 71/A, Shahid Khudiram Sarani, City Center",
+    "city": "Asansol",
+    "region": "West Bengal",
+    "pin": 713213,
+    "lat": 23.5382744,
+    "lon": 87.2938593,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "91-8967052199"
+    },
+    "rating": 4.5,
+    "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
+    "cid": "5158784928054683809",
+    "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
+    "gcode": "7MM9G7QV+8G"
+  },
+  {
+    "name": "Garia Showroom",
+    "key": "garia-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccgaria@pcchandraindia.com"
+    },
+    "street": "101B, Raja Subodh Chandra Mallick Rd, Laxmi Narayan Colony, Garia",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700047,
+    "lat": 22.4702369,
+    "lon": 88.3774248,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "24300161",
+      "other": [
+        {
+          "phone": "6292264787",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.7,
+    "placeId": "ChIJcy9BFmBxAjoRDzyvypEI51I",
+    "cid": "5973752852994014223",
+    "gname": "P.C. Chandra Jewellers, Garia",
+    "gcode": "7MJCF9CG+3X"
+  },
+  {
+    "name": "Gariahat 1 Showroom",
+    "key": "gariahat-1-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.net"
+    },
+    "street": "49C, Gariahat Rd, Dover Terrace, Ballygunge",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700019,
+    "lat": 22.5228508,
+    "lon": 88.3650071,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-24618734",
+      "other": [
+        {
+          "phone": "033-24618684",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
+    "cid": "10122873297482004128",
+    "gname": "P.C.Chandra Jewellers, Gariahat",
+    "gcode": "7MJCG9F8+42"
+  },
+  {
+    "name": "Gariahat 2 Showroom",
+    "key": "gariahat-2-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.net"
+    },
+    "street": "49C, Gariahat Rd, Dover Terrace, Ballygunge",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700019,
+    "lat": 22.5228508,
+    "lon": 88.3650071,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-24618734",
+      "other": [
+        {
+          "phone": "033-24618684",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
+    "cid": "10122873297482004128",
+    "gname": "P.C.Chandra Jewellers, Gariahat",
+    "gcode": "7MJCG9F8+42"
+  },
+  {
+    "name": "Golpark Showroom",
+    "key": "golpark-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "49C, Gariahat Rd, Dover Terrace, Ballygunge",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700029,
+    "lat": 22.5228508,
+    "lon": 88.3650071,
+    "schedule": {
+      "default": {
+        "open": [12, 0],
+        "close": [15, 0]
+      },
+      "exceptions": {
+        "sat": null,
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "033-24645370",
+      "other": [
+        {
+          "phone": "24645456",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
+    "cid": "10122873297482004128",
+    "gname": "P.C.Chandra Jewellers, Gariahat",
+    "gcode": "7MJCG9F8+42"
+  },
+  {
+    "name": "Habra Showroom",
+    "key": "habra-showroom",
+    "status": 1,
+    "email": {
+      "primary": "habra@pcchandraindia.com"
+    },
+    "street": "WARD NO - 15, DGP-13, Ananda Gopal Mukherjee Sarani Rd, opposite Kohinoor Hotel & Restaurant, Benachity",
+    "city": "Barasat",
+    "region": "West Bengal",
+    "pin": 743263,
+    "lat": 23.5601762,
+    "lon": 87.2768007,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "03216-231999",
+      "other": [
+        {
+          "phone": "238038",
+          "name": "Alternative"
+        },
+        {
+          "phone": "91-9732166776",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.1,
+    "placeId": "ChIJ_2_Rsxxy9zkRQcqbluLead8",
+    "cid": "16098643407783316033",
+    "gname": "P.C. Chandra Jewellers Durgapur (Benachity)",
+    "gcode": "7MM9H76G+3P"
+  },
+  {
+    "name": "Hatibagan Showroom",
+    "key": "hatibagan-showroom",
+    "status": 1,
+    "email": {
+      "primary": "goldlites@gmail.com"
+    },
+    "street": "Hatibagan, 77, Bidhan Sarani Rd, Near Rupbani Cinema Hall, Sovabazar, Goa Bagan",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700006,
+    "lat": 22.5932708,
+    "lon": 88.3705349,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "2533 0206",
+      "other": [
+        {
+          "phone": "2533 0207",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "placeId": "ChIJ3dn9MTd2AjoRQI9DLyjp4v4",
+    "cid": "18366498589171224384",
+    "gname": "PC Chandra Jewellers Hatibagan",
+    "gcode": "7MJCH9VC+86"
+  },
+  {
+    "name": "Howrah Showroom",
+    "key": "howrah-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Regent City Shoppers, 2nd Floor, 18, Grand Trunk Rd, Maidan, Kadam Tala",
+    "city": "Howrah",
+    "region": "West Bengal",
+    "pin": 711101,
+    "lat": 22.5830166,
+    "lon": 88.3331305,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-26410542"
+    },
+    "rating": 4.7,
+    "placeId": "ChIJz8PMjI13AjoRs2jOUdIW7Ng",
+    "cid": "15630893499267573939",
+    "gname": "P.C.Chandra Jewellers, Howrah",
+    "gcode": "7MJCH8MM+67"
+  },
+  {
+    "name": "Jadavpur Showroom",
+    "key": "jadavpur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "customercare@pcchandraindia.com"
+    },
+    "street": "77A, 72, Raja Subodh Chandra Mallick Rd, Chittaranjan Colony 2, Jadavpur",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700092,
+    "lat": 22.4851818,
+    "lon": 88.3750112,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2425-5003"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJJbKk3zFxAjoR5_9uZpzo9AE",
+    "cid": "140993246786420711",
+    "gname": "P.C. Chandra Jewellers Jadavpur",
+    "gcode": "7MJCF9PG+32"
+  },
+  {
+    "name": "Jamshedpur Showroom",
+    "key": "jamshedpur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.jamshedpur@pcchandraindia.com"
+    },
+    "street": "1/1, Bistupur Main Rd, S.B, Road, Bistupur",
+    "city": "Jamshedpur",
+    "region": "Jharkhand",
+    "pin": 831001,
+    "lat": 22.7953863,
+    "lon": 86.18433499,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "91-7321956613",
+      "other": [
+        {
+          "phone": "91-6204949179",
+          "name": "Alternative"
+        },
+        {
+          "phone": "0657-2222126",
+          "name": "Alternative"
+        },
+        {
+          "phone": "0657-2222136",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.9,
+    "placeId": "ChIJwfbg5mXj9TkRgfm6iMCOQVE",
+    "cid": "5855117948137175425",
+    "gname": "P.C.Chandra Jewellers, Jamshedpur",
+    "gcode": "7MJ8Q5WM+5P"
+  },
+  {
+    "name": "Kanchrapara Showroom",
+    "key": "kanchrapara-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.kanchrapara@pcchandraindia.com"
+    },
+    "street": "84, Lenin Sarani, Kanchrapara Loco, Kanchrapara",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 743145,
+    "lat": 22.9424421,
+    "lon": 88.4464484,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2585 4417",
+      "other": [
+        {
+          "phone": "033-2585 4418",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-2585 4466",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-3511 5312",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "placeId": "ChIJzR-dvDuV-DkR13TuascRUyg",
+    "cid": "2905685732774278359",
+    "gname": "P.C.Chandra Jewellers, Kanchrapara",
+    "gcode": "7MJCWCRW+XH"
+  },
+  {
+    "name": "Katwa Showroom",
+    "key": "katwa-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Tower-01, 1st Floor, 24, Grand Trunk Rd, City Center",
+    "city": "Burdwan",
+    "region": "West Bengal",
+    "pin": 713130,
+    "lat": 23.2418951,
+    "lon": 87.867853,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "9674400918"
+    },
+    "rating": 4.3,
+    "placeId": "ChIJPVVVVcFJ-DkRsoFEXjN7VuM",
+    "cid": "16381416155161854386",
+    "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
+    "gcode": "7MM96VR9+Q4"
+  },
+  {
+    "name": "Krishnanagar Showroom",
+    "key": "krishnanagar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccknj@gmail.com"
+    },
+    "street": "1, L.M.Ghosh Street, 10, RN Tagore Rd",
+    "city": "Nadia",
+    "region": "West Bengal",
+    "pin": 741101,
+    "lat": 23.4085168,
+    "lon": 88.49695679,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "03472-223109",
+      "other": [
+        {
+          "phone": "91-9800811279",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.1,
+    "placeId": "ChIJOaWSWjgg-TkR4Q1DfgNHpCo",
+    "cid": "3072658926102318561",
+    "gname": "P.C.Chandra Jewellers, Krishnanagar",
+    "gcode": "7MMCCF5W+CQ"
+  },
+  {
+    "name": "Madhyamgram Showroom",
+    "key": "kadhyamgram-showroom",
+    "status": 1,
+    "email": {
+      "primary": "customercare@pcchandraindia.com"
+    },
+    "street": "254, Sodepur Rd, East Bankimpally, Purbalaya, South Bankimpally",
+    "city": "Barasat",
+    "region": "West Bengal",
+    "pin": 700129,
+    "lat": 22.6928445,
+    "lon": 88.46323609,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033 2538 6001",
+      "other": [
+        {
+          "phone": "033 2538 6002",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.9,
+    "placeId": "ChIJXyCgruSf-DkRvTqp2pbTf-c",
+    "cid": "16681284189670685373",
+    "gname": "PCC Lites by P. C. Chandra Jewellers, Madhyamgram",
+    "gcode": "7MJCMFV7+47"
+  },
+  {
+    "name": "Malda English Bazar Showroom",
+    "key": "malda-english-bazar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmalda@yahoo.co.in"
+    },
+    "street": "Krishna Jiban Sanyal Rd, Mokdumpur",
+    "city": "Malda",
+    "region": "West Bengal",
+    "pin": 732101,
+    "lat": 24.9964567,
+    "lon": 88.1422135,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "03512-256558"
+    },
+    "rating": 4.5,
+    "placeId": "ChIJ19Q0pdv9-jkRVMUWQqt_vY4",
+    "cid": "10285517497509004628",
+    "gname": "P. C. Chandra Jewellers, Malda English Bazar",
+    "gcode": "7MPCX4WR+HV"
+  },
+  {
+    "name": "Malda Kanir More Showroom",
+    "key": "malda-kanir-more-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmalda2@pcchandraindia.com"
+    },
+    "street": "310/22 & 310/24,Om Shibaya Abasan,Ground Floor,Manaskamana Road, More, Kanir",
+    "city": "Malda",
+    "region": "West Bengal",
+    "pin": 732102,
+    "lat": 25.0108906,
+    "lon": 88.1361656,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "9230812019"
+    },
+    "rating": 4.8,
+    "placeId": "ChIJ4RlxlMv9-jkR2tGD8Nexd_I",
+    "cid": "17471628820418384346",
+    "gname": "P. C. Chandra Jewellers, Malda Kanir More",
+    "gcode": "7MQC246P+9F"
+  },
+  {
+    "name": "Marathahalli Showroom",
+    "key": "marathahalli-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmarathahalli@pcchandraindia.com"
+    },
+    "street": "97/2B, 3rd Main Cross Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "pin": 560037,
+    "lat": 12.9572326,
+    "lon": 77.6998036,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [20, 0]
+      },
+      "exceptions": {
+        "mon": null
+      }
+    },
+    "phone": {
+      "primary": "8904214008"
+    },
+    "rating": 4.8,
+    "placeId": "ChIJR0hJdlMTrjsRyNK7URBYzHE",
+    "cid": "8200025848648815304",
+    "gname": "P C Chandra Jewellers, Marathahalli",
+    "gcode": "7J4VXM4X+VW"
+  },
+  {
+    "name": "Midnapore Keranitala Showroom",
+    "key": "midnapore-keranitala-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmidnaporekt@pcchandraindia.com"
+    },
+    "street": "Holding no.1343, Midnapore Railway Station Rd, Keranitola",
+    "city": "Midnapore",
+    "region": "West Bengal",
+    "pin": 721101,
+    "lat": 22.4213115,
+    "lon": 87.31314739,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      },
+      "exceptions": {
+        "wed": {
+          "open": [10, 30],
+          "close": [16, 0]
+        },
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "9933529286"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJe3S8JUZbHToRUKY30FhDnxc",
+    "cid": "1702153232898827856",
+    "gname": "P.C. Chandra Jewellers, Midnapore, Keranitala",
+    "gcode": "7MJ9C8C7+G7"
+  },
+  {
+    "name": "Midnapore Sahabharang Bazar Showroom",
+    "key": "midnapore-sahabharang-bazar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmidnaporekt@pcchandraindia.com"
+    },
+    "street": "Sahabharang Bazar (Near -School Bazar) Dist., School Bazar",
+    "city": "Midnapore",
+    "region": "West Bengal",
+    "pin": 721101,
+    "lat": 22.4120614,
+    "lon": 87.32671180000001,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      },
+      "exceptions": {
+        "wed": {
+          "open": [10, 30],
+          "close": [16, 0]
+        },
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "9933529179"
+    },
+    "rating": 4.1,
+    "placeId": "ChIJuYCv9jNbHToRI7XJtCq9n2s",
+    "cid": "7755125074474677539",
+    "gname": "P.C. Chandra Jewellers, Midnapore, Sahabharang Bazar",
+    "gcode": "7MJ9C86G+RM"
+  },
+  {
+    "name": "Mumbai (Bandra) Showroom",
+    "key": "mumbai-bandra-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccmumbai@pcchandraindia.com"
+    },
+    "street": "Plot No 196, Makhija Chambers, Guru Narayan Rd, opp. HP Petrol Pump, Bandra West",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "pin": 400050,
+    "lat": 19.0595698,
+    "lon": 72.8360718,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null,
+        "sat": {
+          "open": [11, 0],
+          "close": [20, 0]
+        },
+        "sun": {
+          "open": [11, 0],
+          "close": [20, 0]
+        }
+      }
+    },
+    "phone": {
+      "primary": "022-26406030"
+    },
+    "rating": 4.4,
+    "placeId": "ChIJiZIBSBbJ5zsRfnS5-sZEbKU",
+    "cid": "11919977935143531646",
+    "gname": "P.C. Chandra Jewellers, Bandra",
+    "gcode": "7JFJ3R5P+RC"
+  },
+  {
+    "name": "Mumbai (Vashi) Showroom",
+    "key": "mumbai-vashi-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccvashi@pcchandraindia.com"
+    },
+    "street": "Ground Floor, Hermes Centre, 67, Sector 17, Vashi",
+    "city": "Mumbai",
+    "region": "Maharashtra",
+    "pin": 400703,
+    "lat": 19.0718804,
+    "lon": 73.0018061,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "2248257855"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJa8faqLjB5zsRupMRGKozz4w",
+    "cid": "10146385291130278842",
+    "gname": "P. C. Chandra Jewellers, Vashi",
+    "gcode": "7JFM32C2+QP"
+  },
+  {
+    "name": "Nagerbazar Showroom",
+    "key": "nagerbazar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccapex@pcchandraindia.com"
+    },
+    "street": "14, Dum Dum Rd, opp. to Science College, opposite Motijheel, Ward Number 22, Motijheel, Nagerbazar, Dum Dum",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700074,
+    "lat": 22.6224625,
+    "lon": 88.4119551,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-25608881",
+      "other": [
+        {
+          "phone": "033-25608882",
+          "name": "Alternative"
+        },
+        {
+          "phone": "033-25608884",
+          "name": "Alternative"
+        },
+        {
+          "phone": "91-9051088881",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJdcbyYXif-DkRnuPn5YuqzRs",
+    "cid": "2003444927084094366",
+    "gname": "PC Chandra Jewellers, Nagerbazar",
+    "gcode": "7MJCJCC6+XQ"
+  },
+  {
+    "name": "New Town Showroom",
+    "key": "newtown-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700157,
+    "lat": 22.6225413,
+    "lon": 88.4469836,
+    "schedule": {
+      "default": {
+        "open": [12, 0],
+        "close": [15, 0]
+      }
+    },
+    "phone": {
+      "primary": "033-25722017",
+      "other": [
+        {
+          "phone": "9073387956",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
+    "cid": "10170812850672638878",
+    "gname": "P.C. Chandra Jewellers, Rajarhat",
+    "gcode": "7MJCJCFW+2Q"
+  },
+  {
+    "name": "Noida Showroom",
+    "key": "noida-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Police Chowki, G-1, Dist, near Sector-18, GB Nagar, G Block, O.P, Sector 18",
+    "city": "Noida",
+    "region": "Uttar Pradesh",
+    "pin": 201301,
+    "lat": 28.5704909,
+    "lon": 77.324085,
+    "schedule": {
+      "default": {
+        "open": [11, 30],
+        "close": [20, 0]
+      },
+      "exceptions": {
+        "mon": {
+          "open": [2, 0],
+          "close": [20, 0]
+        }
+      }
+    },
+    "phone": {
+      "primary": "0120-410-2516",
+      "other": [
+        {
+          "phone": "0120-251-2515",
+          "name": "Alternative"
+        },
+        {
+          "phone": "0120-251-2516",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "placeId": "ChIJ2wzh1E7kDDkRAFZUKMbjJw0",
+    "cid": "947976686804424192",
+    "gname": "P.C. Chandra Jewellers, Noida",
+    "gcode": "7JWVH8CF+5J"
+  },
+  {
+    "name": "Patna Showroom",
+    "key": "patna-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccpatna@pcchandraindia.com"
+    },
+    "street": "New Dak Bunglow Rd, near Dak Bungalow Chauraha, Old Jakkanpur, Fraser Road Area",
+    "city": "Patna",
+    "region": "Bihar",
+    "pin": 800001,
+    "lat": 25.610021,
+    "lon": 85.1380088,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "0612-2999526",
+      "other": [
+        {
+          "phone": "0612-2999326",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 3.8,
+    "placeId": "ChIJ-xPpkPxZ7TkRBeugQJdWs7c",
+    "cid": "13237018937396357893",
+    "gname": "P.C. Chandra Jewellers, Patna",
+    "gcode": "7MQ7J46Q+26"
+  },
+  {
+    "name": "PCC Lites Showroom",
+    "key": "pcc-lites-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.net"
+    },
+    "street": "Ground Floor, Mani Square Mall, Kadapara, Phool Bagan, Kankurgachi",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700054,
+    "lat": 22.5776666,
+    "lon": 88.4011704,
+    "schedule": {
+      "default": {
+        "open": [11, 30],
+        "close": [20, 0]
+      },
+      "exceptions": {
+        "sat": {
+          "open": [11, 30],
+          "close": [20, 30]
+        },
+        "sun": {
+          "open": [11, 30],
+          "close": [20, 30]
+        }
+      }
+    },
+    "phone": {
+      "primary": "033-40172660"
+    },
+    "rating": 4.8,
+    "placeId": "ChIJq6Cs3bl3AjoRZe25dbcgcdM",
+    "cid": "15235994986697321829",
+    "gname": "PCC Lites by P. C. Chandra Jewellers, Mani Square",
+    "gcode": "7MJCHCH2+3F"
+  },
+  {
+    "name": "Pune Showroom",
+    "key": "pune-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccpune@pcchandraindia.com"
+    },
+    "street": "364, Laxmi Rd, opp. GOKHALE HALL, Narayan Peth",
+    "city": "Pune",
+    "region": "Maharashtra",
+    "pin": 411030,
+    "lat": 18.514304,
+    "lon": 73.849464,
+    "schedule": {
+      "default": {
+        "open": [11, 30],
+        "close": [20, 30]
+      },
+      "exceptions": {
+        "mon": {
+          "open": [11, 0],
+          "close": [20, 0]
+        },
+        "sat": {
+          "open": [11, 30],
+          "close": [21, 0]
+        },
+        "sun": {
+          "open": [11, 30],
+          "close": [21, 0]
+        }
+      }
+    },
+    "phone": {
+      "primary": "9748777224"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJZTZD5_TBwjsRxZCUdlsTY-c",
+    "cid": "16673191529008107717",
+    "gname": "P. C. Chandra Jewellers, Pune",
+    "gcode": "7JCMGR7X+PQ"
+  },
+  {
+    "name": "Purulia Showroom",
+    "key": "purulia-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccpurulia@pcchandraindia.com"
+    },
+    "street": "Raghabpur More, Deshbandhu Rd",
+    "city": "Purulia",
+    "region": "West Bengal",
+    "pin": 723101,
+    "lat": 23.3434706,
+    "lon": 86.3596841,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      }
+    },
+    "phone": {
+      "primary": "9230772816"
+    },
+    "rating": 4.2,
+    "placeId": "ChIJ90rl9mCH9jkRCXoffo-QFlM",
+    "cid": "5987131700606368265",
+    "gname": "P. C. Chandra Jewellers, Purulia",
+    "gcode": "7MM889V5+9V"
+  },
+  {
+    "name": "Raiganj Showroom",
+    "key": "raiganj-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccraiganjac@gmail.com"
+    },
+    "street": "P.K. Bose Market Complex, 135, 638, M G Rd., East Netaji Pally",
+    "city": "Raiganj",
+    "region": "West Bengal",
+    "pin": 733134,
+    "lat": 25.6156205,
+    "lon": 88.12681339,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "03523-244076",
+      "other": [
+        {
+          "phone": "91-8001440825",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.2,
+    "placeId": "ChIJacXx4C_V-jkRhlgOkOrn_xs",
+    "cid": "2017586152710494342",
+    "gname": "P. C. Chandra Jewellers, Raiganj",
+    "gcode": "7MQCJ48G+6P"
+  },
+  {
+    "name": "Rampurhat Showroom",
+    "key": "rampurhat-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc@vsnl.com"
+    },
+    "street": "Kabi Chandidas Rd, Railway Colony",
+    "city": "Birbhum",
+    "region": "West Bengal",
+    "pin": 731224,
+    "lat": 24.1859987,
+    "lon": 87.7823264,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "8116059868"
+    },
+    "rating": 4.6,
+    "placeId": "ChIJEzc8B1Qf-jkR2iJUSkQ5bwo",
+    "cid": "751882628261749466",
+    "gname": "PC Chandra Jewellers, Rampurhat",
+    "gcode": "7MP95QPJ+9W"
+  },
+  {
+    "name": "Ranchi Showroom",
+    "key": "ranchi-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccranchi@pcchandraindia.com"
+    },
+    "street": "1353, Kutchery Rd, opposite Ranchi University, Deputy Para, Main Gate",
+    "city": "Ranchi",
+    "region": "Jharkhand",
+    "pin": 834001,
+    "lat": 23.3725624,
+    "lon": 85.3234842,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "6512223004"
+    },
+    "rating": 4.3,
+    "placeId": "ChIJx8r3B2fh9DkR1Muy99dxGZQ",
+    "cid": "10671685964418698196",
+    "gname": "P.C.Chandra Jewellers, Ranchi",
+    "gcode": "7MM798FF+29"
+  },
+  {
+    "name": "Serampore Showroom",
+    "key": "serampore-showroom",
+    "status": 1,
+    "email": {
+      "primary": "goldlites@gmail.com"
+    },
+    "street": "40, BP Dey St",
+    "city": "Hooghly",
+    "region": "West Bengal",
+    "pin": 712201,
+    "lat": 22.7524601,
+    "lon": 88.3424165,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "2652-6413",
+      "other": [
+        {
+          "phone": "2652-6414",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "placeId": "ChIJ0XYpCbmT-DkRtHt7EPb7d38",
+    "cid": "9185086999302470580",
+    "gname": "P.C. Chandra Jewellers, Serampore",
+    "gcode": "7MJCQ82R+XX"
+  },
+  {
+    "name": "Silchar Showroom",
+    "key": "silchar-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pccsilchar@pcchandraindia.com"
+    },
+    "street": "Holding no. 1005010231500560, Central Rd, near Oriental Talkies, Nazirpatty",
+    "city": "Silchar",
+    "region": "Assam",
+    "pin": 788001,
+    "lat": 24.8245061,
+    "lon": 92.8005007,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "6000501687"
+    },
+    "rating": 3.1,
+    "placeId": "ChIJPXpU-RNLTjcRT1XYXYBXLWU",
+    "cid": "7290579580624590159",
+    "gname": "P. C. Chandra Jewellers, Silchar",
+    "gcode": "7MPJRRF2+R6"
+  },
+  {
+    "name": "Siliguri Showroom",
+    "key": "siliguri-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc_slg@yahoo.com"
+    },
+    "street": "Rajani Centre, Hill Cart Rd, beside Meghdoot Cinema Hall, Ward 11, Hakim Para",
+    "city": "Darjeeling",
+    "region": "West Bengal",
+    "pin": 734001,
+    "lat": 26.7130727,
+    "lon": 88.4251098,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "8100714630"
+    },
+    "rating": 4.1,
+    "placeId": "ChIJF59Wk2tB5DkRmCMhTAFpan0",
+    "cid": "9037151056565445528",
+    "gname": "P. C. Chandra Jewellers, Siliguri",
+    "gcode": "7MRCPC7G+62"
+  },
+  {
+    "name": "Siuri Showroom",
+    "key": "siuri-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.siuri@pcchandraindia.com"
+    },
+    "street": "Holding No.532/783,Ward No.19, Rasoraj Complex Suri - Bolpur Road Dis",
+    "city": "Birbhum",
+    "region": "West Bengal",
+    "pin": 731101,
+    "lat": 23.9024026,
+    "lon": 87.5284483,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      }
+    },
+    "phone": {
+      "primary": "9674400928"
+    },
+    "rating": 4.2,
+    "placeId": "ChIJAQAAAGxY9zkRxFjNDu07Vis",
+    "cid": "3122749280969644228",
+    "gname": "P.C.Chandra Jewellers, Siuri",
+    "gcode": "7MM9WG2H+X9"
+  },
+  {
+    "name": "Sodepur Showroom",
+    "key": "sodepur-showroom",
+    "status": 1,
+    "email": {
+      "primary": "sodepur@pcchanraindia.com"
+    },
+    "street": "E/6, Sodepur Barasat Rd, H B Town, Sodepur",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700110,
+    "lat": 22.6969578,
+    "lon": 88.3907462,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2565-5251",
+      "other": [
+        {
+          "phone": "033-2565-5252",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJtdMovA-c-DkRA_wxvEhpqzc",
+    "cid": "4011415654219512835",
+    "gname": "P.C.Chandra Jewellers-Sodepur",
+    "gcode": "7MJCM9WR+Q7"
+  },
+  {
+    "name": "Tamluk Showroom",
+    "key": "tamluk-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcctamluk@gmail.com"
+    },
+    "street": "Parbatipur, 7WQG+J5J Rakshit More, near Bargabheema Temple",
+    "city": "Tamluk",
+    "region": "West Bengal",
+    "pin": 721636,
+    "lat": 22.2895377,
+    "lon": 87.9254131,
+    "schedule": {
+      "default": {
+        "open": [10, 30],
+        "close": [19, 0]
+      },
+      "exceptions": {
+        "sun": null
+      }
+    },
+    "phone": {
+      "primary": "03228-266525",
+      "other": [
+        {
+          "phone": "91-9800080575",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.1,
+    "placeId": "ChIJ_____2OUAjoRjpyBy6BupcY",
+    "cid": "14313968627555081358",
+    "gname": "P.C.Chandra Jewellers, Tamluk"
+  },
+  {
+    "name": "Ultadanga Showroom 1",
+    "key": "ultadanga-showroom-1",
+    "status": 1,
+    "email": {
+      "primary": "pccgems@vsnl.net"
+    },
+    "street": "P, 154A, Kazi Nazrul Islam Ave, CIT Scheme VII M, Dakshindari",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700054,
+    "lat": 22.5899843,
+    "lon": 88.3930738,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2355-4747",
+      "other": [
+        {
+          "phone": "033-2355-4748",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "placeId": "ChIJ84R8bA12AjoRos1CJ5IHpaQ",
+    "cid": "11863897117682748834",
+    "gname": "P.C. Chandra Jewellers, Ultadanga",
+    "gcode": "7MJCH9QV+X6"
+  },
+  {
+    "name": "Ultadanga Showroom 2",
+    "key": "ultadanga-showroom-2",
+    "status": 1,
+    "email": {
+      "primary": "pccgems@vsnl.net"
+    },
+    "street": "P.C.Chandra Gems Pvt.Ltd., P-157, Nazrul Islam Avenue, CIT Scheme VII-M",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700054,
+    "lat": 22.5898526,
+    "lon": 88.390342,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "033-2355-4747",
+      "other": [
+        {
+          "phone": "033-2355-4748",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "gmap": null
+  },
+  {
+    "name": "Uttarpara Showroom",
+    "key": "uttarpara-showroom",
+    "status": 1,
+    "email": {
+      "primary": "customercare@pcchandraindia.com"
+    },
+    "street": "87, Amarendra Sarani, Kotrung",
+    "city": "Hooghly",
+    "region": "West Bengal",
+    "pin": 712258,
+    "lat": 22.6595429,
+    "lon": 88.34975349,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      },
+      "exceptions": {
+        "thu": null
+      }
+    },
+    "phone": {
+      "primary": "033-2664 - 0087",
+      "other": [
+        {
+          "phone": "033-2664 - 0088",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.7,
+    "placeId": "ChIJ0_DpgLmd-DkR2GItdV3OW_c",
+    "cid": "17824066851042058968",
+    "gname": "P. C. Chandra Jewellers Uttarpara",
+    "gcode": "7MJCM85X+RW"
+  },
+  {
+    "name": "Tobin Road Showroom",
+    "key": "tobin-road-showroom",
+    "status": 1,
+    "email": {
+      "primary": ""
+    },
+    "street": "251, Barrackpore Trunk Rd, Joyshree, Baranagar",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "pin": 700036,
+    "lat": 22.638715,
+    "lon": 88.3779086,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [20, 30]
+      }
+    },
+    "phone": {
+      "primary": "91237 49088"
+    },
+    "rating": 4.9,
+    "placeId": "ChIJjb0pXvqd-DkRTyyiu5U30Ls",
+    "cid": "13533377996485962831",
+    "gname": "P. C. Chandra Jewellers, Tobin Road",
+    "gcode": "7MJCJ9QH+F5"
+  },
+  {
+    "name": "Guwahati Showroom",
+    "key": "guwahati-showroom",
+    "status": 1,
+    "email": {
+      "primary": "pcc.guwahati@pcchandraindia.com"
+    },
+    "street": "Boraj Arcade, GS Rd, South Sarania",
+    "city": "Lachit Nagar, Guwahati",
+    "region": "Assam",
+    "pin": 781007,
+    "lat": 26.1715424,
+    "lon": 91.760869,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [20, 0]
+      }
+    },
+    "phone": {
+      "primary": "6001771539",
+      "other": [
+        {
+          "phone": "0361-2914311",
+          "name": "Alternative"
+        },
+        {
+          "phone": "0361-2914275",
+          "name": "Alternative"
+        },
+        {
+          "phone": "0361-2914502",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "placeId": "ChIJIRAHsT1ZWjcRIIWMob6oXDQ",
+    "rating": 4,
+    "cid": "3773076124537226528",
+    "gname": "P. C. Chandra Jewellers, Guwahati"
+  },
+  {
+    "name": "Ranaghat Showrom",
+    "key": "ranaghat-showrom",
+    "status": 1,
+    "email": {
+      "primary": "pccranaghat@pccnahdraindia.com"
+    },
+    "street": "119, GNPC Rd",
+    "city": "Ranaghat",
+    "region": "West Bengal",
+    "pin": 741201,
+    "lat": 23.1692179,
+    "lon": 88.565041,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "8334826101",
+      "other": [
+        {
+          "phone": "91-3473450433",
+          "name": "Alternative"
+        }
+      ]
+    },
+    "rating": 4.9,
+    "placeId": "ChIJ8WJB7L_F-DkRAew5go-Fvtk",
+    "cid": "15690125003217038337",
+    "gname": "P C Chandra Jewellers, Ranaghat",
+    "gcode": "7MMC5H98+M2"
+  }
+]
