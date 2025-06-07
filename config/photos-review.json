@@ -5462,7 +5462,7 @@
       {
         "author_name": "Angshul Sana",
         "author_url": "108826795685585940084",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWih0wcxE55sM8XR4HDRp9grmZ3XhsC-r96eZ4WJSrgdDS5tkjjUg=s128-c0x00000000-cc-rp-mo-ba4",
+        "profile_photo_url": "a-/ALV-UjWih0wcxE55sM8XR4HDRp9grmZ3XhsC-r96eZ4WJSrgdDS5tkjjUg=s128-c0x00000000-cc-rp-mo-ba4",
         "rating": 5,
         "relative_time_description": "2 weeks ago",
         "text": "Nice place it's good to PC Chandra in basirhat",
@@ -5471,7 +5471,7 @@
       {
         "author_name": "Metamorphosis",
         "author_url": "118256897512335910257",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx-DCWUTygl-McGe_9IGNezBa0G5QTYjUEkVUS3ZXWFFbut1Y=s128-c0x00000000-cc-rp-mo-ba4",
+        "profile_photo_url": "a-/ALV-UjXx-DCWUTygl-McGe_9IGNezBa0G5QTYjUEkVUS3ZXWFFbut1Y=s128-c0x00000000-cc-rp-mo-ba4",
         "rating": 5,
         "relative_time_description": "a month ago",
         "text": "New brunch will open soon in Basirhat.",
@@ -5480,7 +5480,7 @@
       {
         "author_name": "Poushali Das Poddar",
         "author_url": "104304536794052654702",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdrPZsTmydTH9EkIOaroeoLrNuHI4rmdULza810SjSmYE1pw=s128-c0x00000000-cc-rp-mo",
+        "profile_photo_url": "a/ACg8ocKdrPZsTmydTH9EkIOaroeoLrNuHI4rmdULza810SjSmYE1pw=s128-c0x00000000-cc-rp-mo",
         "rating": 5,
         "relative_time_description": "a month ago",
         "text": "Store opening date plz",
@@ -5489,7 +5489,7 @@
       {
         "author_name": "Raju Das",
         "author_url": "111918348982536627738",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0-dt8tc3m8eP5d4Z9saZU3IYHHRcs8EMHc__zzxY_BeK4b5DFhA=s128-c0x00000000-cc-rp-mo-ba2",
+        "profile_photo_url": "a-/ALV-UjV0-dt8tc3m8eP5d4Z9saZU3IYHHRcs8EMHc__zzxY_BeK4b5DFhA=s128-c0x00000000-cc-rp-mo-ba2",
         "rating": 5,
         "relative_time_description": "3 weeks ago",
         "text": "Good quality product",
@@ -5498,7 +5498,7 @@
       {
         "author_name": "achyutananda pal",
         "author_url": "102896557206894847746",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9bSIiR8-zxpeiusYtcvTIizE9IXLj2akyBHZqME2y8E5PSI-7=s128-c0x00000000-cc-rp-mo",
+        "profile_photo_url": "a-/ALV-UjX9bSIiR8-zxpeiusYtcvTIizE9IXLj2akyBHZqME2y8E5PSI-7=s128-c0x00000000-cc-rp-mo",
         "rating": 4,
         "relative_time_description": "7 years ago",
         "text": "Well service & good store",
@@ -5510,33 +5510,28 @@
     "photos": [
       {
         "i": 1,
-        "h": 773,
-        "w": 580
+        "w": 773,
+        "h": 580
       },
       {
         "i": 2,
-        "h": 872,
-        "w": 580
+        "w": 872,
+        "h": 580
       },
       {
         "i": 3,
-        "h": 2048,
-        "w": 1536
+        "w": 2048,
+        "h": 1536
       },
       {
         "i": 4,
-        "h": 2048,
-        "w": 1536
+        "w": 2048,
+        "h": 1536
       },
       {
         "i": 5,
-        "h": 773,
-        "w": 580
-      },
-      {
-        "i": 6,
-        "h": 357,
-        "w": 800
+        "w": 773,
+        "h": 580
       }
     ]
   }
