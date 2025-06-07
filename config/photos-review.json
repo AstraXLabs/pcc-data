@@ -5456,5 +5456,88 @@
         "w": 800
       }
     ]
+  },
+  "basirhat-showrom": {
+    "reviews": [
+      {
+        "author_name": "Angshul Sana",
+        "author_url": "108826795685585940084",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWih0wcxE55sM8XR4HDRp9grmZ3XhsC-r96eZ4WJSrgdDS5tkjjUg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Nice place it's good to PC Chandra in basirhat",
+        "time": 1748016278
+      },
+      {
+        "author_name": "Metamorphosis",
+        "author_url": "118256897512335910257",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx-DCWUTygl-McGe_9IGNezBa0G5QTYjUEkVUS3ZXWFFbut1Y=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "New brunch will open soon in Basirhat.",
+        "time": 1744873914
+      },
+      {
+        "author_name": "Poushali Das Poddar",
+        "author_url": "104304536794052654702",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdrPZsTmydTH9EkIOaroeoLrNuHI4rmdULza810SjSmYE1pw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Store opening date plz",
+        "time": 1745672733
+      },
+      {
+        "author_name": "Raju Das",
+        "author_url": "111918348982536627738",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0-dt8tc3m8eP5d4Z9saZU3IYHHRcs8EMHc__zzxY_BeK4b5DFhA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good quality product",
+        "time": 1747366749
+      },
+      {
+        "author_name": "achyutananda pal",
+        "author_url": "102896557206894847746",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9bSIiR8-zxpeiusYtcvTIizE9IXLj2akyBHZqME2y8E5PSI-7=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Well service & good store",
+        "time": 1507134732
+      }
+    ],
+    "user_ratings_total": 19,
+    "rating": 4.1,
+    "photos": [
+      {
+        "i": 1,
+        "h": 773,
+        "w": 580
+      },
+      {
+        "i": 2,
+        "h": 872,
+        "w": 580
+      },
+      {
+        "i": 3,
+        "h": 2048,
+        "w": 1536
+      },
+      {
+        "i": 4,
+        "h": 2048,
+        "w": 1536
+      },
+      {
+        "i": 5,
+        "h": 773,
+        "w": 580
+      },
+      {
+        "i": 6,
+        "h": 357,
+        "w": 800
+      }
+    ]
   }
 }

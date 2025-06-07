@@ -32,7 +32,10 @@
     "placeId": "ChIJY3MoK1SFXjkRFgytSOZ5_BQ",
     "cid": "1512217604858383382",
     "gname": "P. C. Chandra Jewellers Ahmedabad",
-    "gcode": "7JMJ2HH4+JQ"
+    "gcode": "7JMJ2HH4+JQ",
+    "lang": ["bn", "en", "gj", "hn"],
+    "park": "valet",
+    "astro": false
   },
   {
     "name": "Agartala Showroom",
@@ -60,7 +63,10 @@
     "placeId": "ChIJ_x99A_fzUzcRBblGSUAGVlU",
     "cid": "6149109214398036229",
     "gname": "P.C.Chandra Jewellers, Agartala",
-    "gcode": "7MMHR7HG+G7"
+    "gcode": "7MMHR7HG+G7",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Arambagh Showroom",
@@ -97,7 +103,10 @@
     "placeId": "ChIJRVlQ6n0T-DkRc2kIkd9gapg",
     "cid": "10982697154623596915",
     "gname": "P.C. Chandra Jewellers Arambagh",
-    "gcode": "7MJ9VQJQ+XC"
+    "gcode": "7MJ9VQJQ+XC",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
   },
   {
     "name": "Asansol Showroom",
@@ -131,7 +140,10 @@
     "placeId": "ChIJpWDo58If9zkR1Aj5IUI7ZKA",
     "cid": "11557427698963384532",
     "gname": "P. C. Chandra Jewellers, Asansol",
-    "gcode": "7MM8MXJV+55"
+    "gcode": "7MM8MXJV+55",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Girish Park Showroom",
@@ -159,7 +171,10 @@
     "placeId": "ChIJ69B08tJ3AjoREGFnPBEubT0",
     "cid": "4426244660337795344",
     "gname": "P.C.Chandra Jewellers, Vivekananda Road",
-    "gcode": "7MJCH9P7+GV"
+    "gcode": "7MJCH9P7+GV",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Balurghat Showroom",
@@ -187,7 +202,10 @@
     "placeId": "ChIJ24m1cdFh-zkRGVCebrS9BFQ",
     "cid": "6054172381740421145",
     "gname": "P C Chandra Jewellers, Balurghat",
-    "gcode": "7MQC6QFJ+QF"
+    "gcode": "7MQC6QFJ+QF",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Bankura Showroom",
@@ -215,7 +233,10 @@
     "placeId": "ChIJ59rmR0Sv9zkRXLM6e3iYZ14",
     "cid": "6802573405397365596",
     "gname": "P.C. Chandra Jewellers Bankura",
-    "gcode": "7MM962VX+GF"
+    "gcode": "7MM962VX+GF",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Barasat Showroom",
@@ -252,7 +273,10 @@
     "placeId": "ChIJ1czIo6uY-DkR_UrLAOAmm6U",
     "cid": "11933174381176113917",
     "gname": "P C Chandra Jewellers-Barasat (WB)",
-    "gcode": "7MJCPF6G+J8"
+    "gcode": "7MJCPF6G+J8",
+    "lang": ["bn", "en", "hn"],
+    "park": "valet",
+    "astro": true
   },
   {
     "name": "Barrackpore Showroom",
@@ -289,7 +313,10 @@
     "placeId": "ChIJ_Y7m-_qb-DkRvHAiNApeurg",
     "cid": "13311055046564278460",
     "gname": "P.C.Chandra Jewellers, Barrackpore",
-    "gcode": "7MJCQ968+JQ"
+    "gcode": "7MJCQ968+JQ",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Baruipur Showroom",
@@ -326,7 +353,10 @@
     "placeId": "ChIJOfMclFpsAjoRzEHYgUynh84",
     "cid": "14882047440706879948",
     "gname": "P.C. Chandra Jewellers, Baruipur",
-    "gcode": "7MJC9C6J+8W"
+    "gcode": "7MJC9C6J+8W",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Behala Showroom",
@@ -357,7 +387,10 @@
     "placeId": "ChIJQVVVVQl6AjoRs86sI2PSTI8",
     "cid": "10325859368895827635",
     "gname": "P. C. Chandra Jewellers, Behala",
-    "gcode": "7MJCG839+RP"
+    "gcode": "7MJCG839+RP",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Bengaluru (Koramangala) Showroom",
@@ -394,7 +427,10 @@
     "placeId": "ChIJk4-Jv3UVrjsR1-GY82HWrFQ",
     "cid": "6101487311367234007",
     "gname": "P C Chandra Jewellers, Koramangala",
-    "gcode": "7J4VWJPF+8W"
+    "gcode": "7J4VWJPF+8W",
+    "lang": ["en", "hn", "kn"],
+    "park": "valet",
+    "astro": true
   },
   {
     "name": "Bengaluru (Ulsoor) Showroom",
@@ -425,7 +461,10 @@
     "placeId": "ChIJtT58H_IXrjsRRj90IKGXyLo",
     "cid": "13459174204686745414",
     "gname": "P.C. Chandra Jewellers-Ulsoor",
-    "gcode": "7J4VXJG8+C3"
+    "gcode": "7J4VXJG8+C3",
+    "lang": ["en", "hn", "kn"],
+    "park": null,
+    "astro": false
   },
   {
     "name": "Berhampore Showroom",
@@ -460,7 +499,10 @@
     "placeId": "ChIJly81mNF9-TkRlf1Ffg_uyKQ",
     "cid": "11874002167872748949",
     "gname": "P. C. Chandra Jewellers, Berhampore",
-    "gcode": "7MPC37V3+JM"
+    "gcode": "7MPC37V3+JM",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Bhubaneswar Showroom",
@@ -491,7 +533,10 @@
     "placeId": "ChIJX1iDYFGnGToRkbiELLvY34s",
     "cid": "10079012789495838865",
     "gname": "P.C.Chandra Jewellers, Bhubaneswar",
-    "gcode": "7MG77RFV+M8"
+    "gcode": "7MG77RFV+M8",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
   },
   {
     "name": "Bishnupur Showroom",
@@ -525,7 +570,10 @@
     "placeId": "ChIJmcn4OBuT9zkRCJkrZ3XrUYA",
     "cid": "9246430399442950408",
     "gname": "P. C. Chandra Jewellers, Bishnupur",
-    "gcode": "7MM93875+4F"
+    "gcode": "7MM93875+4F",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Bowbazar Showroom",
@@ -563,7 +611,10 @@
     "placeId": "ChIJHTLCwK53AjoRFIA4ftfrxRc",
     "cid": "1713034544052469780",
     "gname": "P. C. Chandra Jewellers Bowbazar",
-    "gcode": "7MJCH998+4C"
+    "gcode": "7MJCH998+4C",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Bowbazar Showroom (GLOBAL)",
@@ -597,7 +648,10 @@
     "placeId": "ChIJHTLCwK53AjoRFIA4ftfrxRc",
     "cid": "1713034544052469780",
     "gname": "P. C. Chandra Jewellers Bowbazar",
-    "gcode": "7MJCH998+4C"
+    "gcode": "7MJCH998+4C",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Burdwan Showroom",
@@ -625,7 +679,10 @@
     "placeId": "ChIJPVVVVcFJ-DkRsoFEXjN7VuM",
     "cid": "16381416155161854386",
     "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
-    "gcode": "7MM96VR9+Q4"
+    "gcode": "7MM96VR9+Q4",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Chandannagar Showroom",
@@ -662,7 +719,10 @@
     "placeId": "ChIJcxXH9QaR-DkRetjM9R62pEc",
     "cid": "5162451316962547834",
     "gname": "P.C. Chandra Jewellers, Chandannagar",
-    "gcode": "7MJCV958+89"
+    "gcode": "7MJCV958+89",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
   },
   {
     "name": "Chowringhee (Diamond) Showroom",
@@ -700,7 +760,10 @@
     "placeId": "ChIJO12VRz53AjoRbTOiVlQsmIY",
     "cid": "9698550538284708717",
     "gname": "P.C.Chandra Jewellers, Chowringhee",
-    "gcode": "7MJCG8QW+FH"
+    "gcode": "7MJCG8QW+FH",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Chowringhee Showroom",
@@ -738,7 +801,10 @@
     "placeId": "ChIJO12VRz53AjoRbTOiVlQsmIY",
     "cid": "9698550538284708717",
     "gname": "P.C.Chandra Jewellers, Chowringhee",
-    "gcode": "7MJCG8QW+FH"
+    "gcode": "7MJCG8QW+FH",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Cooch Behar Showroom",
@@ -771,7 +837,10 @@
     "rating": 4.1,
     "placeId": "ChIJvc8FyIL-4jkRcsdimWPnNlA",
     "cid": "5780061586737776498",
-    "gname": "P. C. Chandra Jewellers, Cooch Behar"
+    "gname": "P. C. Chandra Jewellers, Cooch Behar",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Darjeeling Showroom",
@@ -805,7 +874,10 @@
     "placeId": "ChIJsVEaC0sv5DkRdt-n9SWz3_o",
     "cid": "18077364404905041782",
     "gname": "PCC Lites by P. C. Chandra Jewellers, Darjeeling",
-    "gcode": "7MVC27Q7+VW"
+    "gcode": "7MVC27Q7+VW",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": false
   },
   {
     "name": "Delhi Showroom",
@@ -833,7 +905,10 @@
     "placeId": "ChIJK7oD6NnjDDkRkX4_UgtVk3k",
     "cid": "8760439207278640785",
     "gname": "P.C.Chandra Jewellers, Delhi",
-    "gcode": "7JWVG7Q3+M2"
+    "gcode": "7JWVG7Q3+M2",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Durgapur 2nd Showroom",
@@ -861,7 +936,10 @@
     "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
     "cid": "5158784928054683809",
     "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
-    "gcode": "7MM9G7QV+8G"
+    "gcode": "7MM9G7QV+8G",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Durgapur Showroom",
@@ -889,7 +967,10 @@
     "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
     "cid": "5158784928054683809",
     "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
-    "gcode": "7MM9G7QV+8G"
+    "gcode": "7MM9G7QV+8G",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Garia Showroom",
@@ -923,7 +1004,10 @@
     "placeId": "ChIJcy9BFmBxAjoRDzyvypEI51I",
     "cid": "5973752852994014223",
     "gname": "P.C. Chandra Jewellers, Garia",
-    "gcode": "7MJCF9CG+3X"
+    "gcode": "7MJCF9CG+3X",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Gariahat 1 Showroom",
@@ -957,7 +1041,10 @@
     "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
-    "gcode": "7MJCG9F8+42"
+    "gcode": "7MJCG9F8+42",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Gariahat 2 Showroom",
@@ -991,7 +1078,10 @@
     "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
-    "gcode": "7MJCG9F8+42"
+    "gcode": "7MJCG9F8+42",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Golpark Showroom",
@@ -1029,7 +1119,10 @@
     "placeId": "ChIJ-6X4Tbt1AjoRoLazeqGre4w",
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
-    "gcode": "7MJCG9F8+42"
+    "gcode": "7MJCG9F8+42",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": false
   },
   {
     "name": "Habra Showroom",
@@ -1070,7 +1163,10 @@
     "placeId": "ChIJ_2_Rsxxy9zkRQcqbluLead8",
     "cid": "16098643407783316033",
     "gname": "P.C. Chandra Jewellers Durgapur (Benachity)",
-    "gcode": "7MM9H76G+3P"
+    "gcode": "7MM9H76G+3P",
+    "lang": ["bn", "en", "hn"],
+    "park": "valet, street",
+    "astro": true
   },
   {
     "name": "Hatibagan Showroom",
@@ -1104,7 +1200,10 @@
     "placeId": "ChIJ3dn9MTd2AjoRQI9DLyjp4v4",
     "cid": "18366498589171224384",
     "gname": "PC Chandra Jewellers Hatibagan",
-    "gcode": "7MJCH9VC+86"
+    "gcode": "7MJCH9VC+86",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Howrah Showroom",
@@ -1132,7 +1231,10 @@
     "placeId": "ChIJz8PMjI13AjoRs2jOUdIW7Ng",
     "cid": "15630893499267573939",
     "gname": "P.C.Chandra Jewellers, Howrah",
-    "gcode": "7MJCH8MM+67"
+    "gcode": "7MJCH8MM+67",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Jadavpur Showroom",
@@ -1160,7 +1262,10 @@
     "placeId": "ChIJJbKk3zFxAjoR5_9uZpzo9AE",
     "cid": "140993246786420711",
     "gname": "P.C. Chandra Jewellers Jadavpur",
-    "gcode": "7MJCF9PG+32"
+    "gcode": "7MJCF9PG+32",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Jamshedpur Showroom",
@@ -1202,7 +1307,10 @@
     "placeId": "ChIJwfbg5mXj9TkRgfm6iMCOQVE",
     "cid": "5855117948137175425",
     "gname": "P.C.Chandra Jewellers, Jamshedpur",
-    "gcode": "7MJ8Q5WM+5P"
+    "gcode": "7MJ8Q5WM+5P",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Kanchrapara Showroom",
@@ -1244,7 +1352,10 @@
     "placeId": "ChIJzR-dvDuV-DkR13TuascRUyg",
     "cid": "2905685732774278359",
     "gname": "P.C.Chandra Jewellers, Kanchrapara",
-    "gcode": "7MJCWCRW+XH"
+    "gcode": "7MJCWCRW+XH",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Katwa Showroom",
@@ -1272,7 +1383,10 @@
     "placeId": "ChIJPVVVVcFJ-DkRsoFEXjN7VuM",
     "cid": "16381416155161854386",
     "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
-    "gcode": "7MM96VR9+Q4"
+    "gcode": "7MM96VR9+Q4",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Krishnanagar Showroom",
@@ -1306,7 +1420,10 @@
     "placeId": "ChIJOaWSWjgg-TkR4Q1DfgNHpCo",
     "cid": "3072658926102318561",
     "gname": "P.C.Chandra Jewellers, Krishnanagar",
-    "gcode": "7MMCCF5W+CQ"
+    "gcode": "7MMCCF5W+CQ",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Madhyamgram Showroom",
@@ -1368,7 +1485,10 @@
     "placeId": "ChIJ19Q0pdv9-jkRVMUWQqt_vY4",
     "cid": "10285517497509004628",
     "gname": "P. C. Chandra Jewellers, Malda English Bazar",
-    "gcode": "7MPCX4WR+HV"
+    "gcode": "7MPCX4WR+HV",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Malda Kanir More Showroom",
@@ -1396,7 +1516,10 @@
     "placeId": "ChIJ4RlxlMv9-jkR2tGD8Nexd_I",
     "cid": "17471628820418384346",
     "gname": "P. C. Chandra Jewellers, Malda Kanir More",
-    "gcode": "7MQC246P+9F"
+    "gcode": "7MQC246P+9F",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Marathahalli Showroom",
@@ -1427,7 +1550,10 @@
     "placeId": "ChIJR0hJdlMTrjsRyNK7URBYzHE",
     "cid": "8200025848648815304",
     "gname": "P C Chandra Jewellers, Marathahalli",
-    "gcode": "7J4VXM4X+VW"
+    "gcode": "7J4VXM4X+VW",
+    "lang": ["en", "hn", "kn"],
+    "park": "valet",
+    "astro": true
   },
   {
     "name": "Midnapore Keranitala Showroom",
@@ -1462,7 +1588,10 @@
     "placeId": "ChIJe3S8JUZbHToRUKY30FhDnxc",
     "cid": "1702153232898827856",
     "gname": "P.C. Chandra Jewellers, Midnapore, Keranitala",
-    "gcode": "7MJ9C8C7+G7"
+    "gcode": "7MJ9C8C7+G7",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Midnapore Sahabharang Bazar Showroom",
@@ -1497,7 +1626,10 @@
     "placeId": "ChIJuYCv9jNbHToRI7XJtCq9n2s",
     "cid": "7755125074474677539",
     "gname": "P.C. Chandra Jewellers, Midnapore, Sahabharang Bazar",
-    "gcode": "7MJ9C86G+RM"
+    "gcode": "7MJ9C86G+RM",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Mumbai (Bandra) Showroom",
@@ -1536,7 +1668,10 @@
     "placeId": "ChIJiZIBSBbJ5zsRfnS5-sZEbKU",
     "cid": "11919977935143531646",
     "gname": "P.C. Chandra Jewellers, Bandra",
-    "gcode": "7JFJ3R5P+RC"
+    "gcode": "7JFJ3R5P+RC",
+    "lang": ["bn", "en", "hn", "mr"],
+    "park": "valet",
+    "astro": true
   },
   {
     "name": "Mumbai (Vashi) Showroom",
@@ -1564,7 +1699,10 @@
     "placeId": "ChIJa8faqLjB5zsRupMRGKozz4w",
     "cid": "10146385291130278842",
     "gname": "P. C. Chandra Jewellers, Vashi",
-    "gcode": "7JFM32C2+QP"
+    "gcode": "7JFM32C2+QP",
+    "lang": ["bn", "en", "hn", "mr"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Nagerbazar Showroom",
@@ -1606,7 +1744,10 @@
     "placeId": "ChIJdcbyYXif-DkRnuPn5YuqzRs",
     "cid": "2003444927084094366",
     "gname": "PC Chandra Jewellers, Nagerbazar",
-    "gcode": "7MJCJCC6+XQ"
+    "gcode": "7MJCJCC6+XQ",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "New Town Showroom",
@@ -1640,7 +1781,10 @@
     "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
     "cid": "10170812850672638878",
     "gname": "P.C. Chandra Jewellers, Rajarhat",
-    "gcode": "7MJCJCFW+2Q"
+    "gcode": "7MJCJCFW+2Q",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Noida Showroom",
@@ -1684,7 +1828,10 @@
     "placeId": "ChIJ2wzh1E7kDDkRAFZUKMbjJw0",
     "cid": "947976686804424192",
     "gname": "P.C. Chandra Jewellers, Noida",
-    "gcode": "7JWVH8CF+5J"
+    "gcode": "7JWVH8CF+5J",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Patna Showroom",
@@ -1718,7 +1865,10 @@
     "placeId": "ChIJ-xPpkPxZ7TkRBeugQJdWs7c",
     "cid": "13237018937396357893",
     "gname": "P.C. Chandra Jewellers, Patna",
-    "gcode": "7MQ7J46Q+26"
+    "gcode": "7MQ7J46Q+26",
+    "lang": ["en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "PCC Lites Showroom",
@@ -1756,7 +1906,10 @@
     "placeId": "ChIJq6Cs3bl3AjoRZe25dbcgcdM",
     "cid": "15235994986697321829",
     "gname": "PCC Lites by P. C. Chandra Jewellers, Mani Square",
-    "gcode": "7MJCHCH2+3F"
+    "gcode": "7MJCHCH2+3F",
+    "lang": ["bn", "en", "hn"],
+    "park": "mall",
+    "astro": false
   },
   {
     "name": "Pune Showroom",
@@ -1798,7 +1951,10 @@
     "placeId": "ChIJZTZD5_TBwjsRxZCUdlsTY-c",
     "cid": "16673191529008107717",
     "gname": "P. C. Chandra Jewellers, Pune",
-    "gcode": "7JCMGR7X+PQ"
+    "gcode": "7JCMGR7X+PQ",
+    "lang": ["bn", "en", "hn", "mr"],
+    "park": "valet",
+    "astro": false
   },
   {
     "name": "Purulia Showroom",
@@ -1826,7 +1982,10 @@
     "placeId": "ChIJ90rl9mCH9jkRCXoffo-QFlM",
     "cid": "5987131700606368265",
     "gname": "P. C. Chandra Jewellers, Purulia",
-    "gcode": "7MM889V5+9V"
+    "gcode": "7MM889V5+9V",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Raiganj Showroom",
@@ -1860,7 +2019,10 @@
     "placeId": "ChIJacXx4C_V-jkRhlgOkOrn_xs",
     "cid": "2017586152710494342",
     "gname": "P. C. Chandra Jewellers, Raiganj",
-    "gcode": "7MQCJ48G+6P"
+    "gcode": "7MQCJ48G+6P",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": false
   },
   {
     "name": "Rampurhat Showroom",
@@ -1888,7 +2050,10 @@
     "placeId": "ChIJEzc8B1Qf-jkR2iJUSkQ5bwo",
     "cid": "751882628261749466",
     "gname": "PC Chandra Jewellers, Rampurhat",
-    "gcode": "7MP95QPJ+9W"
+    "gcode": "7MP95QPJ+9W",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Ranchi Showroom",
@@ -1916,7 +2081,10 @@
     "placeId": "ChIJx8r3B2fh9DkR1Muy99dxGZQ",
     "cid": "10671685964418698196",
     "gname": "P.C.Chandra Jewellers, Ranchi",
-    "gcode": "7MM798FF+29"
+    "gcode": "7MM798FF+29",
+    "lang": ["en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Serampore Showroom",
@@ -1953,7 +2121,10 @@
     "placeId": "ChIJ0XYpCbmT-DkRtHt7EPb7d38",
     "cid": "9185086999302470580",
     "gname": "P.C. Chandra Jewellers, Serampore",
-    "gcode": "7MJCQ82R+XX"
+    "gcode": "7MJCQ82R+XX",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Silchar Showroom",
@@ -1981,7 +2152,10 @@
     "placeId": "ChIJPXpU-RNLTjcRT1XYXYBXLWU",
     "cid": "7290579580624590159",
     "gname": "P. C. Chandra Jewellers, Silchar",
-    "gcode": "7MPJRRF2+R6"
+    "gcode": "7MPJRRF2+R6",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": false
   },
   {
     "name": "Siliguri Showroom",
@@ -2009,7 +2183,10 @@
     "placeId": "ChIJF59Wk2tB5DkRmCMhTAFpan0",
     "cid": "9037151056565445528",
     "gname": "P. C. Chandra Jewellers, Siliguri",
-    "gcode": "7MRCPC7G+62"
+    "gcode": "7MRCPC7G+62",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Siuri Showroom",
@@ -2037,7 +2214,10 @@
     "placeId": "ChIJAQAAAGxY9zkRxFjNDu07Vis",
     "cid": "3122749280969644228",
     "gname": "P.C.Chandra Jewellers, Siuri",
-    "gcode": "7MM9WG2H+X9"
+    "gcode": "7MM9WG2H+X9",
+    "lang": ["bn", "en", "hn"],
+    "park": null,
+    "astro": true
   },
   {
     "name": "Sodepur Showroom",
@@ -2071,7 +2251,10 @@
     "placeId": "ChIJtdMovA-c-DkRA_wxvEhpqzc",
     "cid": "4011415654219512835",
     "gname": "P.C.Chandra Jewellers-Sodepur",
-    "gcode": "7MJCM9WR+Q7"
+    "gcode": "7MJCM9WR+Q7",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Tamluk Showroom",
@@ -2107,7 +2290,10 @@
     "rating": 4.1,
     "placeId": "ChIJ_____2OUAjoRjpyBy6BupcY",
     "cid": "14313968627555081358",
-    "gname": "P.C.Chandra Jewellers, Tamluk"
+    "gname": "P.C.Chandra Jewellers, Tamluk",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Ultadanga Showroom 1",
@@ -2141,7 +2327,10 @@
     "placeId": "ChIJ84R8bA12AjoRos1CJ5IHpaQ",
     "cid": "11863897117682748834",
     "gname": "P.C. Chandra Jewellers, Ultadanga",
-    "gcode": "7MJCH9QV+X6"
+    "gcode": "7MJCH9QV+X6",
+    "lang": ["bn", "en", "hn"],
+    "park": "valet, street",
+    "astro": true
   },
   {
     "name": "Ultadanga Showroom 2",
@@ -2171,7 +2360,10 @@
         }
       ]
     },
-    "gmap": null
+    "gmap": null,
+    "lang": ["bn", "en", "hn"],
+    "park": "valet, street",
+    "astro": true
   },
   {
     "name": "Uttarpara Showroom",
@@ -2208,7 +2400,10 @@
     "placeId": "ChIJ0_DpgLmd-DkR2GItdV3OW_c",
     "cid": "17824066851042058968",
     "gname": "P. C. Chandra Jewellers Uttarpara",
-    "gcode": "7MJCM85X+RW"
+    "gcode": "7MJCM85X+RW",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": true
   },
   {
     "name": "Tobin Road Showroom",
@@ -2236,7 +2431,10 @@
     "placeId": "ChIJjb0pXvqd-DkRTyyiu5U30Ls",
     "cid": "13533377996485962831",
     "gname": "P. C. Chandra Jewellers, Tobin Road",
-    "gcode": "7MJCJ9QH+F5"
+    "gcode": "7MJCJ9QH+F5",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
   },
   {
     "name": "Guwahati Showroom",
@@ -2277,7 +2475,10 @@
     "placeId": "ChIJIRAHsT1ZWjcRIIWMob6oXDQ",
     "rating": 4,
     "cid": "3773076124537226528",
-    "gname": "P. C. Chandra Jewellers, Guwahati"
+    "gname": "P. C. Chandra Jewellers, Guwahati",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
   },
   {
     "name": "Ranaghat Showrom",
@@ -2311,6 +2512,37 @@
     "placeId": "ChIJ8WJB7L_F-DkRAew5go-Fvtk",
     "cid": "15690125003217038337",
     "gname": "P C Chandra Jewellers, Ranaghat",
-    "gcode": "7MMC5H98+M2"
+    "gcode": "7MMC5H98+M2",
+    "lang": ["bn", "en", "hn"],
+    "park": "street",
+    "astro": false
+  },
+  {
+    "name": "Basirhat Showrom",
+    "key": "basirhat-showrom",
+    "status": 1,
+    "email": {
+      "primary": "pccbasirhat@pcchandraindia.com"
+    },
+    "street": "MV79+3F3, Itinda Rd",
+    "city": "Basirhat",
+    "region": "West Bengal",
+    "pin": 743411,
+    "lat": 22.662619901078457,
+    "lon": 88.8686496019348,
+    "schedule": {
+      "default": {
+        "open": [11, 0],
+        "close": [19, 30]
+      }
+    },
+    "phone": {
+      "primary": "8918845849"
+    },
+    "rating": 4.1,
+    "placeId": "ChIJa2b0EwBX_zkRQbN6pEA_a-Y",
+    "cid": "16603433998101427009",
+    "gname": "P.C. Chandra Jewellers, Basirhat",
+    "gcode": "MV79+3F3"
   }
 ]
