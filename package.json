@@ -1,0 +1,25 @@
+{
+  "name": "pcc-data-repo",
+  "version": "1.0.0",
+  "description": "PCC Data Repository with Google Places API integration",
+  "main": "index.js",
+  "scripts": {
+    "fetch-places": "node scripts/fetch-new-raw-place.js",
+    "convert-reviews": "node scripts/convert-to-photos-review.js",
+    "update-reviews": "node scripts/update-photos-review.js",
+    "fetch-fresh-reviews": "node scripts/fetch-fresh-reviews.js",
+    "validate-reviews": "node scripts/validate-photos-review.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "google-places",
+    "api",
+    "data"
+  ],
+  "author": "",
+  "license": "ISC"
+} 
