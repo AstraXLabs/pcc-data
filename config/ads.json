@@ -4,7 +4,7 @@
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad1.jpg",
+        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad2.jpg",
         "altText": "Timeless Elegance - Gold Necklace Collection",
         "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
         "isActive": true,
@@ -12,7 +12,7 @@
       },
       {
         "id": "home_welcome_offer",
-        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad2.jpg",
+        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad1.jpg",
         "altText": "Welcome Offer - Special Discount",
         "linkUrl": "https://pcchandraindia.com/pages/discount-form",
         "isActive": true,
