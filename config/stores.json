@@ -1,10 +1,11 @@
 [
   {
-    "name": "Ahmedabad Showroom",
+    "name": "Ahmedabad Showroom LOLTEST",
     "key": "ahmedabad-showroom",
     "status": 1,
     "email": {
-      "primary": "goldlites.ahmedabad@gmail.com"
+      "primary": "goldlites.ahmedabad@gmail.com",
+      "other": []
     },
     "street": "Shree balaji heights, GF-07, Near IDBI bank, Bodyline, Chimanlal Girdharlal Rd, Char Rasta, C G, Ellisbridge",
     "city": "Ahmedabad",
@@ -14,26 +15,44 @@
     "lon": 72.55699129,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "mon": {
-          "open": [14, 0],
-          "close": [19, 30]
+          "open": [
+            14,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
         },
         "sun": null
       }
     },
     "phone": {
-      "primary": "9081253100"
+      "primary": "9081253100",
+      "other": []
     },
     "rating": 4.4,
     "placeId": "ChIJY3MoK1SFXjkRFgytSOZ5_BQ",
     "cid": "1512217604858383382",
     "gname": "P. C. Chandra Jewellers Ahmedabad",
     "gcode": "7JMJ2HH4+JQ",
-    "lang": ["bn", "en", "gj", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "gj",
+      "hn"
+    ],
     "park": "valet",
     "astro": false
   },
@@ -52,8 +71,14 @@
     "lon": 91.27572020000001,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [20, 0]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          20,
+          0
+        ]
       }
     },
     "phone": {
@@ -64,7 +89,11 @@
     "cid": "6149109214398036229",
     "gname": "P.C.Chandra Jewellers, Agartala",
     "gcode": "7MMHR7HG+G7",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -83,8 +112,14 @@
     "lon": 87.78858199,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "sun": null
@@ -104,7 +139,11 @@
     "cid": "10982697154623596915",
     "gname": "P.C. Chandra Jewellers Arambagh",
     "gcode": "7MJ9VQJQ+XC",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -123,8 +162,14 @@
     "lon": 86.99292179,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -141,7 +186,11 @@
     "cid": "11557427698963384532",
     "gname": "P. C. Chandra Jewellers, Asansol",
     "gcode": "7MM8MXJV+55",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -160,8 +209,14 @@
     "lon": 88.3646727,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -172,7 +227,11 @@
     "cid": "4426244660337795344",
     "gname": "P.C.Chandra Jewellers, Vivekananda Road",
     "gcode": "7MJCH9P7+GV",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -191,8 +250,14 @@
     "lon": 88.781167,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -203,7 +268,11 @@
     "cid": "6054172381740421145",
     "gname": "P C Chandra Jewellers, Balurghat",
     "gcode": "7MQC6QFJ+QF",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -222,8 +291,14 @@
     "lon": 87.04869269,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       }
     },
     "phone": {
@@ -234,7 +309,11 @@
     "cid": "6802573405397365596",
     "gname": "P.C. Chandra Jewellers Bankura",
     "gcode": "7MM962VX+GF",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -253,8 +332,14 @@
     "lon": 88.47576649,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "sun": null
@@ -274,7 +359,11 @@
     "cid": "11933174381176113917",
     "gname": "P C Chandra Jewellers-Barasat (WB)",
     "gcode": "7MJCPF6G+J8",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "valet",
     "astro": true
   },
@@ -293,8 +382,14 @@
     "lon": 88.3669484,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "sun": null
@@ -314,7 +409,11 @@
     "cid": "13311055046564278460",
     "gname": "P.C.Chandra Jewellers, Barrackpore",
     "gcode": "7MJCQ968+JQ",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -333,8 +432,14 @@
     "lon": 88.43227429,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "sun": null
@@ -354,7 +459,11 @@
     "cid": "14882047440706879948",
     "gname": "P.C. Chandra Jewellers, Baruipur",
     "gcode": "7MJC9C6J+8W",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -373,8 +482,14 @@
     "lon": 88.3193149,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "sun": null
@@ -388,7 +503,11 @@
     "cid": "10325859368895827635",
     "gname": "P. C. Chandra Jewellers, Behala",
     "gcode": "7MJCG839+RP",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -407,8 +526,14 @@
     "lon": 77.6247716,
     "schedule": {
       "default": {
-        "open": [10, 0],
-        "close": [19, 30]
+        "open": [
+          10,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "mon": null
@@ -428,7 +553,11 @@
     "cid": "6101487311367234007",
     "gname": "P C Chandra Jewellers, Koramangala",
     "gcode": "7J4VWJPF+8W",
-    "lang": ["en", "hn", "kn"],
+    "lang": [
+      "en",
+      "hn",
+      "kn"
+    ],
     "park": "valet",
     "astro": true
   },
@@ -447,8 +576,14 @@
     "lon": 77.6151793,
     "schedule": {
       "default": {
-        "open": [10, 0],
-        "close": [19, 30]
+        "open": [
+          10,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "tue": null
@@ -462,7 +597,11 @@
     "cid": "13459174204686745414",
     "gname": "P.C. Chandra Jewellers-Ulsoor",
     "gcode": "7J4VXJG8+C3",
-    "lang": ["en", "hn", "kn"],
+    "lang": [
+      "en",
+      "hn",
+      "kn"
+    ],
     "park": null,
     "astro": false
   },
@@ -481,13 +620,25 @@
     "lon": 88.2541713,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       },
       "exceptions": {
         "mon": {
-          "open": [10, 30],
-          "close": [16, 0]
+          "open": [
+            10,
+            30
+          ],
+          "close": [
+            16,
+            0
+          ]
         },
         "tue": null
       }
@@ -500,7 +651,11 @@
     "cid": "11874002167872748949",
     "gname": "P. C. Chandra Jewellers, Berhampore",
     "gcode": "7MPC37V3+JM",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -519,8 +674,14 @@
     "lon": 85.8432629,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null
@@ -534,7 +695,11 @@
     "cid": "10079012789495838865",
     "gname": "P.C.Chandra Jewellers, Bhubaneswar",
     "gcode": "7MG77RFV+M8",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -553,8 +718,14 @@
     "lon": 87.3086994,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       }
     },
     "phone": {
@@ -571,7 +742,11 @@
     "cid": "9246430399442950408",
     "gname": "P. C. Chandra Jewellers, Bishnupur",
     "gcode": "7MM93875+4F",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -590,8 +765,14 @@
     "lon": 88.3660536,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -612,7 +793,11 @@
     "cid": "1713034544052469780",
     "gname": "P. C. Chandra Jewellers Bowbazar",
     "gcode": "7MJCH998+4C",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -631,8 +816,14 @@
     "lon": 88.3660536,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -649,7 +840,11 @@
     "cid": "1713034544052469780",
     "gname": "P. C. Chandra Jewellers Bowbazar",
     "gcode": "7MJCH998+4C",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -668,8 +863,14 @@
     "lon": 87.867853,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -680,7 +881,11 @@
     "cid": "16381416155161854386",
     "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
     "gcode": "7MM96VR9+Q4",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -699,8 +904,14 @@
     "lon": 88.36596109,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null
@@ -720,7 +931,11 @@
     "cid": "5162451316962547834",
     "gname": "P.C. Chandra Jewellers, Chandannagar",
     "gcode": "7MJCV958+89",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -739,8 +954,14 @@
     "lon": 88.346488,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -761,7 +982,11 @@
     "cid": "9698550538284708717",
     "gname": "P.C.Chandra Jewellers, Chowringhee",
     "gcode": "7MJCG8QW+FH",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -780,8 +1005,14 @@
     "lon": 88.346488,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -802,7 +1033,11 @@
     "cid": "9698550538284708717",
     "gname": "P.C.Chandra Jewellers, Chowringhee",
     "gcode": "7MJCG8QW+FH",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -821,8 +1056,14 @@
     "lon": 89.4453715,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -838,7 +1079,11 @@
     "placeId": "ChIJvc8FyIL-4jkRcsdimWPnNlA",
     "cid": "5780061586737776498",
     "gname": "P. C. Chandra Jewellers, Cooch Behar",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -857,8 +1102,14 @@
     "lon": 88.2648478,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       }
     },
     "phone": {
@@ -875,7 +1126,11 @@
     "cid": "18077364404905041782",
     "gname": "PCC Lites by P. C. Chandra Jewellers, Darjeeling",
     "gcode": "7MVC27Q7+VW",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": false
   },
@@ -894,8 +1149,14 @@
     "lon": 77.25256019,
     "schedule": {
       "default": {
-        "open": [11, 30],
-        "close": [19, 30]
+        "open": [
+          11,
+          30
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -906,7 +1167,11 @@
     "cid": "8760439207278640785",
     "gname": "P.C.Chandra Jewellers, Delhi",
     "gcode": "7JWVG7Q3+M2",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -925,8 +1190,14 @@
     "lon": 87.2938593,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -937,7 +1208,11 @@
     "cid": "5158784928054683809",
     "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
     "gcode": "7MM9G7QV+8G",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -956,8 +1231,14 @@
     "lon": 87.2938593,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -968,7 +1249,11 @@
     "cid": "5158784928054683809",
     "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
     "gcode": "7MM9G7QV+8G",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -987,8 +1272,14 @@
     "lon": 88.3774248,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1005,7 +1296,11 @@
     "cid": "5973752852994014223",
     "gname": "P.C. Chandra Jewellers, Garia",
     "gcode": "7MJCF9CG+3X",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1024,8 +1319,14 @@
     "lon": 88.3650071,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1042,7 +1343,11 @@
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
     "gcode": "7MJCG9F8+42",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1061,8 +1366,14 @@
     "lon": 88.3650071,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1079,7 +1390,11 @@
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
     "gcode": "7MJCG9F8+42",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1098,8 +1413,14 @@
     "lon": 88.3650071,
     "schedule": {
       "default": {
-        "open": [12, 0],
-        "close": [15, 0]
+        "open": [
+          12,
+          0
+        ],
+        "close": [
+          15,
+          0
+        ]
       },
       "exceptions": {
         "sat": null,
@@ -1120,7 +1441,11 @@
     "cid": "10122873297482004128",
     "gname": "P.C.Chandra Jewellers, Gariahat",
     "gcode": "7MJCG9F8+42",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": false
   },
@@ -1139,8 +1464,14 @@
     "lon": 87.2768007,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null
@@ -1164,7 +1495,11 @@
     "cid": "16098643407783316033",
     "gname": "P.C. Chandra Jewellers Durgapur (Benachity)",
     "gcode": "7MM9H76G+3P",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "valet, street",
     "astro": true
   },
@@ -1183,8 +1518,14 @@
     "lon": 88.3705349,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1201,7 +1542,11 @@
     "cid": "18366498589171224384",
     "gname": "PC Chandra Jewellers Hatibagan",
     "gcode": "7MJCH9VC+86",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1220,8 +1565,14 @@
     "lon": 88.3331305,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1232,7 +1583,11 @@
     "cid": "15630893499267573939",
     "gname": "P.C.Chandra Jewellers, Howrah",
     "gcode": "7MJCH8MM+67",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1251,8 +1606,14 @@
     "lon": 88.3750112,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1263,7 +1624,11 @@
     "cid": "140993246786420711",
     "gname": "P.C. Chandra Jewellers Jadavpur",
     "gcode": "7MJCF9PG+32",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1282,8 +1647,14 @@
     "lon": 86.18433499,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1308,7 +1679,11 @@
     "cid": "5855117948137175425",
     "gname": "P.C.Chandra Jewellers, Jamshedpur",
     "gcode": "7MJ8Q5WM+5P",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1327,8 +1702,14 @@
     "lon": 88.4464484,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1353,7 +1734,11 @@
     "cid": "2905685732774278359",
     "gname": "P.C.Chandra Jewellers, Kanchrapara",
     "gcode": "7MJCWCRW+XH",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1372,8 +1757,14 @@
     "lon": 87.867853,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1384,7 +1775,11 @@
     "cid": "16381416155161854386",
     "gname": "P.C.Chandra Jewellers, Burdwan (WB)",
     "gcode": "7MM96VR9+Q4",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1403,8 +1798,14 @@
     "lon": 88.49695679,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1421,7 +1822,11 @@
     "cid": "3072658926102318561",
     "gname": "P.C.Chandra Jewellers, Krishnanagar",
     "gcode": "7MMCCF5W+CQ",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1440,8 +1845,14 @@
     "lon": 88.46323609,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1474,8 +1885,14 @@
     "lon": 88.1422135,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1486,7 +1903,11 @@
     "cid": "10285517497509004628",
     "gname": "P. C. Chandra Jewellers, Malda English Bazar",
     "gcode": "7MPCX4WR+HV",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1505,8 +1926,14 @@
     "lon": 88.1361656,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1517,7 +1944,11 @@
     "cid": "17471628820418384346",
     "gname": "P. C. Chandra Jewellers, Malda Kanir More",
     "gcode": "7MQC246P+9F",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1536,8 +1967,14 @@
     "lon": 77.6998036,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [20, 0]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          20,
+          0
+        ]
       },
       "exceptions": {
         "mon": null
@@ -1551,7 +1988,11 @@
     "cid": "8200025848648815304",
     "gname": "P C Chandra Jewellers, Marathahalli",
     "gcode": "7J4VXM4X+VW",
-    "lang": ["en", "hn", "kn"],
+    "lang": [
+      "en",
+      "hn",
+      "kn"
+    ],
     "park": "valet",
     "astro": true
   },
@@ -1570,13 +2011,25 @@
     "lon": 87.31314739,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       },
       "exceptions": {
         "wed": {
-          "open": [10, 30],
-          "close": [16, 0]
+          "open": [
+            10,
+            30
+          ],
+          "close": [
+            16,
+            0
+          ]
         },
         "thu": null
       }
@@ -1589,7 +2042,11 @@
     "cid": "1702153232898827856",
     "gname": "P.C. Chandra Jewellers, Midnapore, Keranitala",
     "gcode": "7MJ9C8C7+G7",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1608,13 +2065,25 @@
     "lon": 87.32671180000001,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       },
       "exceptions": {
         "wed": {
-          "open": [10, 30],
-          "close": [16, 0]
+          "open": [
+            10,
+            30
+          ],
+          "close": [
+            16,
+            0
+          ]
         },
         "thu": null
       }
@@ -1627,7 +2096,11 @@
     "cid": "7755125074474677539",
     "gname": "P.C. Chandra Jewellers, Midnapore, Sahabharang Bazar",
     "gcode": "7MJ9C86G+RM",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1646,18 +2119,36 @@
     "lon": 72.8360718,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null,
         "sat": {
-          "open": [11, 0],
-          "close": [20, 0]
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            20,
+            0
+          ]
         },
         "sun": {
-          "open": [11, 0],
-          "close": [20, 0]
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            20,
+            0
+          ]
         }
       }
     },
@@ -1669,7 +2160,12 @@
     "cid": "11919977935143531646",
     "gname": "P.C. Chandra Jewellers, Bandra",
     "gcode": "7JFJ3R5P+RC",
-    "lang": ["bn", "en", "hn", "mr"],
+    "lang": [
+      "bn",
+      "en",
+      "hn",
+      "mr"
+    ],
     "park": "valet",
     "astro": true
   },
@@ -1688,8 +2184,14 @@
     "lon": 73.0018061,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1700,7 +2202,12 @@
     "cid": "10146385291130278842",
     "gname": "P. C. Chandra Jewellers, Vashi",
     "gcode": "7JFM32C2+QP",
-    "lang": ["bn", "en", "hn", "mr"],
+    "lang": [
+      "bn",
+      "en",
+      "hn",
+      "mr"
+    ],
     "park": null,
     "astro": true
   },
@@ -1719,8 +2226,14 @@
     "lon": 88.4119551,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1745,7 +2258,11 @@
     "cid": "2003444927084094366",
     "gname": "PC Chandra Jewellers, Nagerbazar",
     "gcode": "7MJCJCC6+XQ",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1764,8 +2281,14 @@
     "lon": 88.4469836,
     "schedule": {
       "default": {
-        "open": [12, 0],
-        "close": [15, 0]
+        "open": [
+          12,
+          0
+        ],
+        "close": [
+          15,
+          0
+        ]
       }
     },
     "phone": {
@@ -1782,7 +2305,11 @@
     "cid": "10170812850672638878",
     "gname": "P.C. Chandra Jewellers, Rajarhat",
     "gcode": "7MJCJCFW+2Q",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1801,13 +2328,25 @@
     "lon": 77.324085,
     "schedule": {
       "default": {
-        "open": [11, 30],
-        "close": [20, 0]
+        "open": [
+          11,
+          30
+        ],
+        "close": [
+          20,
+          0
+        ]
       },
       "exceptions": {
         "mon": {
-          "open": [2, 0],
-          "close": [20, 0]
+          "open": [
+            2,
+            0
+          ],
+          "close": [
+            20,
+            0
+          ]
         }
       }
     },
@@ -1829,7 +2368,11 @@
     "cid": "947976686804424192",
     "gname": "P.C. Chandra Jewellers, Noida",
     "gcode": "7JWVH8CF+5J",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -1848,8 +2391,14 @@
     "lon": 85.1380088,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -1866,7 +2415,10 @@
     "cid": "13237018937396357893",
     "gname": "P.C. Chandra Jewellers, Patna",
     "gcode": "7MQ7J46Q+26",
-    "lang": ["en", "hn"],
+    "lang": [
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -1885,17 +2437,35 @@
     "lon": 88.4011704,
     "schedule": {
       "default": {
-        "open": [11, 30],
-        "close": [20, 0]
+        "open": [
+          11,
+          30
+        ],
+        "close": [
+          20,
+          0
+        ]
       },
       "exceptions": {
         "sat": {
-          "open": [11, 30],
-          "close": [20, 30]
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            30
+          ]
         },
         "sun": {
-          "open": [11, 30],
-          "close": [20, 30]
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            30
+          ]
         }
       }
     },
@@ -1907,7 +2477,11 @@
     "cid": "15235994986697321829",
     "gname": "PCC Lites by P. C. Chandra Jewellers, Mani Square",
     "gcode": "7MJCHCH2+3F",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "mall",
     "astro": false
   },
@@ -1926,21 +2500,45 @@
     "lon": 73.849464,
     "schedule": {
       "default": {
-        "open": [11, 30],
-        "close": [20, 30]
+        "open": [
+          11,
+          30
+        ],
+        "close": [
+          20,
+          30
+        ]
       },
       "exceptions": {
         "mon": {
-          "open": [11, 0],
-          "close": [20, 0]
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            20,
+            0
+          ]
         },
         "sat": {
-          "open": [11, 30],
-          "close": [21, 0]
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            21,
+            0
+          ]
         },
         "sun": {
-          "open": [11, 30],
-          "close": [21, 0]
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            21,
+            0
+          ]
         }
       }
     },
@@ -1952,7 +2550,12 @@
     "cid": "16673191529008107717",
     "gname": "P. C. Chandra Jewellers, Pune",
     "gcode": "7JCMGR7X+PQ",
-    "lang": ["bn", "en", "hn", "mr"],
+    "lang": [
+      "bn",
+      "en",
+      "hn",
+      "mr"
+    ],
     "park": "valet",
     "astro": false
   },
@@ -1971,8 +2574,14 @@
     "lon": 86.3596841,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       }
     },
     "phone": {
@@ -1983,7 +2592,11 @@
     "cid": "5987131700606368265",
     "gname": "P. C. Chandra Jewellers, Purulia",
     "gcode": "7MM889V5+9V",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2002,8 +2615,14 @@
     "lon": 88.12681339,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2020,7 +2639,11 @@
     "cid": "2017586152710494342",
     "gname": "P. C. Chandra Jewellers, Raiganj",
     "gcode": "7MQCJ48G+6P",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": false
   },
@@ -2039,8 +2662,14 @@
     "lon": 87.7823264,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2051,7 +2680,11 @@
     "cid": "751882628261749466",
     "gname": "PC Chandra Jewellers, Rampurhat",
     "gcode": "7MP95QPJ+9W",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -2070,8 +2703,14 @@
     "lon": 85.3234842,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2082,7 +2721,10 @@
     "cid": "10671685964418698196",
     "gname": "P.C.Chandra Jewellers, Ranchi",
     "gcode": "7MM798FF+29",
-    "lang": ["en", "hn"],
+    "lang": [
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2101,8 +2743,14 @@
     "lon": 88.3424165,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null
@@ -2122,7 +2770,11 @@
     "cid": "9185086999302470580",
     "gname": "P.C. Chandra Jewellers, Serampore",
     "gcode": "7MJCQ82R+XX",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2141,8 +2793,14 @@
     "lon": 92.8005007,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2153,7 +2811,11 @@
     "cid": "7290579580624590159",
     "gname": "P. C. Chandra Jewellers, Silchar",
     "gcode": "7MPJRRF2+R6",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": false
   },
@@ -2172,8 +2834,14 @@
     "lon": 88.4251098,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2184,7 +2852,11 @@
     "cid": "9037151056565445528",
     "gname": "P. C. Chandra Jewellers, Siliguri",
     "gcode": "7MRCPC7G+62",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2203,8 +2875,14 @@
     "lon": 87.5284483,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       }
     },
     "phone": {
@@ -2215,7 +2893,11 @@
     "cid": "3122749280969644228",
     "gname": "P.C.Chandra Jewellers, Siuri",
     "gcode": "7MM9WG2H+X9",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": null,
     "astro": true
   },
@@ -2234,8 +2916,14 @@
     "lon": 88.3907462,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2252,7 +2940,11 @@
     "cid": "4011415654219512835",
     "gname": "P.C.Chandra Jewellers-Sodepur",
     "gcode": "7MJCM9WR+Q7",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2271,8 +2963,14 @@
     "lon": 87.9254131,
     "schedule": {
       "default": {
-        "open": [10, 30],
-        "close": [19, 0]
+        "open": [
+          10,
+          30
+        ],
+        "close": [
+          19,
+          0
+        ]
       },
       "exceptions": {
         "sun": null
@@ -2291,7 +2989,11 @@
     "placeId": "ChIJ_____2OUAjoRjpyBy6BupcY",
     "cid": "14313968627555081358",
     "gname": "P.C.Chandra Jewellers, Tamluk",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2310,8 +3012,14 @@
     "lon": 88.3930738,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2328,7 +3036,11 @@
     "cid": "11863897117682748834",
     "gname": "P.C. Chandra Jewellers, Ultadanga",
     "gcode": "7MJCH9QV+X6",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "valet, street",
     "astro": true
   },
@@ -2347,8 +3059,14 @@
     "lon": 88.390342,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2361,7 +3079,11 @@
       ]
     },
     "gmap": null,
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "valet, street",
     "astro": true
   },
@@ -2380,8 +3102,14 @@
     "lon": 88.34975349,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       },
       "exceptions": {
         "thu": null
@@ -2401,7 +3129,11 @@
     "cid": "17824066851042058968",
     "gname": "P. C. Chandra Jewellers Uttarpara",
     "gcode": "7MJCM85X+RW",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": true
   },
@@ -2420,8 +3152,14 @@
     "lon": 88.3779086,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [20, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          20,
+          30
+        ]
       }
     },
     "phone": {
@@ -2432,7 +3170,11 @@
     "cid": "13533377996485962831",
     "gname": "P. C. Chandra Jewellers, Tobin Road",
     "gcode": "7MJCJ9QH+F5",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -2451,8 +3193,14 @@
     "lon": 91.760869,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [20, 0]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          20,
+          0
+        ]
       }
     },
     "phone": {
@@ -2476,7 +3224,11 @@
     "rating": 4,
     "cid": "3773076124537226528",
     "gname": "P. C. Chandra Jewellers, Guwahati",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -2495,8 +3247,14 @@
     "lon": 88.565041,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
@@ -2513,7 +3271,11 @@
     "cid": "15690125003217038337",
     "gname": "P C Chandra Jewellers, Ranaghat",
     "gcode": "7MMC5H98+M2",
-    "lang": ["bn", "en", "hn"],
+    "lang": [
+      "bn",
+      "en",
+      "hn"
+    ],
     "park": "street",
     "astro": false
   },
@@ -2532,8 +3294,14 @@
     "lon": 88.8686496019348,
     "schedule": {
       "default": {
-        "open": [11, 0],
-        "close": [19, 30]
+        "open": [
+          11,
+          0
+        ],
+        "close": [
+          19,
+          30
+        ]
       }
     },
     "phone": {
