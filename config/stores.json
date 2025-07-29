@@ -1,5 +1,5 @@
 {
-  "VERSION": 161597,
+  "VERSION": 200643,
   "data": [
     {
       "name": "Ahmedabad Showroom 2",
@@ -59,7 +59,7 @@
       "astro": false
     },
     {
-      "name": "Agartala Showroom TEST OMG",
+      "name": "Agartala Showroom",
       "key": "agartala-showroom",
       "status": 1,
       "email": {
