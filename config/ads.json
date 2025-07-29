@@ -1,0 +1,51 @@
+{
+    "VERSION": 1001,
+    "data": {
+      "home": [
+        {
+          "id": "home_main_banner",
+          "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad1.jpg",
+          "altText": "Timeless Elegance - Gold Necklace Collection",
+          "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
+          "isActive": true,
+          "priority": 1
+        },
+        {
+          "id": "home_welcome_offer",
+          "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad2.jpg",
+          "altText": "Welcome Offer - Special Discount",
+          "linkUrl": "https://pcchandraindia.com/pages/discount-form",
+          "isActive": true,
+          "priority": 2
+        },
+        {
+          "id": "home_mugdhaa_collection",
+          "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad3.jpg",
+          "altText": "Mugdhaa Collection - Premium Jewelry",
+          "linkUrl": "https://pcchandraindia.com/collections/mugdhaa-collection",
+          "isActive": true,
+          "priority": 3
+        }
+      ],
+      "showroom": [
+        {
+          "id": "showroom_welcome_banner",
+          "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad2.jpg",
+          "altText": "Welcome Offer - Store Promotions",
+          "linkUrl": "https://pcchandraindia.com/collections/promotions",
+          "isActive": true,
+          "priority": 1
+        }
+      ],
+      "state": [
+        {
+          "id": "state_premium_offer",
+          "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad4.jpg",
+          "altText": "Premium Collection - State Exclusive",
+          "linkUrl": "https://pcchandraindia.com/collections/premium",
+          "isActive": true,
+          "priority": 1
+        }
+      ]
+    }
+  } 
