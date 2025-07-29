@@ -1,5 +1,5 @@
 {
-  "VERSION": 956820,
+  "VERSION": 96184,
   "data": [
     {
       "name": "Ahmedabad Showroom",
@@ -3002,11 +3002,12 @@
       "astro": true
     },
     {
-      "name": "Ultadanga Showroom 1",
+      "name": "Ultadanga Showroom 1 - (Abhra's Store :P)",
       "key": "ultadanga-showroom-1",
       "status": 1,
       "email": {
-        "primary": "pccgems@vsnl.net"
+        "primary": "pccgems@vsnl.net",
+        "other": []
       },
       "street": "P, 154A, Kazi Nazrul Islam Ave, CIT Scheme VII M, Dakshindari",
       "city": "Kolkata",
@@ -3024,7 +3025,8 @@
             19,
             30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "033-2355-4747",
