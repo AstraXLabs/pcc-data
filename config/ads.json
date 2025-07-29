@@ -1,9 +1,9 @@
 {
-  "VERSION": 637057,
+  "VERSION": 605963,
   "data": {
     "home": [
       {
-        "id": "home_main_banner1",
+        "id": "home_main_banner",
         "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad1.jpg",
         "altText": "Timeless Elegance - Gold Necklace Collection",
         "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
