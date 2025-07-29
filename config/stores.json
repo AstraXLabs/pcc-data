@@ -1,5 +1,5 @@
 {
-  "VERSION": 954204,
+  "VERSION": 61410,
   "data": [
     {
       "name": "Ahmedabad Showroom",
@@ -37,7 +37,9 @@
               30
             ]
           },
-          "sun": null
+          "sun": null,
+          "tue": null,
+          "wed": null
         }
       },
       "phone": {
