@@ -1,5 +1,5 @@
 {
-  "VERSION": 96184,
+  "VERSION": 850838,
   "data": [
     {
       "name": "Ahmedabad Showroom",
@@ -3002,7 +3002,7 @@
       "astro": true
     },
     {
-      "name": "Ultadanga Showroom 1 - (Abhra's Store :P)",
+      "name": "Ultadanga Showroom 1 ",
       "key": "ultadanga-showroom-1",
       "status": 1,
       "email": {
