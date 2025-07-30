@@ -1,5 +1,5 @@
 {
-  "VERSION": 917986,
+  "VERSION": 679349,
   "data": [
     {
       "name": "Ahmedabad Showroom",
@@ -3320,6 +3320,62 @@
       "cid": "16603433998101427009",
       "gname": "P.C. Chandra Jewellers, Basirhat",
       "gcode": "MV79+3F3"
+    },
+    {
+      "name": "Lenskart.com at Diamond Plaza Mall, Kolkata (Superman Collection)",
+      "key": "lenskart-test",
+      "status": 1,
+      "street": "Jessore Road Mall",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700055,
+      "lat": 22.6155808,
+      "lon": 88.4124796,
+      "email": {
+        "primary": "astrarudra8@gmail.com",
+        "other": [
+          {
+            "phone": "astrarudra9@gmail.com",
+            "type": "work",
+            "name": "2ndary"
+          }
+        ]
+      },
+      "phone": {
+        "primary": "074288 91253",
+        "other": [
+          {
+            "phone": "7003659212",
+            "type": "work",
+            "name": "Rudra Roy"
+          }
+        ]
+      },
+      "placeId": "ChIJ4ev2RAOe-DkRTefWye77o2U",
+      "rating": 4.9,
+      "cid": "4877531555080267487",
+      "gname": "Lneskart",
+      "gcode": "JC24+8F Kolkata, West Bengal",
+      "park": "valet, street, public parking",
+      "lang": [
+        "en",
+        "bn",
+        "as",
+        "ur"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            9,
+            0
+          ],
+          "close": [
+            17,
+            0
+          ]
+        },
+        "exceptions": {}
+      }
     }
   ]
 }
