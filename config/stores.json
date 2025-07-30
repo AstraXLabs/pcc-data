@@ -1,5 +1,5 @@
 {
-  "VERSION": 897621,
+  "VERSION": 201154,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3323,45 +3323,49 @@
       "gcode": "MV79+3F3"
     },
     {
-      "name": "Lenskart.com at Diamond Plaza Mall, Kolkata (Superman Collection)",
-      "key": "lenskart-test",
+      "name": "Al-Kareem Food Junction",
+      "key": "arindam-village-store",
       "status": 1,
-      "street": "Jessore Road Mall",
-      "city": "Presidency Division",
+      "street": "Rahmat Nagar Bridge",
+      "city": "Burdwan Division",
       "region": "West Bengal",
-      "pin": 700055,
-      "lat": 22.6155808,
-      "lon": 88.4124796,
+      "pin": 713325,
+      "lat": 23.6683691,
+      "lon": 86.953204,
       "email": {
-        "primary": "astrarudra8@gmail.com",
+        "primary": "test@email.com",
         "other": [
           {
-            "phone": "astrarudra9@gmail.com",
+            "phone": "test2@email.com",
             "type": "work",
-            "name": "2ndary"
+            "name": "yoyo"
+          },
+          {
+            "phone": "test3@email.com",
+            "type": "work",
+            "name": "yoyo2"
           }
         ]
       },
       "phone": {
-        "primary": "074288 91253",
+        "primary": "7003659212",
         "other": [
           {
             "phone": "7003659212",
             "type": "work",
-            "name": "Rudra Roy"
+            "name": "Arindam-Babu"
           }
         ]
       },
-      "placeId": "ChIJ4ev2RAOe-DkRTefWye77o2U",
-      "rating": 4.9,
-      "cid": "4877531555080267487",
-      "gname": "Lneskart",
-      "gcode": "JC24+8F Kolkata, West Bengal",
-      "park": "valet, street, public parking",
+      "placeId": "ChIJxzGmIS0f9zkRCyVzTzd9NbE",
+      "rating": 4.5,
+      "cid": "12769249994988528907",
+      "gname": "",
+      "gcode": "",
+      "park": "no cars allowed",
       "lang": [
-        "en",
-        "bn",
-        "as",
+        "or",
+        "ta",
         "ur"
       ],
       "schedule": {
@@ -3375,7 +3379,22 @@
             0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "tue": null,
+          "fri": null,
+          "wed": null,
+          "sat": {
+            "open": [
+              10,
+              0
+            ],
+            "close": [
+              11,
+              0
+            ]
+          },
+          "sun": null
+        }
       }
     }
   ]
