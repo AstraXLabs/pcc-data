@@ -1,5 +1,5 @@
 {
-  "VERSION": 937726,
+  "VERSION": 897621,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -322,7 +322,7 @@
       "astro": true
     },
     {
-      "name": "Barasat",
+      "name": "Barasat Showroom",
       "key": "barasat-showroom",
       "status": 1,
       "email": {
