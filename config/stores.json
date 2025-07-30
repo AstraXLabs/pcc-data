@@ -1,5 +1,5 @@
 {
-  "VERSION": 551415,
+  "VERSION": 917986,
   "data": [
     {
       "name": "Ahmedabad Showroom",
@@ -2109,7 +2109,7 @@
       "astro": true
     },
     {
-      "name": "Mumbai (Bandra) 2 Showroom",
+      "name": "Mumbai (Bandra) Showroom",
       "key": "mumbai-bandra-showroom",
       "status": 1,
       "email": {
