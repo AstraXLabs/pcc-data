@@ -1,5 +1,5 @@
 {
-  "VERSION": 950419,
+  "VERSION": 937726,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -322,11 +322,12 @@
       "astro": true
     },
     {
-      "name": "Barasat Showroom",
+      "name": "Barasat",
       "key": "barasat-showroom",
       "status": 1,
       "email": {
-        "primary": "barasat@pcchandraindia.com"
+        "primary": "barasat@pcchandraindia.com",
+        "other": []
       },
       "street": "SOUTH DAK-BUNGALOW MORE, 43, Jessore Rd, Gupta Colony",
       "city": "Barasat",
