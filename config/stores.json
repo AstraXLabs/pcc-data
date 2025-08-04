@@ -1,8 +1,8 @@
 {
-  "VERSION": 24876,
+  "VERSION": 653491,
   "data": [
     {
-      "name": "Ahmedabad Showroom (TESTING CHANGES)",
+      "name": "Ahmedabad Showroom",
       "key": "ahmedabad-showroom",
       "status": 1,
       "email": {
@@ -3321,61 +3321,6 @@
       "cid": "16603433998101427009",
       "gname": "P.C. Chandra Jewellers, Basirhat",
       "gcode": "MV79+3F3"
-    },
-    {
-      "name": "CALCUTTA 64",
-      "key": "test",
-      "status": 1,
-      "street": "2nd Cross Road BC-25",
-      "city": "Presidency Division",
-      "region": "West Bengal",
-      "pin": 700064,
-      "lat": 22.5932962,
-      "lon": 88.405923,
-      "email": {
-        "primary": "test@gmail.com",
-        "other": []
-      },
-      "phone": {
-        "primary": "7003659212",
-        "other": []
-      },
-      "placeId": "ChIJi6jsT-F1AjoRVtA1Bc9xYaQ",
-      "rating": 4.3,
-      "cid": "11844873628920696918",
-      "gname": "",
-      "gcode": "",
-      "park": "",
-      "lang": [
-        "en",
-        "bn"
-      ],
-      "schedule": {
-        "default": {
-          "open": [
-            10,
-            0
-          ],
-          "close": [
-            17,
-            30
-          ]
-        },
-        "exceptions": {
-          "sun": null,
-          "tue": null,
-          "wed": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              14,
-              15
-            ]
-          }
-        }
-      }
     }
   ]
 }
