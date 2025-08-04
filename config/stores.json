@@ -1,13 +1,19 @@
 {
-  "VERSION": 653491,
+  "VERSION": 154604,
   "data": [
     {
-      "name": "Ahmedabad Showroom",
+      "name": "Ahmedabad ",
       "key": "ahmedabad-showroom",
-      "status": 1,
+      "status": 0,
       "email": {
         "primary": "goldlites.ahmedabad@gmail.com",
-        "other": []
+        "other": [
+          {
+            "phone": "aniketshukla@GMAIL.COM",
+            "type": "work",
+            "name": "Aniket Shukla"
+          }
+        ]
       },
       "street": "Shree balaji heights, GF-07, Near IDBI bank, Bodyline, Chimanlal Girdharlal Rd, Char Rasta, C G, Ellisbridge",
       "city": "Ahmedabad",
@@ -42,7 +48,13 @@
       },
       "phone": {
         "primary": "9081253100",
-        "other": []
+        "other": [
+          {
+            "phone": "9903058109",
+            "type": "work",
+            "name": "PC CHANDRA GEMS PVT. LTD."
+          }
+        ]
       },
       "rating": 4.4,
       "placeId": "ChIJY3MoK1SFXjkRFgytSOZ5_BQ",
@@ -53,9 +65,10 @@
         "bn",
         "en",
         "gj",
-        "hn"
+        "hn",
+        "ml"
       ],
-      "park": "valet",
+      "park": "valet, street",
       "astro": false
     },
     {
