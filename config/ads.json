@@ -1,11 +1,11 @@
 {
-  "VERSION": 605963,
+  "VERSION": 715039,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad1.jpg",
-        "altText": "Timeless Elegance - Gold Necklace Collection",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/1440_784_f0cd6102-326f-4684-9025-10e51fe48bea.png?v=1754284879",
+        "altText": "Rakhi offer",
         "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
         "isActive": true,
         "priority": 1
