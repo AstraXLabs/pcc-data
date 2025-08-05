@@ -1,5 +1,5 @@
 {
-  "VERSION": 862593,
+  "VERSION": 557309,
   "data": {
     "home": [
       {
@@ -25,14 +25,6 @@
         "linkUrl": "https://pcchandraindia.com/collections/mugdhaa-collection",
         "isActive": true,
         "priority": 3
-      },
-      {
-        "id": "home_ad_1754307582936",
-        "imageUrl": "",
-        "altText": "",
-        "linkUrl": "",
-        "isActive": true,
-        "priority": 4
       }
     ],
     "showroom": [
