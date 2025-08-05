@@ -1,5 +1,5 @@
 {
-  "VERSION": 557309,
+  "VERSION": 245876,
   "data": {
     "home": [
       {
@@ -20,7 +20,7 @@
       },
       {
         "id": "home_mugdhaa_collection",
-        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad4.jpg",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/1156.67_450_9fac1fb6-c695-4170-be05-b3fd01203255.png?v=1754389006",
         "altText": "Mugdhaa Collection - Premium Jewelry",
         "linkUrl": "https://pcchandraindia.com/collections/mugdhaa-collection",
         "isActive": true,
