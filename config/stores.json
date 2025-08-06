@@ -1,10 +1,10 @@
 {
-  "VERSION": 326891,
+  "VERSION": 215152,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
       "key": "ahmedabad-showroom",
-      "status": 0,
+      "status": 1,
       "email": {
         "primary": "goldlites.ahmedabad@gmail.com",
         "other": []
