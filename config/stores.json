@@ -1,5 +1,5 @@
 {
-  "VERSION": 870660,
+  "VERSION": 93826,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3321,6 +3321,49 @@
       "cid": "16603433998101427009",
       "gname": "P.C. Chandra Jewellers, Basirhat",
       "gcode": "MV79+3F3"
+    },
+    {
+      "name": "P.C.Chandra Jewellers-Sodepur",
+      "key": "Sodepur-Silver-Astral-showroom",
+      "status": 1,
+      "street": "P.C. Chandra & Sons (India) Pvt. Ltd.  162/S/1 & 162/S/2, Isha Appartment Ground Floor, Barasat Road, Sodepur, Kolkata - 700110",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700110,
+      "lat": 22.6969578,
+      "lon": 88.3907462,
+      "email": {
+        "primary": "sodepur.silver@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "91477 35995",
+        "other": []
+      },
+      "placeId": "ChIJtdMovA-c-DkRA_wxvEhpqzc",
+      "rating": 4.6,
+      "cid": "4011415654219512835",
+      "gname": "P.C.Chandra Jewellers-Sodepur",
+      "gcode": "",
+      "park": "Valet, street",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
     }
   ]
 }
