@@ -1,10 +1,10 @@
 {
-  "VERSION": 464227,
+  "VERSION": 391762,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_f2642391-ec7e-42f1-9da7-b2ee2460378b.png?v=1754283094",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_freedom.png?v=1754649609",
         "altText": "Timeless Elegance - Gold Necklace Collection",
         "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
         "isActive": true,
@@ -15,7 +15,7 @@
         "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad3.jpg",
         "altText": "Welcome Offer - Special Discount",
         "linkUrl": "https://pcchandraindia.com/pages/discount-form",
-        "isActive": false,
+        "isActive": true,
         "priority": 2
       },
       {
