@@ -1,0 +1,130 @@
+{
+  "mumbai-bandra-showroom": {
+    "photos": [
+      {
+        "h": 336,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 602,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1063,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 602,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 7,
+        "w": 720
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Amita Mandal",
+        "author_url": "111978013261814574445",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJLEbL2ysNrMlpmx1apR_bJ-gZn3DQhej4RN6H0J5Nf5bALeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "They have Very  good  collection of jewellery. Have variety of design and have ethnic to western style of design.  All the sales person are very good  and polite. They are ready to show all types of design. Mr. Dipanker was very helpful in showing me different types of earing.  He is very good  in his job",
+        "time": 1748450902
+      },
+      {
+        "author_name": "Samir Sawhney",
+        "author_url": "114157844511841876372",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWA14r7cFOylfXI3PAbk91QEYq-DHbTCZOCammKs-DzGc-EwFo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I met Mr. Swapaneel at the shop. He was very polite and professional. Took patience with my wife as she was confused with her choices. Loved the way he understood the problem and come out with various solutions.  Very happy with the service. Will definitely visit again.",
+        "time": 1737887493
+      },
+      {
+        "author_name": "ankita ghosh",
+        "author_url": "109732556685447914978",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUP1-anNZ3rrg9bj7NgDcHM9NVGsDnfLy7auYmFk2pir8ci1UIO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Pc chandra is my all time favorite when it comes to jewellery shopping. Excellent service..Excellent people..\nArindam really helped me in.selecting the earning and his service was great..from my side 5 out of 5 rating..would.love to come back again.",
+        "time": 1749282740
+      },
+      {
+        "author_name": "Antara Guha",
+        "author_url": "109772464879886634545",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUXLILxnNbj7gW1RWDPq-_BLJmeR_FhP5PSCicFi_y8yfTAILZq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Visited the P.C. Chandra store in Mumbai and had a great experience. The collection was outstanding, and Dipankar Dey guided us patiently and genuinely. Everything went smoothly, and the timely delivery added to the satisfaction.\"",
+        "time": 1745766426
+      },
+      {
+        "author_name": "anwesha ghosh",
+        "author_url": "102319288976858722075",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVIeLIrtnOYdqIFWUru68kEa6NPrMpcD1CXzYJUl6S12OTAfeo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I really enjoyed our visit to your store. Everyone in your store is very cooperative. I really liked the behavior and service of one of your employees, Dipankar Dey, who attended to us.",
+        "time": 1749993236
+      },
+      {
+        "author_name": "satabdi Chattopadhyay",
+        "author_url": "108234534957078808084",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKH6gOdMuquhRiqzjjgJN8rpmuxtBT4b41PShrSQ5B-Bg9VKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "It's very nice.. service is impressive\nSpecially Mr. Dipankar guides us very well while purchasing. Highly recommended for all those who loves Bengali style jewelleries.",
+        "time": 1745160658
+      },
+      {
+        "author_name": "sayan bandyopadhyay",
+        "author_url": "106592368302978674539",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLi7TMMBcMegDOiHYG4ekKHUyh_mBpXqoobRRKIfZauF3tAYg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "The service by Dipankar was very good, and the store is nice with good ambience",
+        "time": 1749282354
+      },
+      {
+        "author_name": "Sanjay Bodana",
+        "author_url": "114086493366271213434",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI8jHITjjlG9QXTntLec0wYzRwqOQxXPWPqEg0pc4f9l0chbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750564459
+      }
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 407,
+    "name": "P.C. Chandra Jewellers, Bandra",
+    "last_updated": "2025-06-25T20:28:37.135Z",
+    "data_source": "live_api",
+    "place_id": "ChIJiZIBSBbJ5zsRfnS5-sZEbKU",
+    "store_key": "mumbai-bandra-showroom"
+  }
+}

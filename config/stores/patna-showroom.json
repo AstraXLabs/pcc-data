@@ -1,0 +1,120 @@
+{
+  "patna-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 361,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Devanshu Roy",
+        "author_url": "113261274539949204834",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWCcpvORfJaMGzrrlW4Eq0VdHekr8ENHrsSbUO4regUkmuwXUU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I recently visited PC Chandra Jewellers, and I was thoroughly impressed. The sheer variety of their jewelry collection is remarkable, catering to diverse tastes and occasions. From traditional designs to contemporary pieces, they have something for everyone. What truly stood out, however, was the exceptional behavior of the staff. They were incredibly patient, knowledgeable, and attentive, taking the time to understand my needs and offering helpful suggestions without any pressure. Their warm and welcoming demeanor made the entire shopping experience a pleasure. I highly recommend PC Chandra Jewellers for anyone looking for quality jewelry and outstanding customer service.",
+        "time": 1740383754
+      },
+      {
+        "author_name": "Chandan Bandyopadhyay",
+        "author_url": "114993967334579226930",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI4MgYtwfZe5XZgIuD9z5sE9cAYHscKC4rrEg6TJp5qKxO5FA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I have been a consistent customer of the PC Chandra Patna family since it's opening. This is now turned to more than just a mere customer retailer relation.\n\nI am extremely pleased with the service and the hospitality of the associates of the PC Chandra team. I definitely do recommend the PC Chandra store along with all of their team members and wish them all the best for thhe future.",
+        "time": 1738913205
+      },
+      {
+        "author_name": "mayank pandey",
+        "author_url": "118389253813896366366",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUq_OAJ5Uq1WMLdHME22ay5oWsJKEe2lk5GQFye1vh97Su0ksYz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We really like it and entire team is cordial and  Polite.\nMamta , Kanchan and Amit ji were superb with the assistance and service provided to us.\nThe collection of the gold is authentic and we got the ornaments with good discounts\n\nA really awesome experience on our Anniversary at Patna Showroom",
+        "time": 1746184489
+      },
+      {
+        "author_name": "Pawan Aarya",
+        "author_url": "102728434502776339589",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIi0Ul_czwQlhbpLScM3SGMwCzvE1BBE27WXbmJ1cnHnVaUAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Had a great experience in p c chandra dakbanglow branch patna. Mrs Kanchan attend and helped me make decision with her great knowledge on product which beneficial for customer's pocket also. Highly recommend her work ethics.",
+        "time": 1744115084
+      },
+      {
+        "author_name": "Jagdish Chandra",
+        "author_url": "111459863808891531329",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJGuzf0lwmpn9WrkzdQ10urHg7_GeTnoBfK4G-c-j5Dzy-ZTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Mamta  thank you",
+        "time": 1750502657
+      },
+      {
+        "author_name": "Md Saif",
+        "author_url": "116160143913294630283",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIiewLI5cdzq3m8PL9C9_RZyDJOfRVvbcHDsKTeMJGrswC-Jw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "MD Arif",
+        "time": 1750877294
+      },
+      {
+        "author_name": "Neeladri Das (Neel)",
+        "author_url": "112213451233329088291",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVeFb0n70wEi9PuQcYKymaQObs7PiK-VAG2esD1MGI-DQlI14TqkA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750645359
+      },
+      {
+        "author_name": "Deepak",
+        "author_url": "117245003473277073216",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLjv2_2NbRu01n5ggORZVVbdZGTjPN4PIX3UJGxAl51s-HpKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750341856
+      },
+      {
+        "author_name": "Uzma noor",
+        "author_url": "114084278602915675385",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWf_YyhpXkb8ZduHw2p6hVicU7ZlzksYVsQu_KnXNPlREn0C74_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1750271817
+      }
+    ],
+    "rating": 3.8,
+    "user_ratings_total": 313,
+    "name": "P.C. Chandra Jewellers, Patna",
+    "last_updated": "2025-06-25T20:28:39.877Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ-xPpkPxZ7TkRBeugQJdWs7c",
+    "store_key": "patna-showroom"
+  }
+}

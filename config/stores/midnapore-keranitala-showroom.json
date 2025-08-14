@@ -1,0 +1,115 @@
+{
+  "midnapore-keranitala-showroom": {
+    "photos": [
+      {
+        "h": 2179,
+        "i": 1,
+        "w": 1836
+      },
+      {
+        "h": 534,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 534,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 534,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 534,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 534,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Souvik Dutta",
+        "author_url": "111663928904596352299",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVnfJyxPjWV4Gyxwtc_ifexsAbdNIEYOlfA1YKozqvb4QtR1xOx-A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "stuff behavior is good, they help you about your doubt. atmosphere is good. hospitality is good they ask you if you need something. but if you purchasing something it will take something ensure that.",
+        "time": 1746867645
+      },
+      {
+        "author_name": "Manik Aich",
+        "author_url": "109161065562233787662",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKX2SKUsgHFvcWHfvefmbPCI_rVIFca_f3cumEMbI5mUt8gAg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Superb place. Its really awesome. Light collection to heavy collection everything is available here, platinum,  diamond,  silver , gold many types are available.",
+        "time": 1613743811
+      },
+      {
+        "author_name": "Soumaanil Sen",
+        "author_url": "106912973412340617328",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLMKFqqtbHsWtIKgtNSJJcNJQufpjih-vG1d0GdNTRpPbH9nA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Excellent experience  with wide variety of designs available in all price ranges",
+        "time": 1733559029
+      },
+      {
+        "author_name": "Unique Collection",
+        "author_url": "117349626258948822489",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJ3phrHLXiK9CTveogYAT04-qtSmy4FJfxDtRyaVkM03EeVlw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Very good behaviour...all staffs are very co operative..I'm fully satisfied",
+        "time": 1722084324
+      },
+      {
+        "author_name": "Satyaki Paul",
+        "author_url": "113919768261818026992",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX4tEtWU6HpD4YqqCklvxQXYdl9CdiaeZK3E4hRXUw7XY3tfBvy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1744105533
+      },
+      {
+        "author_name": "Animesh Nandi",
+        "author_url": "117924262135805941639",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUN2PbAC3WoO7BXW0UcmsRAMrQ16_VaePBgDhtjWPVyTsePJM4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1744013557
+      },
+      {
+        "author_name": "Madhumita Samanta",
+        "author_url": "115392050523307979671",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLJgchDuRJ0OI-Qu59peKbOJoRBIkexeJg-AJLhhcSi8_zV5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1744006880
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 293,
+    "name": "P.C. Chandra Jewellers, Midnapore, Keranitala",
+    "last_updated": "2025-06-25T20:28:36.069Z",
+    "data_source": "live_api",
+    "place_id": "ChIJe3S8JUZbHToRUKY30FhDnxc",
+    "store_key": "midnapore-keranitala-showroom"
+  }
+}

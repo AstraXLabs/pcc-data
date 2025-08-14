@@ -1,0 +1,120 @@
+{
+  "kanchrapara-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Sharmistha Biswas",
+        "author_url": "108765155854439529679",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVsEGlnJqn_vyF-rz6JqyrpjHHMaua2J6Ltr9SBy1rLe0sJ4Gl1Yg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I had a wonderful experience visiting the bangle section of this jewellery shop. The variety and craftsmanship on display were truly impressive – from elegant gold designs to intricate traditional pieces, every bangle seemed to tell a story of its own. Whether you’re looking for something timeless or more contemporary, there’s a piece for every taste and occasion.\n\nA special thanks to Mr Arpan who assisted me – He was not only knowledgeable but also incredibly patient and attentive. He took the time to understand my preferences and guided me through the options with genuine enthusiasm. His expertise and warm demeanor made the whole shopping experience feel personalized and enjoyable.\n\nI left the store with a beautiful set of bangles and a smile on my face. Highly recommend visiting this section if you’re looking for quality, variety, and top-notch customer service!",
+        "time": 1749462748
+      },
+      {
+        "author_name": "Shirshendu Saha",
+        "author_url": "106628064790574785238",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKoCVzg5IDRTHBY8XyxbetLJfgVOCjVlnWLyoQn0VvTNQDvww=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The staff here is very courteous and helpful. We've visited multiple times and made purchases even when away from Kancharapara. The staff are very much trustworthy. No need to mention about PC Chandra's clear policies and rates. Will always suggest others to come for purchases.",
+        "time": 1743326410
+      },
+      {
+        "author_name": "Aritraa LAhiri",
+        "author_url": "113265431482358496443",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW6ow-M_bVSBz0zux5puYxcnj4wNSFNOM83QtZ8IidNlsdGPduf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Mr. Sankar Saha from the Kanchrapara store has been really helpful and I loved my jewellery purchase experience from there. The collections are also very beautiful. Thank you!",
+        "time": 1745061276
+      },
+      {
+        "author_name": "TIYASA DAS",
+        "author_url": "100716092125936007497",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWSzqVMAnmfvFWxfvf4fv3YocfYFJDdwgLZxcfVpZD7b4Z0YU5t5g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "The staff are really friendly... Nipan Chandra mandal one of the staff helped  really well and give time to choose the product",
+        "time": 1750337891
+      },
+      {
+        "author_name": "Tapesh Choudhury",
+        "author_url": "108145802898538562178",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUVu_BG9sUJCkXVxZvlDM7GLCeECqK0Z_ns9lxZN-v5DsuRUF6Q8g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Nice collections, all stuff behaviour is very friendly",
+        "time": 1745736673
+      },
+      {
+        "author_name": "RAHUL KUMAR PRASAD",
+        "author_url": "109860852715497351551",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIQdAS0JHq0CygRJGY6NuSoKWdj6mhMmf0QVRmUgLJ1-fVQpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Excellent service by Nipon",
+        "time": 1750429718
+      },
+      {
+        "author_name": "Pravananda Ghoshpravananda",
+        "author_url": "111834159671867964101",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocL0ccmJ27k2t4UuvANeDRmnbMPnBJCtiC3K6sQnx6HFP6FIJjM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good",
+        "time": 1750750800
+      },
+      {
+        "author_name": "Manoj Maji",
+        "author_url": "103709586396360695284",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWJDJ-PKWU7IpGgMT1lfAnVT-HEzd50ofvXcMBu991MR8Bt9bflVg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750507354
+      }
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 704,
+    "name": "P.C.Chandra Jewellers, Kanchrapara",
+    "last_updated": "2025-06-25T20:28:32.414Z",
+    "data_source": "live_api",
+    "place_id": "ChIJzR-dvDuV-DkR13TuascRUyg",
+    "store_key": "kanchrapara-showroom"
+  }
+}

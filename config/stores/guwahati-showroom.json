@@ -1,0 +1,94 @@
+{
+  "guwahati-showroom": {
+    "photos": [],
+    "reviews": [
+      {
+        "author_name": "ARCHITA DEY",
+        "author_url": "117610185228730544183",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUNjgUE7xRjqRSi_JsBTJd-JZMsUP00onuzx1m3RersCkvoy3hoXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent collections with variety of unique designs... Light weight collections are just Love❤❤❤\nAmbience is so well organized and Staffs are so polite, interactive and friendly...\nHappy with my purchase☺\nHope will shop again with P.C. Chandra Jewellers, Guwahati branch in future!!",
+        "time": 1744187114
+      },
+      {
+        "author_name": "Shayanka Bharali",
+        "author_url": "107725985867128474025",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVGLLJXsTs8_Dm1GWpudwZQlzoTlTfzcuNOy25Hx4STmH22HId8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The ambience of the store was very warm and welcoming. The staff were very helpful and polite and guide pretty well with proper knowledge of current trend and fashion of jewellery with wide range of traditional and modern jewellery.",
+        "time": 1744120882
+      },
+      {
+        "author_name": "Suman Deb",
+        "author_url": "113409022892684444585",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJw9iSAiKwtdu2NLLv6S7X-YJhmO2Keqn7vG0Fc3TQmA3naag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "The calm and peaceful ambience really helped us to choose for our loved one....along with v helpful attitude of the staffs.Thank you PCJ.and The Staffs",
+        "time": 1745655820
+      },
+      {
+        "author_name": "Dipali Kalita",
+        "author_url": "100105804496273101173",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVolz2sc3qU7CPVowG-dxSHSCupE_IanB34pDkHzP59n8ILdYc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Awesome collection and design and product quality also very good ☺️",
+        "time": 1744122075
+      },
+      {
+        "author_name": "Marsel Hembram",
+        "author_url": "102996201900675885323",
+        "language": "en-US",
+        "profile_photo_url": "a/ACg8ocIHHx1gUGS7ZSBuvot2FjI4bPp3fv3EpL_A1BteOSGI32ZgBw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "SANNY",
+        "time": 1750238539
+      },
+      {
+        "author_name": "Shoriful Islam",
+        "author_url": "115399803331652576570",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWY5pOL7otj6aXl0YK0SB1sC9smCUg_lBe7m1vP4ABNda5dJwFM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750526191
+      },
+      {
+        "author_name": "Parfulla Sardar",
+        "author_url": "103629571222422071004",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUHdfsSoJ1KYr3ymT9_8IN0fBbBZllrY9x6CzSlntj_tlI1az4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750280166
+      },
+      {
+        "author_name": "Kabita Roy",
+        "author_url": "114296977717546019997",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIIzP3ygnpi6SF5azGJueci21tecGH7KSncb3eoMd-Yof9dWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "",
+        "time": 1749477510
+      }
+    ],
+    "rating": 4,
+    "user_ratings_total": 49,
+    "name": "P. C. Chandra Jewellers, Guwahati",
+    "last_updated": "2025-06-25T20:28:48.363Z",
+    "data_source": "live_api",
+    "place_id": "ChIJIRAHsT1ZWjcRIIWMob6oXDQ",
+    "store_key": "guwahati-showroom"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "malda-english-bazar-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 8,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Dr Neeladri Shekhar Maitra",
+        "author_url": "102279562667715194326",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX1PLW7NZ7puRr4kb6l5SopSzWQfbFGFBwYWkEBkTB-d6hdqLsS=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 years ago",
+        "text": "Compared to other P.C. Chandra outlets , the Malda branch is smaller one -but nice collection of both male nd female jewelleries - staff behaviour is gentle\nOverall a good choice to buy jewelleries here",
+        "time": 1562643568
+      },
+      {
+        "author_name": "Dwaipayan Gupta D'HrD",
+        "author_url": "107522915369467674333",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUxr98hlAu7PRqSpTgBE3RJoUaiDi0XZKtWo8zZNr5tVRwi7iE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Newly reopen with elegant and sophisticated design. You can get a variety design. Must visit.",
+        "time": 1718798463
+      },
+      {
+        "author_name": "95Sagorika Saha",
+        "author_url": "114085243273703256321",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUxVz1PJh4-oG6dP9P4ZoB1Pmbj1OGvqrwz_mQY-GCBmRnmOe0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Its a nice place ..i have purchased some gems and that's very authentic..I am impressed 👍😁",
+        "time": 1733129575
+      },
+      {
+        "author_name": "Priti Saha",
+        "author_url": "107687895515698899010",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWn0xN0ElNYXLzbhaIwO9n4RvTXpEgUjPnOh5gCkfyJWQCiiSSc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Good collection of any kind of jewelleries & all staff has good behavior 🥰",
+        "time": 1743860944
+      },
+      {
+        "author_name": "TARUN KR DAS",
+        "author_url": "111199398523847519696",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUsnwAwcLBJxjOqcKwZZS74A37JoVavcGwstG_EBKICk2Tyxblx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Newly reopen and stock collection is very good.. Must visit",
+        "time": 1718631812
+      },
+      {
+        "author_name": "Smita Das",
+        "author_url": "101591640408615502296",
+        "language": "en-US",
+        "profile_photo_url": "a/ACg8ocJtAtAxy8J86kp0ZaR9w-zcGgHp1-JO7-gBg7lyRX1bvc0a4w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Hello everyone.",
+        "time": 1743417033
+      },
+      {
+        "author_name": "Barnali chakraborty",
+        "author_url": "110297232035457586632",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKIBxjEeDgb65mcqAxBa0v0opdWK8F2bGBwly3BTH__PDvClA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very nice",
+        "time": 1743753959
+      },
+      {
+        "author_name": "Sudeshna Agarwalla",
+        "author_url": "113197371491079798502",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKPjnF1Jike_yXQL9oRplhsVqYbOE64mYNm2-eyj91BAak2TA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1743851734
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 407,
+    "name": "P. C. Chandra Jewellers, Malda English Bazar",
+    "last_updated": "2025-06-25T20:28:34.494Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ19Q0pdv9-jkRVMUWQqt_vY4",
+    "store_key": "malda-english-bazar-showroom"
+  }
+}

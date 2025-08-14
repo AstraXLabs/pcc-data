@@ -1,0 +1,140 @@
+{
+  "delhi-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1132,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 486,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Debjyoti Roy",
+        "author_url": "105696461042406540233",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUbbMsR1xVq-BpgG9KoC6RHmOCi92378-FVBZBMnEWpe4lASqGR6g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "It was a decent and swift experience here at PC Chandra CR Park outlet. Ms. Rita Maity who dealt with my requirement from the first call to billing was courteous and knowledgeable. Such experiences reinstill your faith on the Brand and strengthens the loyalty.",
+        "time": 1749297427
+      },
+      {
+        "author_name": "Koyel Lodh",
+        "author_url": "100686555195433763087",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKGcr9YclN8YQsK0p8dRDCgHS8TdYgCBP-urLiHswjc_3ojKRxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Our experience at P.C.Chandra Jwellers, Delhi was very nice. The staff Ms. Rita was very professional and polite enough to show us various models over a long time at the store. Designs are all beautiful , up to date and nice. Overall a very good experience",
+        "time": 1748338816
+      },
+      {
+        "author_name": "Shovan Mitra",
+        "author_url": "114780296421316268057",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUMkg1QmTMFwBFlEpw4H0fz8ZfT2ON7RDaOhNd-ixVZWb6V4d7U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very reliable for gemstones. We get genuine and quality items here. Also, the representatives are very knowledgeable and always guide you with the best of their knowledge. Had a wonderful experience.",
+        "time": 1747478085
+      },
+      {
+        "author_name": "Samiran Mandal",
+        "author_url": "111445075581777581283",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXXKBUvKzwP4pEQnRiV4WSWwATG9lBL2TEJgk7VTE5R0x1WEQV5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Wonderful Experience. The staff is really friendly, cooperative and have good knowledge of jewels (even for customised one). Most impressive part is their investment plans.",
+        "time": 1749308834
+      },
+      {
+        "author_name": "Parna Dasgupta",
+        "author_url": "104601293682430482548",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLjRkhmCbROQAs0gNiCpxDj3_Zo2Wt8oO_eWG4c8AO9m-piuw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very nice designs. Very good service by mr sayan and Mr Ashim. Strongly recommend.",
+        "time": 1750422162
+      },
+      {
+        "author_name": "MADHUSMITA MOITRA",
+        "author_url": "109971680188271558873",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJIwRJNSpUPrJDRud-XTOCnr7DrmUbTGbqqXdbV7CLUzTmfOC8r=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good collection & the sales persons r very good .",
+        "time": 1750672465
+      },
+      {
+        "author_name": "Prakriti Deb",
+        "author_url": "116101788956930200628",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWxOHhAkTb5Fat-8YyRRnGdt0Sjwj8PUbhPv0EUOXveZgtCbE9d=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good overall experience!",
+        "time": 1750862942
+      },
+      {
+        "author_name": "Souvik Bhattacharyya",
+        "author_url": "108410743889187321960",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWOd-E3b0MVSzs_4agohAsZ5uNrew6hku04cm7wu-rdrZEQVNg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Nice collection",
+        "time": 1750682036
+      },
+      {
+        "author_name": "Sampurna Roy",
+        "author_url": "111750315126962427096",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW3U-XnTYsedQ_QMMgqTyO-HfdocxNpy1zYjfsXU7jupMgbrIyU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750772588
+      },
+      {
+        "author_name": "S P DAS",
+        "author_url": "101957105762459778907",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIfMEzAXyKnvuJdJgkp5RpwgqbTweqD6_4MhlEWKA7kvRRj_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750768762
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 1193,
+    "name": "P.C.Chandra Jewellers, Delhi",
+    "last_updated": "2025-06-25T20:28:25.970Z",
+    "data_source": "live_api",
+    "place_id": "ChIJK7oD6NnjDDkRkX4_UgtVk3k",
+    "store_key": "delhi-showroom"
+  }
+}

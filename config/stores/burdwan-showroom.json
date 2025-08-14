@@ -1,0 +1,90 @@
+{
+  "burdwan-showroom": {
+    "photos": [
+      {
+        "h": 468,
+        "i": 1,
+        "w": 1040
+      },
+      {
+        "h": 360,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 369,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 758,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Priya Karmakar",
+        "author_url": "102345239905846601717",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXHPcAHSg4D47UIJrGvPUmTG6wUIbNBJ5WXtDCss5DHB9YoeZFo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Visited the store not too long ago. The location was made obvious. Although the staff was friendly, I purchased a necklace and a noa from the gold section. They both are too good. Our attendant was Sangita Dasgupta. She was professional, kind, and well-mannered. I will most certainly return to the store.",
+        "time": 1718703190
+      },
+      {
+        "author_name": "Smriti Banerjee",
+        "author_url": "109240898008357780203",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLCf751-qr60Qv8C54YNQIO3wwOcdbZt_9SsWqllfqWwJDsCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Staff members are polite, welcoming, knowledgeable and helpful.\n\nSecondly, Collections are awesome. All kinds of gold and diamond jewellery are available.",
+        "time": 1748009053
+      },
+      {
+        "author_name": "Miss R",
+        "author_url": "115811038088040751207",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJyWQFa-yXKcCuRVHEQbdIvTffpIT5mohqzP3Jl6EavLOoxaw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The collection was amazing.",
+        "time": 1746722470
+      },
+      {
+        "author_name": "Ashrujit Das",
+        "author_url": "107901012620534304908",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJSU5J9cOs1_DZ1H6T7_W0anQGIgf_ynY8NTyN2xb8ZALF1wg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1750044962
+      },
+      {
+        "author_name": "Mohan Lal Chakraborty",
+        "author_url": "105820143564287887099",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLZbh2fKMJc7AqTFNGRriQpYRvKytt3AfrKhyMwcRW_QOdH5fE8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746987317
+      }
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 195,
+    "name": "P.C.Chandra Jewellers, Burdwan (WB)",
+    "last_updated": "2025-06-25T20:28:22.827Z",
+    "data_source": "live_api",
+    "place_id": "ChIJPVVVVcFJ-DkRsoFEXjN7VuM",
+    "store_key": "burdwan-showroom"
+  }
+}

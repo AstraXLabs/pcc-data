@@ -1,0 +1,95 @@
+{
+  "durgapur-showroom": {
+    "photos": [
+      {
+        "h": 338,
+        "i": 1,
+        "w": 572
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "ISHITA MAJUMDAR",
+        "author_url": "103417240900644892286",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWl-iwV03nAtalDIXlmUwMsklnG3kgH1kxuK2Q8Q8iu6gnmGKXI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Had a wonderful experience at PC Chandra, City Center showroom! The collection is absolutely stunning and the service is truly top-notch. A big thanks to Snigdha Das for her exceptional support—she really understands her customers requirements and always recommends the best pieces. She’s gone above and beyond, even outside of work hours, to help me with gold bookings. I really appreciate how she always keeps me updated and even helped me book from home. This is our all time choice for any jewellery shopping! Highly recommend PC Chandra for anyone looking for unique, beautiful jewellery and amazing customer service!",
+        "time": 1749155243
+      },
+      {
+        "author_name": "Dr. Ankita Mazumdar",
+        "author_url": "107912422181404367395",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUDFFKyOrrOpnkh740-RhPeSgHTNxWgp5FPUlQjR9EEpWfHqo2Xzg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Very courteous and helpful staff. The showroom itself is very well maintained, clean and hygienic, and strictly maintain each and every covid 19 safety protocol. I'd like to especially mention Satabdi Paul who's very courteous and has immensely helped me throughout all my purchases for my wedding, and with much patience. The collection is nice as well. And P.C. Chandra as a whole has some of the best and intricate designs and details.in all their jewellery pieces.\n\nHighly recommended. Must visit if you wish to purchase good quality gold with amazing designs.",
+        "time": 1630904060
+      },
+      {
+        "author_name": "Deblina Roy",
+        "author_url": "104312669305084206816",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV_8E7agVJI353V2W_gvOzZ_lWrGHg7-WY3kMocwT4JQwMrj5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Always happy with the service and quality PC Chandra provides. Snigdha has always assisted us nicely and professionally. However, I’d be happier if I the range of collections at the showroom get better. All in all, would always recommend!",
+        "time": 1749885849
+      },
+      {
+        "author_name": "Ananya Chatterjee",
+        "author_url": "102223479787849405473",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXIRnbLKv7lY4QH699C6LArs2coWJOQYOvxvCTNqrAkyyRWIUko=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "The showroom have nice collection and the behaviour of the employees is nice.\nI want to mention about Snigdha Das, she is the sales consultant in P.C.Chandra, she is very helpful, always have a smile on her face and very well behaved.",
+        "time": 1749105895
+      },
+      {
+        "author_name": "SUMAN GUPTA",
+        "author_url": "108002292017146755521",
+        "language": "en-US",
+        "profile_photo_url": "a-/ALV-UjXr0euG0uc9ngJMx9YYuNTWf13NZNEqpM_jyBwU02lSWt2YVxFy=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "very good",
+        "time": 1732715038
+      },
+      {
+        "author_name": "Piyali haldar",
+        "author_url": "103125900323381521510",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKEncr51QcpAj1aYYQYSnPa33GZkBciyknZj8umfJoQKaQnQcc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748935903
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 92,
+    "name": "P.C.Chandra Jewellers, Durgapur City Centre",
+    "last_updated": "2025-06-25T20:28:27.026Z",
+    "data_source": "live_api",
+    "place_id": "ChIJCctmiKpz9zkRoahWRY-vl0c",
+    "store_key": "durgapur-showroom"
+  }
+}

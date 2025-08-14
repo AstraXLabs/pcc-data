@@ -1,0 +1,140 @@
+{
+  "malda-kanir-more-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 532,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1029,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1422,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 532,
+        "i": 7,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Rajlakshmi Tudu",
+        "author_url": "105462171019086192965",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIpvT9Al6MPyNnuMqvYwgoytt3EHHTZ1-T9dBkOznWPJ09s_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "They have a good collection which are quite unique. The staff here are very courteous and warm, especially Ms Sudipta who showed us the collection this time. It has been a lovely experience here everytime. Definitely coming back.",
+        "time": 1739530328
+      },
+      {
+        "author_name": "Mandela Mahato",
+        "author_url": "112747237635790741912",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU1k9oj69pqUOaSzqnHW3AO1Fbno7-mZHf3cSCZZSQqiDbsycyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I recently purchased gold and diamond from here. I really liked staffs behaviour, how they explained details regarding the bills and everything.",
+        "time": 1745241286
+      },
+      {
+        "author_name": "DIBYOJYOTI PANDEY",
+        "author_url": "101328320953731812292",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXJQlTdE9Z2M-NI_e9LMItCaQHEREX8G2xkZXAF_3V8FtS1KtChNQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "All staffs are very good. Friendly environment. Display also gorgeous. Anghshuman Das is a very good personality and behaviour.",
+        "time": 1719067275
+      },
+      {
+        "author_name": "Amir bulbul",
+        "author_url": "100526425153500814978",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUEl8usZAT4ntwXHmihCaoqqZk6tNZjYFI_gmOaGsqQj9x6jyT9qg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Well behaved staff. Their gesture was very good. Product quality is magnificent. no doubt pc makes fabulous designs",
+        "time": 1735304798
+      },
+      {
+        "author_name": "Rittika Saha",
+        "author_url": "112063810804585609516",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV4sXZpl6_JW0LxjznRGQUqDn3mEvFJoxO732c9EHWPmsw3jtytvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "wide range of collection, had an amazing purchasing experience.",
+        "time": 1748699334
+      },
+      {
+        "author_name": "Rituparna Das",
+        "author_url": "102139768893639872086",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVqNcOdLOdxrxMtriEklHOWcjOrm0QoDZVKcKTJ_HOI0WhBQm7NFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I am very happy about the showrom",
+        "time": 1745676544
+      },
+      {
+        "author_name": "Shrabani Mandal",
+        "author_url": "101267086182439483242",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWNgZ9-zqAFPiyZ0jJCORC4HsiIjBlIQPCS9yH_cllUivNsufTQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good experience",
+        "time": 1747914445
+      },
+      {
+        "author_name": "TONY STARK",
+        "author_url": "118378304475410690122",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVgdZNVDZlvNQQ52FigAnLbyRpIuirOWDegrn-5FaQB407hRkMZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Good behaviour",
+        "time": 1747739890
+      },
+      {
+        "author_name": "Mr Ak",
+        "author_url": "100356349006824543490",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIK4eGy_Knn-8Q0ZDq52kV3fGa25hIImQEjUfQzqcweyiDhgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good",
+        "time": 1746097754
+      }
+    ],
+    "rating": 4.8,
+    "user_ratings_total": 305,
+    "name": "P. C. Chandra Jewellers, Malda Kanir More",
+    "last_updated": "2025-06-25T20:28:35.026Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ4RlxlMv9-jkR2tGD8Nexd_I",
+    "store_key": "malda-kanir-more-showroom"
+  }
+}

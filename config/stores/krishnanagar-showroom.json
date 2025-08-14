@@ -1,0 +1,105 @@
+{
+  "krishnanagar-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 422,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Tanusree Kundu",
+        "author_url": "109857028136924799019",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUXXj_zuZla9MwwKcHBhNCe0_3UcnTrZaYsZAuS-WslastP3Tgp=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "A great place for jewelry shopping. Great collection of jewelleries whether it is wedding or other purpose. If you exchange gold , the staffs guide you and do gold check in front of you. Hence, no chance of duplicity. Easy payments. Greeted nicely by staffs and cooperates with customers.",
+        "time": 1563391672
+      },
+      {
+        "author_name": "Subhendu Ghosh",
+        "author_url": "109054578205865822790",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWXVhb6sSuTkoGoIfqh_F7z0LHnXNpHtmr3q3zl0JcHgigdj4Mt_Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "1.Staff was Good.. 2.Collection of PC chandra Never good wrt Senco & Anjali.. 3.If you have PC chandra Ornaments you can easily exchange it over here... Overall good..",
+        "time": 1695954057
+      },
+      {
+        "author_name": "Parna sarkar (parna)",
+        "author_url": "108840558657786071474",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU3_MMuoAfVCod8M0gO7IH2CKk0rLjsj3-UtXUYRJTyjMliPjiOZw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 years ago",
+        "text": "The jewellery collection is extensive and fancy. The staff is polite and gentle. Jewellery is trustworthy and hall marked .\nGot my ring from there.",
+        "time": 1505379724
+      },
+      {
+        "author_name": "Koushik Sarkar",
+        "author_url": "113404005242583483908",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocILcCDIJ0D3iJFkebPy6ae_BFgv2s-uj7ttqHBurtxXLQoFuQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Very good",
+        "time": 1748605476
+      },
+      {
+        "author_name": "Arunoday Roy",
+        "author_url": "114309629624466192195",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXEXgSyeyl38bGZhTK0V2Kua2qPTY5xJ5AfzjYmmNRPlIoL-pBqEg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1740960220
+      },
+      {
+        "author_name": "Samrat Modak",
+        "author_url": "118441919116880135450",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU-Wwt4V4bB9CTEBrHy6l26xFfrEVWUzbEiNyWsw4e1q3nFM48=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1737357667
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 268,
+    "name": "P.C.Chandra Jewellers, Krishnanagar",
+    "last_updated": "2025-06-25T20:28:33.431Z",
+    "data_source": "live_api",
+    "place_id": "ChIJOaWSWjgg-TkR4Q1DfgNHpCo",
+    "store_key": "krishnanagar-showroom"
+  }
+}

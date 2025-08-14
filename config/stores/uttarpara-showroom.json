@@ -1,0 +1,145 @@
+{
+  "uttarpara-showroom": {
+    "photos": [
+      {
+        "h": 533,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 533,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 533,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 533,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1200,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Sudip Chowdhury",
+        "author_url": "106976508425867869299",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVj3aqXlIf3qxfm0oPMFIiZh1yPGXluQz4mRFJ9ALnpJDNEfYp5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I had a wonderful experience at P. C. Chandra Jewellers in Uttarpara. The staff were extremely polite, patient, and helpful throughout the entire visit. They offered a beautiful collection of jewellery with plenty of options to choose from. I was very happy with the quality and service. Will definitely visit again!",
+        "time": 1746516441
+      },
+      {
+        "author_name": "Madhubanti Talukdar",
+        "author_url": "107247370852610449833",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUWugRzrpD89V66HFWygfmIui52oo-0CLaVtw31RkQImzAFsL8tzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "wonderful experience at P. C. Chandra Jewellers in Uttarpara. The staff were extremely polite & helpful.  They offered a beautiful collection of jewellery.  I was very happy with the quality and service. Will definitely visit again! 😄",
+        "time": 1750852406
+      },
+      {
+        "author_name": "Doyeli Chakraborty",
+        "author_url": "101021168512553204226",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUq4s2s2GjVhv_T1CXSX31Jo7gIpowRq3FH3HrQ01mbA6pPMeSFag=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "One of the best showroom. Always super helpful during exchange. I never buy from anywhere else. Strongly recommend this showroom . Arindam is super helpful from many years.",
+        "time": 1735650041
+      },
+      {
+        "author_name": "Jhilik Bhattacharya",
+        "author_url": "110991523775836293221",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUeVY7qGe4JqxlXuZiGXdMtlXYJSqh7mcGYBHkFvm6HjSMqoARB=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I ❤️ P.C Chandra Jewellers. I always purchase ornaments from them. Today one of their representative visited our house and gave us sweets from Banchharam’s!! Thanks..😇",
+        "time": 1729002118
+      },
+      {
+        "author_name": "Soham Saha",
+        "author_url": "108546709216268908122",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWSkC55kthZb39NgPUOf6RvCczRpFbjrJH9HqqfeJwaiEcYW-xvSw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The store has awesome variety of collection. And the behavior of the staff is very hospitable. Overall, a brilliant experience.",
+        "time": 1747570518
+      },
+      {
+        "author_name": "Soma Ghosh",
+        "author_url": "105128540645744567803",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX6heoPPUOnNVREW8x_AD_QuleczoTfeiij-qnMxSrC20fTzSdb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "The sales executives were very humble and polite. Overall experienced excellent",
+        "time": 1749379575
+      },
+      {
+        "author_name": "Sukriti Saha",
+        "author_url": "118073980664173123618",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVTdzEWcP-q9hMN-xqRUiO73kK0SqFI94MUBINnU7PicpR-9ShcfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good store and very friendly staff. Liked the designs here.",
+        "time": 1750764972
+      },
+      {
+        "author_name": "Anirban Mondal",
+        "author_url": "101754561460927227121",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWsXvC6ChhCGjWGe_EnN_RUksMXf-1iWSR79NlSljRu_huDHUGI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "The staffs are cooperative and my experience is good.",
+        "time": 1750854661
+      },
+      {
+        "author_name": "Chandan Ghosh",
+        "author_url": "107577376052869133091",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUxn5kLPAadWBQ40jZ6AVJ2e1N1teyYX4Nbd3GA7Kv-JzpT01g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very helpful people. We are satisfied",
+        "time": 1750834891
+      },
+      {
+        "author_name": "Debasree Mukherjee",
+        "author_url": "102770017513368728915",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW9IHlm1eTqD2K1g59MGbIsnXHWCXKan3mC4CVdKqZ1V22JpgZ6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Awesome collections",
+        "time": 1750767326
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 422,
+    "name": "P. C. Chandra Jewellers Uttarpara",
+    "last_updated": "2025-06-25T20:28:47.280Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ0_DpgLmd-DkR2GItdV3OW_c",
+    "store_key": "uttarpara-showroom"
+  }
+}

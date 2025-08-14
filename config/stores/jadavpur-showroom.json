@@ -1,0 +1,125 @@
+{
+  "jadavpur-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 1156,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 698,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1280,
+        "i": 4,
+        "w": 757
+      },
+      {
+        "h": 1280,
+        "i": 5,
+        "w": 782
+      },
+      {
+        "h": 1180,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Madhurima Mukherjee",
+        "author_url": "109189563778183078972",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUR7mvYoICJ24ccr09eS1T3T0nQdiCfR3zrNv4vdfoku0uXCjbiBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I had a wonderful experience at Pc Chandra Jewellers Jadavpur branch while purchasing jewellery. The showroom's ambiance and exquisite collection impressed us. The jewellery's quality and craftmanship are outstanding...Highly recommend Pc chandra jewellers Jadavpur branch for a memorable shopping experience.",
+        "time": 1739427000
+      },
+      {
+        "author_name": "Moumita Chowdhury",
+        "author_url": "109171902529936199158",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWSjtbgqnGPe6AwntYRjbfbHaDXrL8N3otNxTR3QfqbTRvHNO9Kyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I have been visiting this shop for quite sometime now, honestly I have not only loved their collections but also the behaviour of the staffs are very welcoming. Must visit !!!",
+        "time": 1749285349
+      },
+      {
+        "author_name": "Kasturi Sanyal",
+        "author_url": "111249529357914066864",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUhXn1xnchrOkoE0ym7nnW43yTc4AmneFdwG7eWGr7RrcD_SCuw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Always awesome experience with everyone and ambience was no nice . Robin sir was amazing and very well behaved. Over all we had a great experience",
+        "time": 1744967214
+      },
+      {
+        "author_name": "Top ten10",
+        "author_url": "106668718515337644094",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUOICQCdGQZsSg0BA8lNsXpJmItTWDT9ZeQtLmcJhD_pu3LXB1t=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "We had a great experience. Ms. Madhurima helped us to get the right product with perfect customer experience. Thanks PC Jadavpur branch.",
+        "time": 1740294298
+      },
+      {
+        "author_name": "SAYANTIKA MAHAPATRA",
+        "author_url": "114094209170378730253",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUGQtyu_3k7JMNkcEVPLXLgSLOHY_pr1EH2hF0FTI1Ht_ZP_OX-Pw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good servicing and well behaved stuffs",
+        "time": 1750425824
+      },
+      {
+        "author_name": "barnamala ray",
+        "author_url": "110716157871674708994",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUnziaaIxYSTdsxRm4bOHtIDHA1Vbqjigy9KKW_z4H-yk0b7cs_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good",
+        "time": 1749739981
+      },
+      {
+        "author_name": "Shubhranshu Shekhar",
+        "author_url": "111745323058099869449",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocL_ptV4SPOznW-c-biJ-OnB4FGWmJHfXWa-5zxkmD7H7uzd5w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1750003571
+      },
+      {
+        "author_name": "Subhajit Sen",
+        "author_url": "112054416909929636526",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVbWmGEA40R-VyWPILSsjfa7GFQ6vAPUlkRdE5jFVe8_eWRaXs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "",
+        "time": 1749302480
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 212,
+    "name": "P.C. Chandra Jewellers Jadavpur",
+    "last_updated": "2025-06-25T20:28:31.325Z",
+    "data_source": "live_api",
+    "place_id": "ChIJJbKk3zFxAjoR5_9uZpzo9AE",
+    "store_key": "jadavpur-showroom"
+  }
+}

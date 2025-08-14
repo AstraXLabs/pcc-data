@@ -1,0 +1,125 @@
+{
+  "raiganj-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 602,
+        "i": 8,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Mon Moon",
+        "author_url": "107637931837469201794",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXnPudA5btEwbDkwNbW6TiHHFdQe_mmaVPBMiU1qQdorcyBROI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Behaviour of the all staffs and there service and the arrangements ar too good 😊 Specially Ms. Moumita Sarkar ...  Her behaviour is very polite and she helped me very much ...\nPC Chandra's ornaments designs are unique and stylish ... I am so happy 😊♥️  Best gold showroom in Raiganj",
+        "time": 1712862573
+      },
+      {
+        "author_name": "COLORSHOT FILM AND PHOTOGRAPHY",
+        "author_url": "113932900550881240847",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU4q_TuHP93EYMrDQMjzbwqD_IxYuVAVHmWaC7A6t9HcgimRHvs=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Behaviour of the all staffs and there service and the arrangements ar too good .\nPC Chandra's ornaments designs are unique and stylish ... I am so happy ♥️ Best gold showroom in Raiganj",
+        "time": 1747414078
+      },
+      {
+        "author_name": "Sriparna Ghosh",
+        "author_url": "102513216494346186341",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVKmXjNoylZ3PAMyBURgnGZokqfdyn0jXrvwWS_kJ6Ca6MloLu_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "A Great Collection!!! Their behaviour is so welcoming!!! Specially Amrita who helped us lot :) The best jewellery shop in Raiganj, u can feel the gesture like Metro Cities❤️❤️",
+        "time": 1667456429
+      },
+      {
+        "author_name": "Alok Sikder",
+        "author_url": "104609306292032841923",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXpjghQmNznKo0gkUDHR9XzYP0DkVOn5fkKjXvVF_RAb29h5R0F=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Verry good product and all staf behaviour is verry good 👌👌👌",
+        "time": 1745233467
+      },
+      {
+        "author_name": "Dr. Dibakar Saha",
+        "author_url": "111401927375641212821",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX1_ugSahyrCRmKSf_HFJ20eadIFIFq3-rvEeJ96Ssal1f-Y9TP=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Well behaved.. good collection.. go for it.. 😃",
+        "time": 1716897397
+      },
+      {
+        "author_name": "Gargi Mondal",
+        "author_url": "118179072562214522797",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXGVcmC9rgk-75FmnHh_eSbWWYmtVtAt1qXKx8YI5DojPFm9mgz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Very good experience.",
+        "time": 1749807741
+      },
+      {
+        "author_name": "BIKRAM PANDIT",
+        "author_url": "108741214428696204960",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVr7x50fLNKcz22HccxQst8_eBrkdiM0amJUauLVOYalFCnc2QC=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746470765
+      }
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 223,
+    "name": "P. C. Chandra Jewellers, Raiganj",
+    "last_updated": "2025-06-25T20:28:41.986Z",
+    "data_source": "live_api",
+    "place_id": "ChIJacXx4C_V-jkRhlgOkOrn_xs",
+    "store_key": "raiganj-showroom"
+  }
+}

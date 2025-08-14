@@ -1,0 +1,110 @@
+{
+  "siliguri-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 392,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 212,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 348,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 227,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 319,
+        "i": 7,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Saptarshi Roy",
+        "author_url": "102551644671287742944",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVGOOd1xNtdV5SEtgwwmnR6v3IRTNhVrpK64tBb4MqbLMsGcPug=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Established jewellery store offering a wide range of exquisite gold, diamond, and gemstone jewellery. Known for quality craftsmanship and reliable service.",
+        "time": 1737111527
+      },
+      {
+        "author_name": "Dilip Barman",
+        "author_url": "116833396408146992939",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWcwE0eHrZ5gIS8O3vuMPooKMpVt4NchaElwuYPACjCsgmFr1sGJQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "Good and affordable masterpiece jewellery.\nFriendly staff, excellent service.",
+        "time": 1712394055
+      },
+      {
+        "author_name": "Priya Das",
+        "author_url": "117901407480749348904",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXtRBQ12eHk4euT0nZGIRAqv6zdEfF2qFb6rZ9K9k91L8JoYt8URg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Staff behavior are very good, and their collection are excellent",
+        "time": 1736423499
+      },
+      {
+        "author_name": "Tamasa Dutta",
+        "author_url": "118063719052987324153",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKQrj_CJ6wcMMmx0qmq5UF8Dk9fXRf9wzliLR5IsI9qwl1Y5w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Very nice 👌 👍",
+        "time": 1741760032
+      },
+      {
+        "author_name": "Anup Ranjan",
+        "author_url": "105718469696089249416",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX9BtniUZKkk1Myicjjol6mY8fbcJvlLkM9rnMQUydmjF50TmM-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750403638
+      },
+      {
+        "author_name": "Kapil Pal",
+        "author_url": "117090092586365651656",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocINxD6DZc4wymTj5-2R1gFOeDB6weijpZxSvJqXYISdfcK0JUo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1744024022
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 252,
+    "name": "P. C. Chandra Jewellers, Siliguri",
+    "last_updated": "2025-06-25T20:28:44.658Z",
+    "data_source": "live_api",
+    "place_id": "ChIJF59Wk2tB5DkRmCMhTAFpan0",
+    "store_key": "siliguri-showroom"
+  }
+}

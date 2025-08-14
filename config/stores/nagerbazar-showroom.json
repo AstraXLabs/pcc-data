@@ -1,0 +1,105 @@
+{
+  "nagerbazar-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Sreya Ghosh",
+        "author_url": "109553525172282174142",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKRcvSjlJ-Xyt23fCcIvg3HoLYBmuXlljO6zsE1sbaZX8ctOA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Gold collection of finger rings are less. There are huge diamond earrings and finger rings in stock. Had an amazing experience. The making charge is a bit higher. The sales people were very helpful. Their suggestions were of great help. I would recommend PC Chandra Jewellers showroom here.",
+        "time": 1579427740
+      },
+      {
+        "author_name": "Pallab Banerjee",
+        "author_url": "105482846204476121030",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWgo3PF8T9cFjR_GSj9SNYprCZtfV3b26VDl9523soEtEePVsGS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "I have Visited This PC Chandra jewellers Nager bazar store, Amazing staff very polite behaviour And Special Thanks to Mr. Dipanjan he was very Humble and Polite Throughout, will visit again very soon,",
+        "time": 1737485988
+      },
+      {
+        "author_name": "Shivam Dhananjay Pandey",
+        "author_url": "101201207661921458133",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUujrmn7-LPOaRaHZvTA5gKhM1bNz36joLdTRXXPK0A5XD4mpiG=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "very nice experience with the purchase and staff.",
+        "time": 1743934061
+      },
+      {
+        "author_name": "Anirban Chandra",
+        "author_url": "112728294238213301620",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJzLzIjtEuOumjNMTbDDArxRqqohSuSk6JkHqO4-xxroAODVEU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Super duper collection 😍 👌.",
+        "time": 1747641310
+      },
+      {
+        "author_name": "Debadrita Mukherjee",
+        "author_url": "108020031309667899318",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWWkFOsQBkAxCqSJ9BovegNunENyviWm8N_Y6tuVZUvDIRmKtzI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1742713650
+      },
+      {
+        "author_name": "Monomita Sen gupta",
+        "author_url": "106893302119700055719",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX_x2fz47poKHBYw3hnk9Fqkprlt-nGDoWzSR7ToKwcokmqPSIiIQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1738172631
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 498,
+    "name": "PC Chandra Jewellers, Nagerbazar",
+    "last_updated": "2025-06-25T20:28:38.207Z",
+    "data_source": "live_api",
+    "place_id": "ChIJdcbyYXif-DkRnuPn5YuqzRs",
+    "store_key": "nagerbazar-showroom"
+  }
+}

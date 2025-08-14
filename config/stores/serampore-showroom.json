@@ -1,0 +1,135 @@
+{
+  "serampore-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 361,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Anusree Saha",
+        "author_url": "112117539831324003553",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXsfwbOGIZXBvp9dpLF8TzpPpCbTHAGEUntmXhNpas84-jZjwXcVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "I recently visited the PC Chandra Jewellers Serampore branch and had a wonderful experience. The collection, especially their necklaces, is elegant and well-crafted. I purchased a necklace and was very happy with the quality and design.\n\nA special mention to the staff—they were extremely polite, professional, and helpful throughout my visit. They patiently guided me with the designs, shared the details clearly, and ensured a smooth billing process.\n\nOverall, great experience with both the product and service. Highly recommended if you're looking for good jewellery with excellent customer support.",
+        "time": 1750489478
+      },
+      {
+        "author_name": "Anushka Deb",
+        "author_url": "118317402670198698815",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUjczKvN8rYCjzf33_YqCvfCYY4OCeMz1vFbO5ChJwX_PqQhJJOOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Today we went to Shrirampur Showroom to purchase my Engagement Ring, their collection is very good. We are very satisfied with our purchasing. There was a staff named Saheli, she helped us with our purchasing. She was really very helpful and well behaved. From her we also came to know about a gold scheme and the scheme is really very good and we invested in that. Overall our experience was really very good.",
+        "time": 1746036270
+      },
+      {
+        "author_name": "SRABANI ROYCHOWDHURY",
+        "author_url": "113365402530884456898",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWxY07Ea9bzJXn9cI51RiaM5kvipyr5RES_r75U0SXziGzkW4c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "P. C. Chandra has always been my first choice. I visited their Serampore showroom with my Mom. Collections were good and so was their behavior. They were so kind and patient with an elderly person. The purchase was also very beautiful.",
+        "time": 1747131725
+      },
+      {
+        "author_name": "Trinee",
+        "author_url": "101379042195303621662",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJ1KOoklcHxOiirE6f-xZ6t9pHm29gCsn-25beR1DvN8Olc0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "The products and services are wonderful. Happy with the service and looking forward to purchase stuffs further in future",
+        "time": 1750592388
+      },
+      {
+        "author_name": "Debasis Das",
+        "author_url": "115903589287414499861",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUD-FXnipOysG-lLYIweGELYe02U7oclGbDNOjqUGZrH5858y8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good product collection, reasonable price. Well behaved staff. 👍🏻",
+        "time": 1748681877
+      },
+      {
+        "author_name": "Suchandra Dutta",
+        "author_url": "107357077418523131186",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLi_nYkxfwU1Rs7BT8JuiFlMRKMoXgOIBMAsDB1dF5A1Rp1t5Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Satisfied with their collection and behaviour",
+        "time": 1750665328
+      },
+      {
+        "author_name": "Praveen kumar Jha",
+        "author_url": "111619732641595291781",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLchyCiHEnUJt3rpsWoEoa1c_og53q_XBfWpA2Mpe-eQBa9Ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good customer support. Thank you.",
+        "time": 1750761424
+      },
+      {
+        "author_name": "Soumi Mukherjee",
+        "author_url": "115175697975610865835",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI1NQF5XiKWumpLFZqbe0qSqgOA0A3D6eLUgCjOcI5-FeE40Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Excellent",
+        "time": 1750833262
+      },
+      {
+        "author_name": "Simi Roy Chowdhury",
+        "author_url": "117667767741268557321",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJy36tcA3_xYxuerVN4Q7OMZ4-y8g65ACL0UTl9Ravz0GE1pA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good",
+        "time": 1750771570
+      },
+      {
+        "author_name": "Debanjan Ghosh Mondal",
+        "author_url": "115952890954317504403",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVraQIGT1tVV9trfj-YsiZ6FJO6Kg3NhKzSQ6DKyPLcpe2nnhNu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750597110
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 753,
+    "name": "P.C. Chandra Jewellers, Serampore",
+    "last_updated": "2025-06-25T20:28:43.572Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ0XYpCbmT-DkRtHt7EPb7d38",
+    "store_key": "serampore-showroom"
+  }
+}

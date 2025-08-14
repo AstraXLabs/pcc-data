@@ -1,0 +1,145 @@
+{
+  "ahmedabad-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 723,
+        "i": 3,
+        "w": 1600
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Suman Saha",
+        "author_url": "109527177399104668043",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJOlb-Mi1W3-UvmE-lmPL48Vw8x0VtngKvnz1KFh1Us2WHXkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Amazing staff. Beautiful ambience, great hospitality, latest and highly crafted jewellery collection. Recommended for each & everyone. Thanks to all the staff for giving a highly satisfying shopping experience.",
+        "time": 1745085304
+      },
+      {
+        "author_name": "saubhik Mondal mondal",
+        "author_url": "117411588094795405084",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLht8-_4fL7drpz-sqwxmY_zHayw8FJL81_-OHearjOQzxc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Woow the best gold collection I have ever seen in Ahmedabad. Loved every piece they had on offer. I went there to buy necklace for my mother. My mother loved it very much. Thanks. Keep on your good work",
+        "time": 1737673766
+      },
+      {
+        "author_name": "Rashmi Mahajan",
+        "author_url": "116721355732491420829",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIXp7oBr2hBST6gu7yPJq-8Wy73ZEg9dNHYeXJFH2rN8ZC4PQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "I had a great experience shopping at PC Chandra. Staff are very friendly and got the best value for money jewelleries. Highly recommend it for new and latest designs.",
+        "time": 1742637903
+      },
+      {
+        "author_name": "Tapan Ray",
+        "author_url": "104751034500495239641",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIkINlcWFy1h7hWdICB4ou8V4tepdVOVWPrmGcAoTAKf25mWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent service by the P C Chandra team at the Ahmedabad showroom. Really impressed with the professionalism and courtesy shown by the staff. Wishing all the best.",
+        "time": 1745317754
+      },
+      {
+        "author_name": "gaurav baruah",
+        "author_url": "112355448070067516778",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLAUIar-em1Ra2Mg9upKYuNTu2QKRzVlriBUZXUwl-z1NqSoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Latest collections.of Gold Earrings,Rings and bengals\nStaffs are really humble, polite and good thing they accept their Mistakes.\nWell deserved!!!",
+        "time": 1745246806
+      },
+      {
+        "author_name": "Ruma Paul",
+        "author_url": "108280139557339020196",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXXFzMFqsXUvg2aINnLPKg5Woe7ZNs9p9NxRWeZ_psWpZeGduc3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good experience but making charges is too high",
+        "time": 1750511030
+      },
+      {
+        "author_name": "Ankit Parmar",
+        "author_url": "112254216863108641456",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWUjk-cNumhuf4bJtGaQzGTNBpbmGOMRWfZmnGt5NqqThsjrUFv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Excellent Service 👍👍👍",
+        "time": 1750685519
+      },
+      {
+        "author_name": "Tejal Prajapati",
+        "author_url": "115327786472973043879",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLRLIVJuC3h6u9yGJYAvC572gdiAaEEpsPsNbiaARjcgPzdLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Fabulous sarvice",
+        "time": 1750742669
+      },
+      {
+        "author_name": "Shruti Sural",
+        "author_url": "110037734024133834231",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX_OpLO_JouCM3t1FUw-q92bSRRTUVOQpQNhIUUuSckzWZpGG7D=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good behaviour.",
+        "time": 1750423230
+      },
+      {
+        "author_name": "Aaruu Vaishanaw",
+        "author_url": "113101211185406733887",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKicCilox0Stz1lfVG8WD3Z2oMCrvAxgK40nVjeCT9dBmHiEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750667181
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 80,
+    "name": "P. C. Chandra Jewellers Ahmedabad",
+    "last_updated": "2025-06-25T20:28:13.096Z",
+    "data_source": "live_api",
+    "place_id": "ChIJY3MoK1SFXjkRFgytSOZ5_BQ",
+    "store_key": "ahmedabad-showroom"
+  }
+}

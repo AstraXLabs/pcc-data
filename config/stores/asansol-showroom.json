@@ -1,0 +1,110 @@
+{
+  "asansol-showroom": {
+    "photos": [
+      {
+        "h": 533,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1340,
+        "i": 3,
+        "w": 1600
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Pårømîtá Ghosh",
+        "author_url": "102037222273213881876",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXK7UpTaIsIMbX49fkeglIsI_MTtAYs21kHY6OlhpfowjXwtIGO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I recently visited P.C.Chandra Jewellers Asansol branch and was absolutely amazed by the service I received. From the moment I walked in, the staff made me feel welcome and valued as a customer. All the staff members were very friendly and helpful. Unlike some jewellery stores that can feel intimidating, the atmosphere here was warm and inviting.\nThe sales associate named Debanjana assisted me took the time to understand exactly what I was looking for and showed remarkable patience as I browsed through various options. And the other sales associate Urmila’s knowledge about the pieces and everything was impressive - offering insights about the materials, craftsmanship, and design elements that helped me make an informed decision.\nWhat truly stood out was their no-pressure approach. I never felt rushed or pushed toward a more expensive option. Instead, they seemed genuinely interested in helping me find the perfect piece that matched both my taste and budget.\nThe store itself was beautifully organised with elegant displays that made it easy to view their collection. Everything was immaculately clean, and the lighting was perfect for examining the jewellery's details. I highly recommend to anyone looking for quality jewellery and exceptional customer service and authenticity. I'll definitely be returning for future purchases!",
+        "time": 1740478624
+      },
+      {
+        "author_name": "Debanjali Dutta",
+        "author_url": "101174009260378103396",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJYNi9Ybo-gowp79PNKem_ABxMDOoz8d_DbnGcdDeopcGH4xw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best jewellery showroom in asansol.. All staff behaviour is very politely. It's my best choice for any kind of gold purchase... I love P C Chandra jewellers ❤️❤️",
+        "time": 1741261259
+      },
+      {
+        "author_name": "Tarun Mukherjee",
+        "author_url": "100685077369841928381",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLaC4aolwR1EBn2sPZjrqwNG6BSjAit7tzrnoTbltMrufp-Ow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Presentation and behaviour of sales person is very Nice & helpful. I am very happy about the sales person Mr. Biswajit Paul and his politeness.\n\nThanks.",
+        "time": 1742646122
+      },
+      {
+        "author_name": "Sarmistha Acharya",
+        "author_url": "103090312085633422654",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIvnx4mtAya85rlaljXDfhNOSUVJMYLcxXn0e1SybRdUoDO0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Love the service, design and quality. Urmila is amazing. She makes my buying experience so smooth. Thank You.",
+        "time": 1737806594
+      },
+      {
+        "author_name": "Ashish Kha",
+        "author_url": "108349495030614687006",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUSiB_CeD3UPf_jaA00N-YEwbCfkKGXEf7oZPS8UhqA_0viQlzF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Good behaviour of staff and collections is good here.",
+        "time": 1734012760
+      },
+      {
+        "author_name": "Rashmi kushwaha",
+        "author_url": "114375805200113099786",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVlexDhx_8_wai6vQtpoP9-qy0tP6HfsXFQpFJXAdwwA5depKuG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good behaviour",
+        "time": 1741340004
+      },
+      {
+        "author_name": "Kalyan Sen",
+        "author_url": "116432438681267780419",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXukAKxUq-ZJankK7laW1SEOg2s6Q9F4X3oReptu0HgDtYm0ZOb=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Awesome",
+        "time": 1748794949
+      },
+      {
+        "author_name": "Urmila Bhowmick",
+        "author_url": "107884144963161818262",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXh6alPzSkrEIUxUZH99SzuatnQ-zEUslwZQDGLITOGIlAwVf4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1741260723
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 656,
+    "name": "P. C. Chandra Jewellers, Asansol",
+    "last_updated": "2025-06-25T20:28:14.752Z",
+    "data_source": "live_api",
+    "place_id": "ChIJpWDo58If9zkR1Aj5IUI7ZKA",
+    "store_key": "asansol-showroom"
+  }
+}

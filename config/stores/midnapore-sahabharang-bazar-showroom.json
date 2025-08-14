@@ -1,0 +1,100 @@
+{
+  "midnapore-sahabharang-bazar-showroom": {
+    "photos": [
+      {
+        "h": 424,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 1423,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1280,
+        "i": 5,
+        "w": 720
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Pinki Dey",
+        "author_url": "116195703065333990445",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLsjoJPP6_NuqDjBo5JxnWcTdnuemoZiY7uaic8Hx617WN9AQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Reliable, transparent billing process, easy old gold exchange policy are main plus points here...\nHuge collection of bengali traditional and modern jewellery design which i can't find anywhere.\nStaff is very supportive and well mannered.",
+        "time": 1652256868
+      },
+      {
+        "author_name": "Rajashree Banerjee",
+        "author_url": "111515979172052503788",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXg9t_QpqMeknDP8RbmzPBARQcfR4rFmk4cNsUhyaOOWQwG27w6Dw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "All my jewelry for my marriage has been purchased from here. The service is awesome. No doubt about product quality. Staff behavior is very friendly and polite.",
+        "time": 1686722724
+      },
+      {
+        "author_name": "Aditi Mandal",
+        "author_url": "103700885037692665160",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUY2vgvkfTrV9cnDnGiSlxOEiHsSNFJzajjC6bdY6Y6iATnYWZMTw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Always favourite shop❤️best ever designs and collections",
+        "time": 1714971547
+      },
+      {
+        "author_name": "Ujjwal das",
+        "author_url": "102058028008116555642",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUN7Hp4V-BQJjxJ3H5TGOQ9BBeVL0fAmdSfWxl46atALMAiaKw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Huge collection of jewellery",
+        "time": 1746143177
+      },
+      {
+        "author_name": "Raju Ram",
+        "author_url": "104963658928946555647",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWjXwqRzStMs9irYDasyaCzm-YYRRlpj_gvHj1VCr4IeRNcF8Dl=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1745810643
+      },
+      {
+        "author_name": "Suvadeep Patty",
+        "author_url": "106537727626499898945",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX316AotOyDVkTY0RvYmJ3nGvsxTaN84i-UcgNzy9LgEp53Tld6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1742616588
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 517,
+    "name": "P.C. Chandra Jewellers, Midnapore, Sahabharang Bazar",
+    "last_updated": "2025-06-25T20:28:36.588Z",
+    "data_source": "live_api",
+    "place_id": "ChIJuYCv9jNbHToRI7XJtCq9n2s",
+    "store_key": "midnapore-sahabharang-bazar-showroom"
+  }
+}

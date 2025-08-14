@@ -1,0 +1,120 @@
+{
+  "girish-park-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 1280,
+        "i": 2,
+        "w": 720
+      },
+      {
+        "h": 450,
+        "i": 3,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "RK Jaisal",
+        "author_url": "109203232748398928843",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXk1wHr76RMPioFqePCtmS3bFCI4T0vp0xM2T7FyEuq2s7XKikPXw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "11 months ago",
+        "text": "All Jewellery is good but the billing process should be fast I visited two times but it took me 25 minutes to do just billing the rest of everything good to me.",
+        "time": 1721397355
+      },
+      {
+        "author_name": "Nairita Roy",
+        "author_url": "101918661867600044112",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWbdEaP1TvtKPUpK2IRMn-0YYUsGbmN_kKm-xYOnASuZtgLaLLd=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "11 months ago",
+        "text": "The overall experience was good. The material purchased was certified and the shop was customer friendly.",
+        "time": 1721738628
+      },
+      {
+        "author_name": "Suparna Chatterjee",
+        "author_url": "100180140470919104819",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJaQrl4W7YvTpqPdMkciBFML_x1kkAiVv49DMhlQZreaXj3bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Purchasing experience is good and Sales staffs are very much cooperative and Gentle..",
+        "time": 1725779250
+      },
+      {
+        "author_name": "INDRA JEET GUPTA",
+        "author_url": "116766495482581704071",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocK59Z1OaJauh5PncES-NW6HvKjx2IXWoOY7KgR_RbF79yrIlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Purchasing experience is good enough and staff behaviour also great.😃",
+        "time": 1725532415
+      },
+      {
+        "author_name": "Senjuti Gupta",
+        "author_url": "115276741935325268396",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU_lQsuLqNB5dT5L0Yv6aqp3x08_bQqoWbp3bpZk7CUYz40oBANCg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Very nice behaviour.. all over good experience",
+        "time": 1732628434
+      },
+      {
+        "author_name": "Tiyasha Das",
+        "author_url": "107581790865591941836",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKKS5eZscjU4eszUOuPDaIpT8KcFNwfMFXp3AdhKAUi6cE8KLk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "All over good experience..",
+        "time": 1738218046
+      },
+      {
+        "author_name": "Soma Das",
+        "author_url": "115472953296965779369",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWU2zupbnX6PfdPGi01NquKuRwb9E8oMpCRW-SF2WLNDRd2mY1_dQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1745130993
+      },
+      {
+        "author_name": "Rabin Paul",
+        "author_url": "117939486163999328273",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocK8B6Q14r_Bm63-OTB8xw79gGSwmyySAh9EgVxVSIbfDzNi_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1743683923
+      },
+      {
+        "author_name": "Gopa Mukherjee",
+        "author_url": "113059995331192935771",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVmWA6PUSngu1yDv143V5bUJ29dmF6ltf_VzZpY06UajPcrMyho=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1735988872
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 69,
+    "name": "P.C.Chandra Jewellers, Vivekananda Road",
+    "last_updated": "2025-06-25T20:28:15.296Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ69B08tJ3AjoREGFnPBEubT0",
+    "store_key": "girish-park-showroom"
+  }
+}

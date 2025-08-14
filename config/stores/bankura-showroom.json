@@ -1,0 +1,100 @@
+{
+  "bankura-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 360,
+        "i": 3,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "BIKRAM DUTTA",
+        "author_url": "100769438029013475701",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXqYamYNa05if-FMJhM9DH2yTymCA1GkFl-xhZ4hWkjyx90RiU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Designs are good. Lightweight items also available. Making charges are on high side w.r.t. other brands. What I felt bad about service is usually tea or coffee is asked to customer within 5-10min of entering. In my case, after 20-25min, when we confirmed 1 item and moved on to buy other items, they offered courtesy. This kind of courtesy I have not expected from this reputed brand.",
+        "time": 1723511957
+      },
+      {
+        "author_name": "SANJIB CHATTERJEE",
+        "author_url": "113280381486958530523",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVnZcIHvp8_PeEPNKiCYnMwNxmWzfbU_gTgLNgIUmHc0C2LsJc-xA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Situated near Panchbaga flyover and Sreeleathers, bankura.\ndiamond, silver and Gold  jewellery of 22 carat, 18 carat and below are available. Nice designs. Making charge is high i.e. more than 18% which is 12% in local jewellery shops. Gemstones are also available. Every type of payment methods are acceptable here.",
+        "time": 1730191538
+      },
+      {
+        "author_name": "Dr. Rani Chatterjee",
+        "author_url": "112283195423283442145",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVL37gR6j-kibz6Rkjw7F7nd7hkLoasmPw-rWxsAJeUSv87G-ZWtg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "8 months ago",
+        "text": "Good collection of jewellery, both gold and diamond. Also some good chains in stone.\nBut their billing process is messy",
+        "time": 1730039997
+      },
+      {
+        "author_name": "Payel Maji",
+        "author_url": "103496511586651988476",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVD3QCxtBYfXj47Q4s9IfnvlbECd1DhD0ajDzmajLomvmpiTX8A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "12 months ago",
+        "text": "The collection is really fabulous. Anyone can get products regarding their range . I brought this for my mother.",
+        "time": 1719368089
+      },
+      {
+        "author_name": "ELECTRICIAN SAYON",
+        "author_url": "105745240974245483725",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX-nlCvgvwaxcmz7UmDJg-J12LO3gpiSjrosEvZNzO_YJa87iI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Very nice",
+        "time": 1738681164
+      },
+      {
+        "author_name": "Koushik Ghosh",
+        "author_url": "118356664781685637997",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJi2pvjK8GfG4IK50zxsr2f5QwEwTp0FYRqBrO0g7HnSSsjZdI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1742017251
+      },
+      {
+        "author_name": "Aryaman Patra",
+        "author_url": "115862964698802556589",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX9MzUV0TlQzT-XOjeorLLMA5CcSCB1vx7aRnyoCneYsklTFWaJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1741182011
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 558,
+    "name": "P.C. Chandra Jewellers Bankura",
+    "last_updated": "2025-06-25T20:28:16.397Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ59rmR0Sv9zkRXLM6e3iYZ14",
+    "store_key": "bankura-showroom"
+  }
+}

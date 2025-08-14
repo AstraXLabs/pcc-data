@@ -1,0 +1,120 @@
+{
+  "siuri-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 619,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 1422,
+        "i": 7,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Ayanabha Ghosh",
+        "author_url": "100795981441827246062",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUFP-OFTFnz9e3zyUInISdMvKYf0pbNQ19R4rZ-yWnbCsKkRxVWrg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Suri's one of the two largest and branded jewellery showrooms. Designs are awesome. Products are of a bit higher price. Location is also very good, at Suri bus stand. Main problem is no parking lot is there for four wheeler cars. Bikes and two wheelers can be parked beside the road.",
+        "time": 1524410582
+      },
+      {
+        "author_name": "DEBASHIS CHATTERJEE",
+        "author_url": "114628026972929535680",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLhQ3TQ-sUrOYc8BqLmOiulW5-u8oU2iuR17v8IzXCwbsUsWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We have spent a lovely moment in the p.c chndra jewellers,on the auspicious day of mother's day here.they have taken a great initiative of celebrating this and their behaviour is too good and polite.. also must visit here for exclusive designs collection",
+        "time": 1684069260
+      },
+      {
+        "author_name": "fardin sk",
+        "author_url": "110256989860848596467",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLl6UCM2Zi7YdGr1Ae7qgepNEk9eWCYsQNIFbUHkCu1NPXSrw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Mostly loved place ...... For Any jewelry item 🤗🤗🤗🤗🤗😍😍",
+        "time": 1635170987
+      },
+      {
+        "author_name": "Abida Sultana",
+        "author_url": "103168530550085212735",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI3BZWQgxe0jjN2UjL_6-IsAFtihnN3XLs5_Fu22NMxSCI3xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "One of the best jewellers",
+        "time": 1732788752
+      },
+      {
+        "author_name": "Ardhendu Sahana",
+        "author_url": "116966741759573263663",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUCcOXNGWDy7J0_r9myuB9x7oBmn11uPLHWyuSZfyV63e6Avub8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1745120647
+      },
+      {
+        "author_name": "Soumen Dutta",
+        "author_url": "114399569064827234371",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWzTO8oI2U6kCAdz8VnJ38X9H_Em1iTBrwBIPi0HGaEonpT43ltBQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "",
+        "time": 1738169805
+      },
+      {
+        "author_name": "Tanmoy Paul",
+        "author_url": "112915771554294244356",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXfGtNNQvDqauDYR4Pm9AnVPUvMRxfyWiYlH5SOsOwJ-K1aPT-2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "",
+        "time": 1724083604
+      }
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 237,
+    "name": "P.C.Chandra Jewellers, Siuri",
+    "last_updated": "2025-06-25T20:28:45.169Z",
+    "data_source": "live_api",
+    "place_id": "ChIJAQAAAGxY9zkRxFjNDu07Vis",
+    "store_key": "siuri-showroom"
+  }
+}

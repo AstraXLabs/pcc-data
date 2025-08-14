@@ -1,0 +1,125 @@
+{
+  "barasat-showroom": {
+    "photos": [
+      {
+        "h": 460,
+        "i": 1,
+        "w": 382
+      },
+      {
+        "h": 297,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 256,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 267,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Armina Khatun",
+        "author_url": "110800562946966622046",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJeMdgnN7R53-mlSskxsqbigjzrOeNdILW9D2O2AaIS4a5VpA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "It was Fab experience in PC the staff was will behave and there was too much welcome to their customer, there quality are too much good and we can see blindly",
+        "time": 1750005730
+      },
+      {
+        "author_name": "rima dutta",
+        "author_url": "104591601164638174618",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIULmNHJCNAtVnilAIkY4GIKVqk4axpQ33BK-55G-_1NTgkmA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "My favourite jewellery shop for sure, I can blindly trust P.C.Chandra for quality and variety both, I will definitely recommend everyone to visit this store",
+        "time": 1740467930
+      },
+      {
+        "author_name": "Arpita Bhadra",
+        "author_url": "100219680487047952505",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU2LfkXpY7DbP3hpDdFlqwrxyMb-J3EFX95zum3I4rF9Et-QZXs4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Have been a regular customer at Barasat PC Chandra Jwellers for over a decade now and very pleased with the collection, service. Overall happy customer!",
+        "time": 1750237851
+      },
+      {
+        "author_name": "Rimpa Barik",
+        "author_url": "110265212292611393024",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWnhHO7GdfdF_cZ8EQ8yc1h4-EYBxNsFYoOsYBjvuw7mJWLUmca=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "They have different collections, all are unique and elegant. The staff behaviour are very good. Overall great experience.",
+        "time": 1748437244
+      },
+      {
+        "author_name": "parthapratim das",
+        "author_url": "110174017873087054176",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWEMvQMAn6n9-aqC6u9jFJMDC7zJRL4sshmn15_lZTbuzU6FTPb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "I have been there a few times. Experience has been pretty good all the time. Pleasant behaviour",
+        "time": 1750854014
+      },
+      {
+        "author_name": "Biswajit Roy",
+        "author_url": "110907608353244759776",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX1ZqXCfOGPIcBPfWprZ2itl3iDt-qNN21fw_RXG12wpNjw7KRA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good collection & staff behaviour was superb ❤️👍",
+        "time": 1750820275
+      },
+      {
+        "author_name": "Afreen Jumana",
+        "author_url": "112596194464325795184",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWcPZLZxSUHYzgUjUeWbuCXtNIze2GPTRd_ZhCkD_DMcI3PBduv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "All are very nice.",
+        "time": 1750852811
+      },
+      {
+        "author_name": "Sayantan Kanjilal",
+        "author_url": "103693154638155636360",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXukUiiBq9F5UQTyOcfWHWn67vWQT-e-sOtnKeQIcKwsnlngj4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Good collection.",
+        "time": 1750846250
+      },
+      {
+        "author_name": "Shiwani Vishwas",
+        "author_url": "115201607360544560732",
+        "language": "en-US",
+        "profile_photo_url": "a/ACg8ocKeDFYXF65-9iJWaOWjCi3FslvrWnEEMwup9kpH95cKyIO_0Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Biswajit",
+        "time": 1750854830
+      }
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 2088,
+    "name": "P C Chandra Jewellers-Barasat (WB)",
+    "last_updated": "2025-06-25T20:28:16.952Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ1czIo6uY-DkR_UrLAOAmm6U",
+    "store_key": "barasat-showroom"
+  }
+}

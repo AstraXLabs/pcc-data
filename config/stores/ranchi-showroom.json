@@ -1,0 +1,130 @@
+{
+  "ranchi-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 369,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 361,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 6,
+        "w": 738
+      },
+      {
+        "h": 369,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 8,
+        "w": 718
+      },
+      {
+        "h": 1067,
+        "i": 9,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "NIHARIKA SAHA",
+        "author_url": "104903965686454804350",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX2EbOzpR2He-xqNKDrF3F8C_QNL8UaYsuct49-gtUj8LyTzpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "“One of the finest jewellery showrooms in Ranchi. The staff are highly professional, courteous, and attentive, ensuring that every customer receives top priority and enjoys a pleasant shopping experience. Special mention to Mr. Deepak Kumar, who is exceptionally helpful and courteous, making the overall experience even more enjoyable and satisfactory.”",
+        "time": 1750079260
+      },
+      {
+        "author_name": "Sneha Saumya",
+        "author_url": "115455150109024408386",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV6BvGx3FrV_ga3bN4aIfLuDLAdmu-L6MwsGlNRA0QN9DxCSJ9j4Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Such a wonderful experience of buying gold jewellery here. You can get varieties of each category of your choice. The employees are very supportive and the entire place is a must go place. Go and have a great time with shopping jewellery.",
+        "time": 1735625621
+      },
+      {
+        "author_name": "Sneha Chourasia",
+        "author_url": "113459469702011211003",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKdq6Vg0WPf2z1I4L0xIF8j0n-oHgtYRad8Oq4tW1JKYAFfdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Good service. They have the best collection of jewelry and at reasonable prices. The experience was great! All the staffs were so cooperative and well behaved, especially Ms. Ankita! We would like to shop again.",
+        "time": 1718892257
+      },
+      {
+        "author_name": "Irtequa Taskeen",
+        "author_url": "110081317809540054348",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWCqfXk501C_y73602asa_dSqg16szzIV6sJmhQbPC67MF1NWU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Wow your jalaya to authentic and your jewellery shop interior also good and you have amazing collection",
+        "time": 1744735280
+      },
+      {
+        "author_name": "ISWARI PRASAD MANDAL",
+        "author_url": "116837680895447490188",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKMjxH13_0AS-4yKTZkObkwHRa6fd5z0BMOO0NZ_EfrPWgd_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Attractive manners .dadicated service\n\nOf mr pritam nandi",
+        "time": 1746696883
+      },
+      {
+        "author_name": "Priya Kumari",
+        "author_url": "115053550843616438893",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKT_OC7XzNByV6gIuzVtrdh4xEvdaTSQzaRMK0eVjq9sFPMFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Amazing",
+        "time": 1748225972
+      },
+      {
+        "author_name": "Sri Ram Choudhary",
+        "author_url": "110254445727052431794",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJQdl59p2n-srtIO4WSMMbwLhSxrqd38GU2YDDQ95SQjXgNdA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746606318
+      }
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 207,
+    "name": "P.C.Chandra Jewellers, Ranchi",
+    "last_updated": "2025-06-25T20:28:43.054Z",
+    "data_source": "live_api",
+    "place_id": "ChIJx8r3B2fh9DkR1Muy99dxGZQ",
+    "store_key": "ranchi-showroom"
+  }
+}

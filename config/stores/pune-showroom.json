@@ -1,0 +1,160 @@
+{
+  "pune-showroom": {
+    "photos": [
+      {
+        "h": 1600,
+        "i": 1,
+        "w": 739
+      },
+      {
+        "h": 370,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1066,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1066,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 5,
+        "w": 739
+      },
+      {
+        "h": 1066,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 370,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 1066,
+        "i": 8,
+        "w": 800
+      },
+      {
+        "h": 1066,
+        "i": 9,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Camellia Ghosh",
+        "author_url": "104218558012181973655",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKq5sOMRp0JlNUSIwa8xIA696JkX33IHsSqWpEnhKcgDf1N8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We have been a regular customer  in Kolkata showrooms. However we visited the pune showroom for the first time today, and we're not surprised that we felt very much at home. Call it designs.. call it reception everything  was 100%. Special mention to the girl who was helping us with the purchase. Was too good :) A smiling customer going out of the store :)",
+        "time": 1745242576
+      },
+      {
+        "author_name": "Shikha Mitra",
+        "author_url": "115089275360905138695",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJ2TeBHh3VusydW7OntO021wvIem0kxDZWtL0JlOutXlGDP9A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "This morning we were in the Pune showroom..it was really good..personal attention,cordial,and great service. Designs were good as it is with all PCJ...Samir was with me..spent a lot if time..infact all staff are excellent...thank you",
+        "time": 1750838364
+      },
+      {
+        "author_name": "Puja Sen",
+        "author_url": "116090639560100391567",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV9DPhso16Y_IhV3HU7ve576jCHHrg9Wvj8pr0e49jlRXUamlc=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I'm a happy customer today I got a good service from Vijay and sameer.. They both are very good in behavior.. They treated the customer like a homely nature. Very satisfied.. Designs are extremely good.",
+        "time": 1746867629
+      },
+      {
+        "author_name": "Eeshika Malhotra",
+        "author_url": "113800607527620709933",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXUlqXl0VS46zGru9YN_FVH4RP7ortY_V6EBJPrCsLYwL9E1oq3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I have been a part of P.C. Chandra for more than a decade now. The designs, the collections, the behaviour of the staff here (Laxmi Road, Pune) is impecabble. A must visit.",
+        "time": 1744451164
+      },
+      {
+        "author_name": "Indrani Singha",
+        "author_url": "116268659278084542884",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXJpd-g4k6U2fwmD2GOJFTQukozZunIFlpmHK3_GdgUJXHSZy2K=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Mr. Sachin showed lot of patience and great hospitality in showing us great designs. The entire staff is courteous. I would certainly come back again.",
+        "time": 1734690145
+      },
+      {
+        "author_name": "Tameka Dhar",
+        "author_url": "114014602627923422718",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUcb_9mm-OHHEI8sZEt0vLWqlKL-GUSp9sfYiZtop4k4BEdszVJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Thanks for amazing hospitality.  Had an opportunity to check out the very pretty collections and was served by Samir who was very helpful",
+        "time": 1749891040
+      },
+      {
+        "author_name": "Apurva Kumari",
+        "author_url": "103802223708032425111",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVds-P6ZQqmr9nuZxJBu0DYvjC9vxUD1R7P0Gz4y0wKzcuRV65tUA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "We love their designs, bought our wedding jewellery from here and liked the overall experience.",
+        "time": 1750770313
+      },
+      {
+        "author_name": "Sulagna Roy",
+        "author_url": "114475531036413751775",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIXaVWugob9cu9zuwCbLpGltr0tBxlVdvl-BUTiVTK8wAO4QA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Design and quality are superb as always. The staff was very helpful",
+        "time": 1750522618
+      },
+      {
+        "author_name": "Karishma Meshram",
+        "author_url": "100863828339301518530",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjURhjWK1o_wv0xc0uGbhLX7u9ai1BNTMofIs458EiObNs7VZdjpbw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "All the designs are unique, and the staff is very friendly.",
+        "time": 1750673113
+      },
+      {
+        "author_name": "saptamita saha",
+        "author_url": "106578405651744171202",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUg47_KGbLa-XoELKvGE4nOees7Z0kdHE1ODXzMWSM008KMq7Ai=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Very good experience and very good collection.",
+        "time": 1750671927
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 270,
+    "name": "P. C. Chandra Jewellers, Pune",
+    "last_updated": "2025-06-25T20:28:40.942Z",
+    "data_source": "live_api",
+    "place_id": "ChIJZTZD5_TBwjsRxZCUdlsTY-c",
+    "store_key": "pune-showroom"
+  }
+}

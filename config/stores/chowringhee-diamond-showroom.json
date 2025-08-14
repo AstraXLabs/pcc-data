@@ -1,0 +1,95 @@
+{
+  "chowringhee-diamond-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 359,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 3,
+        "w": 718
+      },
+      {
+        "h": 1600,
+        "i": 4,
+        "w": 718
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Ipsita Das",
+        "author_url": "110902230089320636925",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI9K7urSX6Oge8U_MIIiKTr7KQKDEq1TMkZOaUVe1y-jBYgpA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 years ago",
+        "text": "Quality- perfect. Variety-huge. Service-nice. All good and sweet, but for the customers who would shop immediately. Other schemes seem to be a loss for the customers. Other than that, this is one of the best places to find Gold.",
+        "time": 1525437005
+      },
+      {
+        "author_name": "sanjukta Ghosh Dastidar",
+        "author_url": "108498369446022034330",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV945eYxD2jsWnTF0ll7CrsbwHlYE6WNEyvQ3izUq8dkVVSe-4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I just bought my first diamond... excellent experience at the Elgin Road branch....Mr. Proshanto made sure the process was hassle free and the product was delivered before time...",
+        "time": 1745997825
+      },
+      {
+        "author_name": "Kiranmoy Ghosh",
+        "author_url": "104561840822872527365",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW3uQwEh6Xyny8x8VKQurLb6W9egRkTxO_R0BUWwn6hQUrnt-kj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good experience Mr. Prasanta Pal helped us on the diamond section for selecting our engagement ring",
+        "time": 1746366906
+      },
+      {
+        "author_name": "Sudip Chaturvedi",
+        "author_url": "100593216699102697902",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUSdiARMIyDo0zSz7psFgy_rdotIzuqrarf-RU0UImJS2U27vYY=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very nice jewellery shop\nGood and quality product here",
+        "time": 1745338882
+      },
+      {
+        "author_name": "Pijush Gharai",
+        "author_url": "108367094609689780569",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUjQ2NkdyP8cDRMnOqTOarTC31SXCgcj002z8f_wWs3H_eB9iL71Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1744865518
+      },
+      {
+        "author_name": "Anisha Debnath",
+        "author_url": "100212163762271330668",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVajLWQi5ELZF1NnshU2pyUnmxiZdoWxwpoC7lJZeQWgl_acg5xqw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1737531157
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 2199,
+    "name": "P.C.Chandra Jewellers, Chowringhee",
+    "last_updated": "2025-06-25T20:28:23.892Z",
+    "data_source": "live_api",
+    "place_id": "ChIJO12VRz53AjoRbTOiVlQsmIY",
+    "store_key": "chowringhee-diamond-showroom"
+  }
+}

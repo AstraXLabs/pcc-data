@@ -1,0 +1,110 @@
+{
+  "cooch-behar-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 531,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 4096,
+        "i": 3,
+        "w": 3072
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "siddhartha shankar sharma",
+        "author_url": "105943243864668220865",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWCW8Tw3onJhBrTs5zJAI987c51qng8LYnIBAkWx8Yp8i3W5gE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Obviously it might be a good place for jewelry....but one thing for the street food lover I can say that...the putchka (Panipuri) stall infront, after 6pm I thing,  is really awesome....really taste it once...before leaving Coochbehar, I think U ll never forget these.",
+        "time": 1603793636
+      },
+      {
+        "author_name": "Rounak Kumar Sinha",
+        "author_url": "106346215588039728154",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUAZNcgwOFfWLNoU_bM45iraPVwfC9TOLYgl0hpBVvmGLiFyUS1tg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "It's quite awesome with lot of beautiful jewelleries as well as diamonds.\nWe all know that how diamonds are expensive .This is the best jewellery shop for diamonds in whole coochbehar with awesome and beautiful jewelleries in it.",
+        "time": 1555989408
+      },
+      {
+        "author_name": "Sudeshna Ghosh",
+        "author_url": "105321637494357624513",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVCvlLaSWxw--0r1jdk1d3EEuRAICLQ8jX8bZClB4HqZvSqPYU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 years ago",
+        "text": "Awesome ambience and beautiful interior design. Staffs are well mannered and helpful. All types of gold jewellery are available like light weight and exclusive both. Designs are eligant and beautiful ❤️",
+        "time": 1683001218
+      },
+      {
+        "author_name": "Prasenjit Das",
+        "author_url": "108128291947444261291",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVwYfVfPO0rQtCNNVpFb8uy5pIHywfYOnpIDF3FZVaLHYEQh30k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "We have visited many time at Coochbehar Store, it was a great experience, nice designs, nice behaviour of staffs. Thank you P.C.Chanda. 😊",
+        "time": 1749706750
+      },
+      {
+        "author_name": "amit paul",
+        "author_url": "102362603464177970478",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIcJ7oy1r76TFaSArf_eqSevOTaZ-tE1HrMW5xu-S-XUDDnPnw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 weeks ago",
+        "text": "Good",
+        "time": 1748330684
+      },
+      {
+        "author_name": "Arindam Mukherjee",
+        "author_url": "114840804157972885994",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUjT8enEeiKjAxQAbWpgkApQ4LmAl2R6EvIUokDnIbFstHR2__Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1749781867
+      },
+      {
+        "author_name": "EHOMAT ALI.",
+        "author_url": "106274281187555653595",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUTeD8YgH-yaOsFN9NQbdNcCuu80gyJ2WXNwcgl9W42sN6cqJs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748751846
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 458,
+    "name": "P. C. Chandra Jewellers, Cooch Behar",
+    "last_updated": "2025-06-25T20:28:24.899Z",
+    "data_source": "live_api",
+    "place_id": "ChIJvc8FyIL-4jkRcsdimWPnNlA",
+    "store_key": "cooch-behar-showroom"
+  }
+}

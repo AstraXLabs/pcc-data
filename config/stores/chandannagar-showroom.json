@@ -1,0 +1,105 @@
+{
+  "chandannagar-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 405,
+        "i": 3,
+        "w": 719
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "joyti mallick",
+        "author_url": "101556702253287640578",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIZhxz7Ktz-mPbm_VHCZ-nUxhfav4B7knAVE9o8AfVFRHGGwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good experience. The sales lady was very soft spoken very well communicative. Will come again definitely",
+        "time": 1745757043
+      },
+      {
+        "author_name": "Tapan Ghosh",
+        "author_url": "100456879978872028979",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWpyOBZohJDlyjWo8yI-Q_JDPS_vdHX-fLpMvGuQhFd2q4J3cWX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 weeks ago",
+        "text": "Very nice 👍🏻 and best showroom I always come here for every need of gold or diomond 👍🏻☺️",
+        "time": 1748426382
+      },
+      {
+        "author_name": "Shyamali Saha",
+        "author_url": "106414751667318392881",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWxoOeeE2JC5U6gJoOr6YjaRsmSK_ZSFuk5kSbmPbD0Dg8VffkkBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good experience.Behaviour of all staff is very good. They have a good collection.",
+        "time": 1746801396
+      },
+      {
+        "author_name": "Ananya Sensharma",
+        "author_url": "106069522306190967284",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLQsn6aYlQqEk9MzOz34rKBUCfowzjZyTXSB4KrmxctafKLaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Thanks to the wonderful service at PC Chandra! Wonderful collection .",
+        "time": 1749983653
+      },
+      {
+        "author_name": "Sampriti Pal",
+        "author_url": "114441880493947242437",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWwoVQJ1RCX7MEoZllVHhFjT1GKIVxUkYZLyUMkXSJYiugNtWqRyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good staff behaviour and good design design quality",
+        "time": 1750234558
+      },
+      {
+        "author_name": "Sudipta Datta",
+        "author_url": "106754150176750084708",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJfRXLADcHu0ZcUnTWmpZvqQIue0KU-IUi89zy8BFg8oIdk7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "Purchasing experience is excellent",
+        "time": 1750771022
+      },
+      {
+        "author_name": "Aruna Bir",
+        "author_url": "105362540985696012214",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWHRPe9YOyVPqxEtNOWhJvY7dwVZ_v4n4fshyMvMTB5151gXk4i=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1749974493
+      }
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 452,
+    "name": "P.C. Chandra Jewellers, Chandannagar",
+    "last_updated": "2025-06-25T20:28:23.353Z",
+    "data_source": "live_api",
+    "place_id": "ChIJcxXH9QaR-DkRetjM9R62pEc",
+    "store_key": "chandannagar-showroom"
+  }
+}

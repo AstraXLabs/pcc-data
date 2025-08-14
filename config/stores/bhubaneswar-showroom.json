@@ -1,0 +1,105 @@
+{
+  "bhubaneswar-showroom": {
+    "photos": [
+      {
+        "h": 720,
+        "i": 1,
+        "w": 1280
+      },
+      {
+        "h": 533,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 682,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Sashisekhar Samanta",
+        "author_url": "117416315995222241907",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV-e1bx3xSxHDd2xgv7dxOfaZ8_kvZGUoqppVmQooxqBXxDpcU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It is a jewellery shop and only branch in Odisha having head office in Kolkata, WB. Staff are well behaved. Having very good collection in gold jewellery.Diamond jewellery also available in upper floors, which we did not visit. Located very conveniently adjacent to Janpath, Bhubaneswar. Over all shoping experience is very good.",
+        "time": 1698804015
+      },
+      {
+        "author_name": "Janhavi Tah",
+        "author_url": "107319953431076940194",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUz24e52m-U0cOJnS99L5maBzplX7I49ySyvkeCakrPCvHFtbcK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "It's very happy to deal  since 17 years with p c Chandra jewelry , design and also staff behavior very satisfactory.  Definitely visit it",
+        "time": 1725186146
+      },
+      {
+        "author_name": "RAGHUNATH SAHOO",
+        "author_url": "108243669954661473531",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocL0wX1oiHXO6ZMibIcsP_uFF86rHWCeySmMHtWIr4sILPTSQA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Very good collection,and staff behavior is also very good..",
+        "time": 1747400841
+      },
+      {
+        "author_name": "Lipsa Singh",
+        "author_url": "106111615077016906555",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV-B5o6KolsYRWd_GDw5C2LwQpJ5YbFwRyl2LY29SfGZ_G8h9MV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Nice collections...unique dianty necklaces...must buy",
+        "time": 1746544752
+      },
+      {
+        "author_name": "Kalmas Kumar",
+        "author_url": "112145320394723918137",
+        "language": "en-US",
+        "profile_photo_url": "a/ACg8ocIo5dxCXED5kF3i_xfw3uews2UGQu1-bNLy-SPIqrcRV42a8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Kamlesh Kumar",
+        "time": 1749103767
+      },
+      {
+        "author_name": "Gangadhar Madkami",
+        "author_url": "113818367740768294654",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW8m_pk79DL7GXgGsY7kHW8_iH4LpX88180Z6de3orSaa7KCSY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1749782695
+      },
+      {
+        "author_name": "Bharati Sahu",
+        "author_url": "108580215502598583798",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJkd6MMugLWUeBfT6Qs4rE8GkgGGV4ON-AM-pKBGQs0OlTx5Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1749673925
+      }
+    ],
+    "rating": 4,
+    "user_ratings_total": 224,
+    "name": "P.C.Chandra Jewellers, Bhubaneswar",
+    "last_updated": "2025-06-25T20:28:20.731Z",
+    "data_source": "live_api",
+    "place_id": "ChIJX1iDYFGnGToRkbiELLvY34s",
+    "store_key": "bhubaneswar-showroom"
+  }
+}

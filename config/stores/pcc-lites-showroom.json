@@ -1,0 +1,125 @@
+{
+  "pcc-lites-showroom": {
+    "photos": [
+      {
+        "h": 360,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 532,
+        "i": 6,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Keka Ghosh",
+        "author_url": "104479567409472961612",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIFcc0lGphChmqXwkSRkajl_z4j1bdjhxoC5gusr3oYUeY4UA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "PCC lites at Mani Square is an appreciable initiative by the P C Chandra group.. a variety of collections of gold and diamond jewellery at affordable prices is available here... Cosy ambience, warm approach by staff Prasenjit Ganguly make me feel comfortable when ever I have visited the store..",
+        "time": 1723032693
+      },
+      {
+        "author_name": "sriparna mondal",
+        "author_url": "111840706970214589817",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXIrSHWcZ5nHSHyvanwKxFQU3HQzfe53OIQWshImdaJzRyXqDM0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "Bought my first gold lite earrings from P. C. Chandra mani square. Mr. Somen guided us well. Very polite yet professional gesture.",
+        "time": 1723038696
+      },
+      {
+        "author_name": "Priyanka Das",
+        "author_url": "113474075617427893239",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXwkOK5GsQYo4WFDWRVsQQKTl7JusY9Voo0vW59ABRVejDv61E=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "The behavior of staffs are good. Collection is good. They reply easily via email. Only problem is phone number does not work.",
+        "time": 1724052523
+      },
+      {
+        "author_name": "anand thirani",
+        "author_url": "113910840787091206402",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVuM3DRPSB-Q4UoZC_lH4pFlG3vHzNEyBX7A7gM1eitQyAUVSMXJw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Nicely done store .\nThe signage and the store stands out at the ground floor",
+        "time": 1720585125
+      },
+      {
+        "author_name": "Sourav Bag",
+        "author_url": "113212302503014000043",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLJUE7Yc6fLupDfR_csqsCy7MDo0b9yet4LqBhcBB5lrN0WmDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Good for jewellery.",
+        "time": 1746385458
+      },
+      {
+        "author_name": "Swapnendu Gupta",
+        "author_url": "111982539235256104062",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVA2JVB19IaS-0d3bXQPxxFRieeINyIAwcZHWkDWunUXq_soQU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750693131
+      },
+      {
+        "author_name": "Shilpi Roy",
+        "author_url": "111893465614254610404",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWfMEcJuAI4E2xot-7mrPy5VQtaIcWrNgJxRTdAIp1maQBkOlLv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "",
+        "time": 1740556096
+      },
+      {
+        "author_name": "Pampa Chakraborty",
+        "author_url": "116145812940272749073",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLgxm0PDzSeoowFBxg5QtCK6bYN-_UPxFIfsZJEGtLbI300gQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "",
+        "time": 1737541793
+      }
+    ],
+    "rating": 4.8,
+    "user_ratings_total": 53,
+    "name": "PCC Lites by P. C. Chandra Jewellers, Mani Square",
+    "last_updated": "2025-06-25T20:28:40.408Z",
+    "data_source": "live_api",
+    "place_id": "ChIJq6Cs3bl3AjoRZe25dbcgcdM",
+    "store_key": "pcc-lites-showroom"
+  }
+}

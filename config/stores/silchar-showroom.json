@@ -1,0 +1,115 @@
+{
+  "silchar-showroom": {
+    "photos": [
+      {
+        "h": 480,
+        "i": 1,
+        "w": 721
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1422,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1066,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 8,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Abhishek Roy",
+        "author_url": "106340297504279499506",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW-jKp2YUE9nslTR0gWoKECGWU4kbRP9e4lPjkuHxzt0QRZt-7c=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "P.C. Chandra Jewellers began in 1939 and grew to be India's one of the largest jewellery house with a legacy of over eight decades.\nThe founder, Shri. Purna Chandra Chandra’s vision and passion for creating bold and legendary jewellery designs, has been able to carve a way for the company to establish trust amongst its customers for generations now. Now PC Chandra Jewllers opened their 66th Outlet in Silchar, Assam.",
+        "time": 1716571548
+      },
+      {
+        "author_name": "Tarashankar Chakraborty",
+        "author_url": "112157155056280364670",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJmmvNFJe3_Ax_aaQtSxXyIT7sNVcOE8E0q_weFScIj4AJshA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Excellent collection",
+        "time": 1739452297
+      },
+      {
+        "author_name": "Hafiz Somor Ali",
+        "author_url": "117474142086448100848",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocItPWMqIV8RNJcVEEOa49E2gwWXt-SxWPKNgDhKiWxt4v6EzoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750368812
+      },
+      {
+        "author_name": "Akbar Laskar",
+        "author_url": "101758266600472013589",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIDdHl48-TtuYTVUkvDQrxd_Ux4BRPmqfqntSF6HVkJKKGp9AU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1748164694
+      },
+      {
+        "author_name": "Bimal Krishna Dhar",
+        "author_url": "105835075898532684966",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI-BlmgTjwS7Y3IZA5SwdT-gACqI08GrZ9mAr-Ju-kXpy-VBw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746200308
+      },
+      {
+        "author_name": "Marjan",
+        "author_url": "117195158653621310004",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLQ74w9Y5lO0fmasdeE1wckFwvpR8BGdo6_eOv7KO9LnkaHsQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1745960003
+      }
+    ],
+    "rating": 3.2,
+    "user_ratings_total": 92,
+    "name": "P. C. Chandra Jewellers, Silchar",
+    "last_updated": "2025-06-25T20:28:44.098Z",
+    "data_source": "live_api",
+    "place_id": "ChIJPXpU-RNLTjcRT1XYXYBXLWU",
+    "store_key": "silchar-showroom"
+  }
+}

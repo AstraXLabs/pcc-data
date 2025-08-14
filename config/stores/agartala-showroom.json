@@ -1,0 +1,115 @@
+{
+  "agartala-showroom": {
+    "photos": [
+      {
+        "h": 4000,
+        "i": 1,
+        "w": 3000
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Juhi Debbarma",
+        "author_url": "113737423146892258852",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUyInhGnbYyEHVB6fevP0z6wJsDGQQFhSmf0jwlgLtiyEbi1SkH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "PC Chandra Jewelers offers an exceptional collection of gold and diamond ornaments, along with outstanding and satisfying service. A special mention to Mrs. Ratna Sen, who is incredibly welcoming, as well as the rest of the staff for their hospitality. The gold quality surpasses that of any other local jewelry store in Agartala. I highly recommend visiting and purchasing from them. Cheers!",
+        "time": 1741169299
+      },
+      {
+        "author_name": "Baishali Das",
+        "author_url": "116224554290838543024",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWP-cuJsQJxBDkv_T_ZQi_bqFEUIRiFCdqrhp0IDWJ5CYnAXQTsuw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "I must appreciate all the staffs here. They're very helpful, polite. I was mesmerized by their behaviour. And ofcourse they're having wide variety of designs. 10/10. Thank you.",
+        "time": 1724064187
+      },
+      {
+        "author_name": "Shubhankar Das",
+        "author_url": "102237207430713510655",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUsTctoUdnMCDZ5xVejLBB8J_5Pb0K681wmAKwbW2q4pKbrSrQE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "They welcomed me very politely.\nAssisted me in all way and after purchasing gold I get surprise gift.",
+        "time": 1730130341
+      },
+      {
+        "author_name": "TUTAN SUTRADHAR",
+        "author_url": "116334458874745881898",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU7VesSK7IhHO2i9r5xlyOMfC3BRGOuBJZyzOzZlT-J-mqTJBcx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Product collection is good and choicefull specially mens ring",
+        "time": 1735462312
+      },
+      {
+        "author_name": "Pujayita Das",
+        "author_url": "108515257487367442641",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLB_21Ba0AxLLEg5KHH4CRjGuV6WdLV7oO3KlWirJfRSG59_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Experience was quiet good ... Friendly workers ....",
+        "time": 1749296397
+      },
+      {
+        "author_name": "Pallavi Tiwari",
+        "author_url": "115802892086119119218",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXIzPpeWdE3LrtINx9MBepxV2DrnlqRmUxM3Lr1UgtPguZQUBI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "The staff are knowledgeable and helpful",
+        "time": 1750403072
+      },
+      {
+        "author_name": "Debjani Saha",
+        "author_url": "111479315684848835336",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXggNQYGP7admUsv46d8nw4myu_RItw3BR9QtA3yXywx6dnYUYy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1749724174
+      },
+      {
+        "author_name": "Mrinal Paul",
+        "author_url": "102113826991744348617",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIVw-sjHedGREo4MYaOFlMGY86ofP5SB_KVP2R0qxiLUwlsQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "",
+        "time": 1749627503
+      }
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 363,
+    "name": "P.C.Chandra Jewellers, Agartala",
+    "last_updated": "2025-06-25T20:28:13.661Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ_x99A_fzUzcRBblGSUAGVlU",
+    "store_key": "agartala-showroom"
+  }
+}

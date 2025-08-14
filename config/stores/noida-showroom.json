@@ -1,0 +1,145 @@
+{
+  "noida-showroom": {
+    "photos": [
+      {
+        "h": 361,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 358,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 479,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 508,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1280,
+        "i": 6,
+        "w": 782
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Ishant Prashad",
+        "author_url": "103110117510456310404",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVNL-R7xmKeBT52wAp8tm4NDWNrzlZx53-t8OQHMKVSVx7bShD7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "I recently purchased a necklace from PC Chandra and I am absolutely thrilled with it! The design is even more beautiful in person than it looked online, and the quality of the materials is exceptional. The customer service was also outstanding. BIKASH Matty was incredibly helpful and patient, answering all my questions and making the whole experience enjoyable. I highly recommend PC Chandra for anyone looking for beautiful, high-quality jewelry and excellent service",
+        "time": 1750680686
+      },
+      {
+        "author_name": "priyanka saha",
+        "author_url": "117421379122273413142",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUBa032a6qy_3YFwuZS2CqaKk32rZHw-9_MQ3rHk18TMkNv4Ypf=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Excellent service, Aditi was really helpful and patient . Branch have excellent design and collection of gold jewelry. Absolutely stunning collection and top-notch service! The staff (Aditi) were incredibly helpful, and the designs were both traditional and modern. I found exactly what I was looking for. Highly recommend this showroom for anyone looking for quality and elegance!",
+        "time": 1745066387
+      },
+      {
+        "author_name": "Diptajit Ray",
+        "author_url": "107500078695950606820",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWIK-h1k5xrHf-DAfpPpAknxMPd-unceBTgPvUWlCoSHcR_76i3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We visited PC Chandra, Noida sector 18 store. It was a good experience and received excellent service by Samrat Banerjee. He was polite and showed multiple options. He gave us enough time to make our choice. He made sure that we were happy and satisfied with our purchase.",
+        "time": 1744009970
+      },
+      {
+        "author_name": "Riyaan Roy",
+        "author_url": "114903953244901888274",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWia440s1QkRerVHXzkHt6q6KYO0IW1EzcqVH1faaMAdynQmUrsWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "My experience with PC Chandra Noida branch has always been an excellent one. Saheli is too good and helpful in selecting the desired jewellery. I definitely recommend every one to visit the Noida store and buy some beautiful pieces for self.\n\nChandana Dasgupta",
+        "time": 1745767808
+      },
+      {
+        "author_name": "Basab Banerjee",
+        "author_url": "102626968218344182080",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocI-gO4Oi_YD5LTThwlSkT_A1kvXqm_F7a1oijqGHh3-4AxSaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very good experience with PC Chandra. They are honest trust for the and they care for their customers. I would recommend them to everyone who wants to have a good experience. Sunny as a customer associate is exceptional.",
+        "time": 1745073871
+      },
+      {
+        "author_name": "SUBHAJIT CHATTERJEE",
+        "author_url": "100664803533501533643",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIghfAOTx-IsBLgZ081aYDL2VBiQz86cfkFekJbOo-oIt1OxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Bikas Maity was an excellent guide for me to select the right product for my wife on her special day. His behaviour is extremely polite and really liked the way he spoke to me with a smiling face.",
+        "time": 1750774636
+      },
+      {
+        "author_name": "Poulomi Maity",
+        "author_url": "112301260067054676978",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKm2UAmfllAmxP5ng7HeAzYSM0HqMP70_uFZ4V-jqdRIunaBtA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Received excellent service by Samrat Banerjee, in the Noida sector 18 store. He was extremely polite and patient, and made sure we were happy and satisfied with the purchase.",
+        "time": 1744007913
+      },
+      {
+        "author_name": "Malovika Paul",
+        "author_url": "103066853452925671136",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX96PjchrHOabRvCtFlaJr4ORiX2Oh6AnBzhhBZAFnGNoAhHWfW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Great Collection, Excellent Service given by Reshu she was very polite and helpful.",
+        "time": 1750758247
+      },
+      {
+        "author_name": "Niharika",
+        "author_url": "101430845036452445064",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUJ9hyuMo0LvtClTVmMEOsO6yjmLj3w3Gr2ycpjbDf1LZB-HCw9=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Vikas good service and good products",
+        "time": 1750771176
+      },
+      {
+        "author_name": "Raj Shekhar",
+        "author_url": "114935013883410410427",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU4QPnZhU7888rUqe0saFXHrJCtABJ7LMb91ThmsBte4ov7r6Am=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750836188
+      }
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 451,
+    "name": "P.C. Chandra Jewellers, Noida",
+    "last_updated": "2025-06-25T20:28:39.315Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ2wzh1E7kDDkRAFZUKMbjJw0",
+    "store_key": "noida-showroom"
+  }
+}

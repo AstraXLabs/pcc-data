@@ -1,0 +1,125 @@
+{
+  "bishnupur-showroom": {
+    "photos": [
+      {
+        "h": 176,
+        "i": 1,
+        "w": 265
+      },
+      {
+        "h": 1600,
+        "i": 2,
+        "w": 722
+      },
+      {
+        "h": 1067,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 854,
+        "i": 5,
+        "w": 600
+      },
+      {
+        "h": 1600,
+        "i": 6,
+        "w": 720
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Satinath Das",
+        "author_url": "118323309142967129944",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVhwvR6tu0FOInibx-gfbXtIuoh6kuYWr84yeGG1uKlZuAPXNMr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Attractive sets of collection. All the staffs and branch manager are very helpful and cooperative. Great experience. Highly recommended.",
+        "time": 1733213183
+      },
+      {
+        "author_name": "Tubai Karmakar",
+        "author_url": "117843063340864294922",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIoKeISOQgoMAlAtTMK8TdZHWlNxHKBHA74kYPGwD2okY9Asw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Love and customer service I have never seen before in any other gold showroom.. Thank you P.C Chandra Jewellers Bishnupur.",
+        "time": 1726896166
+      },
+      {
+        "author_name": "Anupam Misra",
+        "author_url": "117690404187681686553",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLmP9dDJnFtJp9jRtjhcY24w-Nl8l01bImqboiU8MtObfiH3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Excellent place  for gold and diamond jwelleryand customer service is very good.",
+        "time": 1737015309
+      },
+      {
+        "author_name": "Asit Kundu",
+        "author_url": "103391441447702567501",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJyzA04azFt84Fjkt1o_hOs7A1DeyRTucGJmgN3V_VfFPtnwUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Nice behaviour,\nGood collection",
+        "time": 1737205802
+      },
+      {
+        "author_name": "SAMARTH KUMAR Roll no-42.3A",
+        "author_url": "102453228223217306136",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUvVFhO2_lWkJrSUfR_r1-IvQ00ZluLVjhtKzhgu0GxPXOWw9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Sandip very good",
+        "time": 1743340317
+      },
+      {
+        "author_name": "KAJAL ROY",
+        "author_url": "115480416121306046578",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXTn-b-FNboe8Eo--j_oyzhIclG5441rkUVY4c2j2tCoNsxe4rfgA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Good collection",
+        "time": 1742801082
+      },
+      {
+        "author_name": "Mithun barman",
+        "author_url": "108667625919095347255",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJ-qvQ_FJoUYcMX-CMFPjiw5slEYcGKkgTq2wi-UZCmJxqF7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748586740
+      },
+      {
+        "author_name": "Sahadeb Nandi",
+        "author_url": "103006157242874131052",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXZ0k54xL1ZSDHd-rsStjVOt7_Tk-FIdHJargLkY0Ox62FWnAPn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1747270663
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 76,
+    "name": "P. C. Chandra Jewellers, Bishnupur",
+    "last_updated": "2025-06-25T20:28:21.238Z",
+    "data_source": "live_api",
+    "place_id": "ChIJmcn4OBuT9zkRCJkrZ3XrUYA",
+    "store_key": "bishnupur-showroom"
+  }
+}

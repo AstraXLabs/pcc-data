@@ -1,0 +1,130 @@
+{
+  "rampurhat-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1040,
+        "i": 5,
+        "w": 780
+      },
+      {
+        "h": 600,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 1040,
+        "i": 7,
+        "w": 780
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Shyamal Haler",
+        "author_url": "106385833959439323400",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIH4N6xxKZkUEcKcY7-HOn1MXkZakYGyduoXbRrNxZrAGowAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "My experience is absolutely fine with this show room at Rampurhat. The boys n girls r well enough to deal the customers like us but more than that they have made me friendly. The office staff including Manager and sales officials usually take  \"Care \" with hearty welcome. Wish all the best for the institution n personnel as well.",
+        "time": 1740902590
+      },
+      {
+        "author_name": "Vivekananda Gupta",
+        "author_url": "105625531843306741948",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKgYQjyXJTGUM3V66kUKtAQ9IcZ12S-NhUJ5AiPumTqQ8G8nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "This is the first visit of us in the PC chandra jewellers, and the first experience of the visit is really very charming. We are overwhelmed by the nice behavior of the attendants of the showroom. Thanks you all for treat us so well. Nice to meet you. Meet you again.",
+        "time": 1743314046
+      },
+      {
+        "author_name": "Krishanu Sarkar",
+        "author_url": "114924961114048610200",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVHBkTtA3vpYBZw9yD2vJhI0G38VUhLvMFgXu-2pnxj9XHv7PQ_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "One of the best astrologer and employees are there .\nWe are very happy with their service.\nGood behaviour from service people.",
+        "time": 1740815493
+      },
+      {
+        "author_name": "Tarun Kumar Mondal",
+        "author_url": "116065089160961170845",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLGuKv_stBi1bXb2nRq9Yattec0XSrFqaZSBlod-BVP-YF8dA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Customer friendly. Satisfactory behavior. We became a family member of Rampurhat Pc chandra.",
+        "time": 1739431568
+      },
+      {
+        "author_name": "Paritosh Mandal",
+        "author_url": "105238674788334406572",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW3y42jx_KEoDSewSl3n0HjR-JZySoZJpoGpDe2-swu5q4H45WN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This showroom and all staff members are very good and their response is excellent.",
+        "time": 1747999951
+      },
+      {
+        "author_name": "Sonali Hansda",
+        "author_url": "113530878771680935098",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLogMISV3EfWTPVvLVli4mZr03UjCgzqqWVop87iklYuMXLTzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "Good experience.",
+        "time": 1749104056
+      },
+      {
+        "author_name": "subir Mandal",
+        "author_url": "117194049453217862255",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUkIVjVkLHFKzKJDITL0zj5OAAyPhB2OAoN0RHJ2Eln8WT-5cDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Thanks.",
+        "time": 1747997027
+      },
+      {
+        "author_name": "ujjwal roy",
+        "author_url": "116981512809616456921",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKofDkexFHcQ5FZL-8uWnHDTMZxqw2coj3m6F9FVE52UqrTBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Good",
+        "time": 1748091006
+      }
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 199,
+    "name": "PC Chandra Jewellers, Rampurhat",
+    "last_updated": "2025-06-25T20:28:42.521Z",
+    "data_source": "live_api",
+    "place_id": "ChIJEzc8B1Qf-jkR2iJUSkQ5bwo",
+    "store_key": "rampurhat-showroom"
+  }
+}

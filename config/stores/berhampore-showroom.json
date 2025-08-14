@@ -1,0 +1,140 @@
+{
+  "berhampore-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 900,
+        "i": 5,
+        "w": 1600
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Jayi Jayi",
+        "author_url": "110410235217469304806",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKde3fgmySgaH9azLB4hJB1tGvATaG8BrADw7zpjEQ58o14kg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Went again 2 months ago, behavior of the staffs, waiting service, arrangements really good 👍 , bhaiya at the ring showing site even recognized my mother instantly. Thank you so much,wonderful experience.\nWould like to see a little bit more stocks 😊.",
+        "time": 1692743715
+      },
+      {
+        "author_name": "suparna ghosh",
+        "author_url": "107931431768394061763",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWm-rjXCeoRK1Agg-2Il4UFV64SoCzpDA_uqVOiyFBCYBiPmkuLyw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "I bought 10k gold jewellery first time for my self.it is a awsome pice. They have very good collection with reasonable price, and it has a exchange value too.",
+        "time": 1555485003
+      },
+      {
+        "author_name": "Palas Das",
+        "author_url": "113186328291811861524",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXIn1RSkI9uTZiY9nPwAcGs_B4ZjkOxTrI7uvf-x86EiQO1NsKu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Good place for shopping gold ornament and good staff behaviour as well. 👍🏼",
+        "time": 1736385442
+      },
+      {
+        "author_name": "ZR Nilay",
+        "author_url": "100984652208371709724",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWPXCeAMVzGGV6uuv0B4Ui6bO6KYxArAAnwU1FXjCdoUYfubaYc=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Gentle and polite behaviour of the staff. The location is awesome.",
+        "time": 1739789086
+      },
+      {
+        "author_name": "Kakali Das",
+        "author_url": "100171620164238137286",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLMhwjKah1DNeAc0aNkfCsk1jneA2ml6LZJKx0GsY-EfhVETR0Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Good location food was moderately good",
+        "time": 1746461916
+      },
+      {
+        "author_name": "BISWAJIT ROY",
+        "author_url": "117788097982258863595",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVIpyAJyAfnLy48qHHg7eHTSHuHN7d2Vw7gZXnE7zcIsz0UABw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "☺️☺️☺️",
+        "time": 1747053626
+      },
+      {
+        "author_name": "Dipali Khatun",
+        "author_url": "113398524105165783242",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUn9HBOzJMcKhmMEN_irOrxKdMLJfdJj0bB1xO1xsnS3Wt2IQv5=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good",
+        "time": 1748782612
+      },
+      {
+        "author_name": "Piarul Islam",
+        "author_url": "115125647006596933856",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXh3eUgJS6dUTSKPvvAH1u90OXd0EI7SVxS_NsJrv-BgYj7N71Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748684985
+      },
+      {
+        "author_name": "PRABIR KUMAR ROY",
+        "author_url": "109421168202692608404",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjU_jq-0E1_gCn1vh8YqilkiId-zUGhLMK00U-dRM5bUlGGMzA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1750220296
+      },
+      {
+        "author_name": "Roni Roni",
+        "author_url": "112421474296459765750",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV_TGZlGWqfymQvyYi4GzmSDP5pwPGSGlHb6hPBWcRZgOVOImDwBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746786761
+      }
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 429,
+    "name": "P. C. Chandra Jewellers, Berhampore",
+    "last_updated": "2025-06-25T20:28:20.215Z",
+    "data_source": "live_api",
+    "place_id": "ChIJly81mNF9-TkRlf1Ffg_uyKQ",
+    "store_key": "berhampore-showroom"
+  }
+}

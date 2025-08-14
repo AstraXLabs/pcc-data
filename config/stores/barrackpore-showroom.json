@@ -1,0 +1,110 @@
+{
+  "barrackpore-showroom": {
+    "photos": [
+      {
+        "h": 1067,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1280,
+        "i": 3,
+        "w": 648
+      },
+      {
+        "h": 1067,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "arup jyoti",
+        "author_url": "110814575917665466161",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXALzn1T5QeAEZ2nKgbwsqx1R0GfKjN5fLhOo2OQo5mFQkkIMEq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "We are satisfied with the ambiance, reception and Behavior of the staff, manager and others.... We were visited at baby section at second floor and expected few more number of items there to pick from. However, the maneger and staff guided  us very gently to pick the item from the available options. Necessity of a lift for elderly persons and parking zone of vehicle has been felt.\nOur overall experience was good.",
+        "time": 1692345157
+      },
+      {
+        "author_name": "Avidreepta Gupta",
+        "author_url": "104263893523501947662",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWTUZ6iZk62bnr0H16LhxvLtzhQlSfZtADUNk6CmofnxBfK8UHo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Very well behaved staffs, showed my required ornaments without any hesitation. Satisfied with polite and courteous service. Discount offered could be another star added on the crown. Overall satisfied buying 😊",
+        "time": 1688652906
+      },
+      {
+        "author_name": "Kumar Sinha Bose.",
+        "author_url": "113867487070980306557",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKoGefVZ0oOpnzNUd6YJXvxwvw0ckQhhbdRWLoDic4eJ4ZCLg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "Exceptional experience.The behaviourexc of all the staffs are so much cordial,nd affectionate that cannot be explain in words.Besides the design of ornaments are always excellent , appreciatable.",
+        "time": 1729869938
+      },
+      {
+        "author_name": "BIJAY MISHRA",
+        "author_url": "102104203151197264750",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVCriBpxoPTps7-T7sWujK9EbPb_UJlBE57_K4cM2tWRD082dNULQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Nice collection have  in this store when I visit Last time in Rupa store Just behind of jwellery shop.",
+        "time": 1742493431
+      },
+      {
+        "author_name": "Susanta Roy",
+        "author_url": "107043679746275462209",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXdq6MvSuQXtq4Clt9R6laUjq7jPNm4lhubDzpI20hP70iMonJb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 months ago",
+        "text": "Staff behaviour good & product collection very nice. All over experience very good..,.❤️",
+        "time": 1727609275
+      },
+      {
+        "author_name": "MALAY KUMAR BISWAS",
+        "author_url": "113596340461557352061",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJkZK4AVOQ0R7CEJhJ6glsoFk2I40PZPsTE0S5NVlci0GLPCV9x=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "",
+        "time": 1746950793
+      },
+      {
+        "author_name": "Jayashri Biswas",
+        "author_url": "114092987468576863260",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjULjH3UjCp3YvwPUV6gWqeeCNGuxbEywxSvrpzCDVeeOUsp2MSF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 months ago",
+        "text": "",
+        "time": 1731087525
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 599,
+    "name": "P.C.Chandra Jewellers, Barrackpore",
+    "last_updated": "2025-06-25T20:28:17.500Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ_Y7m-_qb-DkRvHAiNApeurg",
+    "store_key": "barrackpore-showroom"
+  }
+}

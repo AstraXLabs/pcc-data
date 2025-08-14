@@ -1,0 +1,125 @@
+{
+  "jamshedpur-showroom": {
+    "photos": [
+      {
+        "h": 600,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 4,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Ayaktan Roy",
+        "author_url": "100949469075421542473",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW3Qofn_1_1l_W17-VlgK0EDypn25y5s2HDXIX-X4vilvBD2JDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "We had a wonderful experience at PC Chandra Jewellers. The showroom had a wide range of elegant and beautifully crafted jewellery pieces. A special mention to Gyaneshwari Ji, who assisted us with great patience and professionalism. She guided us through the collection, understood our preferences, and helped us make the right choice. Her warm and courteous approach truly enhanced our shopping experience. We are very happy with our purchase and highly recommend visiting this store.",
+        "time": 1749443035
+      },
+      {
+        "author_name": "Rajlaxmee Roy",
+        "author_url": "102080643431762242204",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV3M_SkSt6MPEODFU5p1ONag_APFON-b00h_YKzxozSezaoPss=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "This is my first time purchase from jamshedpur store, though we r very old customer of p.c Chandra,( Kolkata) Most trustworthy store, they treated their customers very well, humble behavior , welcoming faces,specialy my dealing staff was great,It was very nice to visit p.c chandra,jsr..",
+        "time": 1750850898
+      },
+      {
+        "author_name": "SHALINI KUMARI",
+        "author_url": "102818464701092546107",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjWgvs20gXxD20GFYpvF4MMod3pTyzS6UXIQzC7QxGfEGFIwpT-p=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Very helpful staff especially Pritam Nandi. He guided us really well and also offered us best deals. The gold designs were good and caters to every customers requirements. Very good purchasing experience.",
+        "time": 1745229260
+      },
+      {
+        "author_name": "Ruman Kumari",
+        "author_url": "100191372703575708143",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJhS7CZF4fU_aQBJm7GcXfoxoBqsJtE6QmZfyweQ2RLxUFMIg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "I bought my engagement ring.\nAnd the experience was very smooth, I met Laxmi and she is very professional.\nShe really helped me choosing the best ring for me.\nI would like to give her 5 out 5.\nThanks.",
+        "time": 1750682921
+      },
+      {
+        "author_name": "Prashanta Mitra",
+        "author_url": "110341224911096304923",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJtYArRTBZX06Zj10Mg-HU08heR-N8ekYQh33NSu14rGGND7w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Really today enjoyed my Birthday celebration. I am thankful to the staff here to give me such an honour. I was invited by Madam Laxmi on behalf of P. C. Chandra, Jamshedpur.",
+        "time": 1750856415
+      },
+      {
+        "author_name": "Arghya Deb",
+        "author_url": "117025863383788147902",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVIh0R65YjswlEUh0omHn_3-6eXuMWnZaAOBAo4qh5hxUPfnXn-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We visited the showroom today. It was a great experience. Madam Piu, Subhadra helped us during the process. They are extremely customer oriented.\nKeep the good job going.",
+        "time": 1745745936
+      },
+      {
+        "author_name": "Sutapa Dutta",
+        "author_url": "109944461705514804160",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocIXYwBGmSTkPFM3a4puNJ5bIW0mfrnZul3aNrNXrUtzX-_6lVsJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This was my second purchase from this brand must says it’s a great one. Also thank you for the lucky draw gift. it was quite unexpected.Nicebeha",
+        "time": 1747066772
+      },
+      {
+        "author_name": "Soma Sarkar",
+        "author_url": "107212845661859041515",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUgUuUxf4oaIRBLyIGOoByRH5nEIQyoP0N1UXbDE2LiDyOBMuw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Had a wonderful buying experience with Mr. Pritam Nandy assisting us with the whole buying process.",
+        "time": 1750596088
+      },
+      {
+        "author_name": "Mitra Das",
+        "author_url": "113961715192585841529",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKOdKwCcaQQSNxecY09Wg1w9aKKng7S976XrS3-eED1g_8CbIc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Ambience was great, staff behaviour was awesome specially our host - Pritam Nandi",
+        "time": 1750689289
+      }
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 1886,
+    "name": "P.C.Chandra Jewellers, Jamshedpur",
+    "last_updated": "2025-06-25T20:28:31.882Z",
+    "data_source": "live_api",
+    "place_id": "ChIJwfbg5mXj9TkRgfm6iMCOQVE",
+    "store_key": "jamshedpur-showroom"
+  }
+}

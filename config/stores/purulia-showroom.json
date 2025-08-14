@@ -1,0 +1,120 @@
+{
+  "purulia-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 3,
+        "w": 557
+      },
+      {
+        "h": 369,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 369,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 1600,
+        "i": 7,
+        "w": 739
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Jayita Ghatak",
+        "author_url": "102525734563633469949",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUMh_VDNsriVUvb2YSX5VO-oLY-SniAOUb9fbTLrqHpif-INVEH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "Very nice secured place to visit. Collections are good. Most of all staffs behaviour too good, they won't judge u by ur price range like other branded places staffs do.",
+        "time": 1738742513
+      },
+      {
+        "author_name": "rupam 15",
+        "author_url": "100748762219826946084",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocJWhJjYuHSl9fvLxgBnTWHU0KqE8RNYICI_coVBOriPh7x1vQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Extremely  Happyto be here .Our marriage anniversary is warmly celebrated by all staff and Management today on the 11th March 2025",
+        "time": 1741699291
+      },
+      {
+        "author_name": "Sayantani Chatterjee",
+        "author_url": "107794675722597894556",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW3bQ3aRzqw6XXy63YqASXfHU-R6_O6_RcKftRcL5wbP4ZEHZcRjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Had a wonderful evening at PCC purulia, Mother's day celebration ❤️",
+        "time": 1684069152
+      },
+      {
+        "author_name": "Munmun laha sen",
+        "author_url": "106192497426232826935",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVD1rdLxqUuU1mf020EhM6MWYfc8lLs2YIq1vhFjTtvN9YgHqHu=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750291319
+      },
+      {
+        "author_name": "Depen Ash",
+        "author_url": "100559627029882164152",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX7qUEnPUiTtNvSCwgVzpBvXXtm6Ag8hUOTBsjSevWdy8C-bmmg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748919750
+      },
+      {
+        "author_name": "Pappu Sharma",
+        "author_url": "113380044190392362377",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUYIlhZZHvT4H-Nw-NnwEOUZBlRFf0cNoTHuVGyQp79fQYseINiAQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "",
+        "time": 1745151100
+      },
+      {
+        "author_name": "Subhasis Ganguly",
+        "author_url": "114767259167205650668",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX98sVvaS4QCxZEW9Qu6XHpY_P-ZnQJUy0BFYbmZadXa0kC0YeiBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1750575885
+      }
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 384,
+    "name": "P. C. Chandra Jewellers, Purulia",
+    "last_updated": "2025-06-25T20:28:41.462Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ90rl9mCH9jkRCXoffo-QFlM",
+    "store_key": "purulia-showroom"
+  }
+}

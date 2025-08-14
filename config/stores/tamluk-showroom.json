@@ -1,0 +1,115 @@
+{
+  "tamluk-showroom": {
+    "photos": [
+      {
+        "h": 450,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 369,
+        "i": 10,
+        "w": 800
+      },
+      {
+        "h": 1062,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 3,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 771,
+        "i": 5,
+        "w": 800
+      },
+      {
+        "h": 1067,
+        "i": 6,
+        "w": 800
+      },
+      {
+        "h": 450,
+        "i": 7,
+        "w": 800
+      },
+      {
+        "h": 600,
+        "i": 8,
+        "w": 800
+      },
+      {
+        "h": 1152,
+        "i": 9,
+        "w": 576
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Prithu kuity",
+        "author_url": "110610957107268176569",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVDzBKtTWmEU7zir-0riRDGhuIvnr0ikqNMdd08KJffklqs2IKcKg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Very good collection of jwellery and specially diamond jwellery. Costomer service was very good. Stuff behaviour is also impressive.",
+        "time": 1748004616
+      },
+      {
+        "author_name": "Emon Kalyan Mandal",
+        "author_url": "118250701920190307707",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVMPQYNZIDig6L4ijkXZhM4G09GJi3tjp6hEksjQnjtAoVcLyTw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Good and trusted place for buying gold ornaments",
+        "time": 1737072176
+      },
+      {
+        "author_name": "LORDKingCobra Gamings",
+        "author_url": "107196975459636805329",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjV53mODwGN8LjUH6uibV8NUi5G-9ZCNm-VkJPuPkNSt_lK9znZxLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Nice service of P.C Chandra Jewellers 🥰🥰",
+        "time": 1745702557
+      },
+      {
+        "author_name": "Binita Samanta",
+        "author_url": "114763349898466894889",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUEEbW5DdDrbG6-eCRFEa0xIX4H7Wh0IBcVwU5KGB6wDCq4xyJT=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Nice behavior of staff.",
+        "time": 1746167472
+      },
+      {
+        "author_name": "Sanjoy Maji",
+        "author_url": "109799608548513339048",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocKy4jaEpgbLvk_KOh2-hdZlYS17IrYbs6ZLgheYHlnbKIZPzg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Good",
+        "time": 1748713145
+      }
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 220,
+    "name": "P.C.Chandra Jewellers, Tamluk",
+    "last_updated": "2025-06-25T20:28:46.203Z",
+    "data_source": "live_api",
+    "place_id": "ChIJ_____2OUAjoRjpyBy6BupcY",
+    "store_key": "tamluk-showroom"
+  }
+}

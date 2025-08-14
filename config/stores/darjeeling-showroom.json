@@ -1,0 +1,110 @@
+{
+  "darjeeling-showroom": {
+    "photos": [
+      {
+        "h": 530,
+        "i": 1,
+        "w": 800
+      },
+      {
+        "h": 532,
+        "i": 2,
+        "w": 800
+      },
+      {
+        "h": 3072,
+        "i": 3,
+        "w": 4080
+      },
+      {
+        "h": 532,
+        "i": 4,
+        "w": 800
+      },
+      {
+        "h": 532,
+        "i": 5,
+        "w": 800
+      }
+    ],
+    "reviews": [
+      {
+        "author_name": "Crazy Tech",
+        "author_url": "108972229771990555926",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjX8EhUtb_VJuy1fFMOBLVG47KCn-YF3blvIc3TD6bh53T6ridZlRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It's the best place for purchasing gold or diamond in entire Darjeeling. Genuine gold with hallmark, genuine gold rates, products, bills and especially the designs and finishing of the products are too good. I would recommend everyone whoever is reading this to visit this place to purchase .....loved it",
+        "time": 1708682088
+      },
+      {
+        "author_name": "Akash Chhetri",
+        "author_url": "107529135092780007644",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjUWg-dP9NcemiB-N1VQhJZd3SeJ15SjINi5ff4X1VZZPb3cmgXbTg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Fantastic place to purchase gold and diamond jewellery items in Darjeeling.\nDefinitely recommend you guys to visit this place once. I genuinely like the service they provide to us(customers).\nSpecially thanks to Joses Rai for helping me",
+        "time": 1750226517
+      },
+      {
+        "author_name": "archana chhetri",
+        "author_url": "111314404438242403585",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjW_F0HF-uBftjdjzbi1hTZEmE0jm8ck_NHttI0L7f1L_9oTLCc=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "Excellent customer service and wide varieties of jewelleries.Must visit place which i recommend to everyone",
+        "time": 1750500264
+      },
+      {
+        "author_name": "Tripti Chettri",
+        "author_url": "109520485801816904208",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocLYxJpZ9a4t5ldyEOVQhRzRP8pOtKJ1aueDk8Q-j8pN9pUztQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Customer service was great. Very polite and knowledgeable staff.",
+        "time": 1750236932
+      },
+      {
+        "author_name": "Uttam Kumar",
+        "author_url": "108529862216292906546",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjXcTpoRzx8Y0puk5M8g6xSR6Bjsm41KqjlsAv1LSnfiY2hO5rs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Very Beautiful collections and nice place.",
+        "time": 1732000928
+      },
+      {
+        "author_name": "Priti Dey",
+        "author_url": "112305679312670669573",
+        "language": "en",
+        "profile_photo_url": "a/ACg8ocK1YDqmqcH676yI0ARO2R7PCH05MHIfi9bK_ZZZ6Mr3BYnarA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Good",
+        "time": 1750237610
+      },
+      {
+        "author_name": "Saroj Chettri",
+        "author_url": "101231068837477902276",
+        "language": "en",
+        "profile_photo_url": "a-/ALV-UjVYdWKxUecHQl6EWVnnN2XFxzAFZPgq0peTFXQPOWUASLda8DA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "",
+        "time": 1748589701
+      }
+    ],
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "name": "PCC Lites by P. C. Chandra Jewellers, Darjeeling",
+    "last_updated": "2025-06-25T20:28:25.433Z",
+    "data_source": "live_api",
+    "place_id": "ChIJsVEaC0sv5DkRdt-n9SWz3_o",
+    "store_key": "darjeeling-showroom"
+  }
+}
