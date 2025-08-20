@@ -1,12 +1,12 @@
 {
-  "VERSION": 309799,
+  "VERSION": 552248,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.jpg?v=1755669259",
         "altText": "Timeless Elegance - Gold Necklace Collection",
-        "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
+        "linkUrl": "https://pcchandraindia.com/collections/promotions",
         "isActive": true,
         "priority": 1
       },
@@ -32,7 +32,7 @@
         "id": "showroom_banner",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Black_Blaser_Dekstop_1440_x_784_Eng.jpg?v=1754395354",
         "altText": "Welcome Offer - Store Promotions",
-        "linkUrl": "https://pcchandraindia.com/collections/promotions",
+        "linkUrl": "https://pcchandraindia.com/collections/eterknight-collection",
         "isActive": true,
         "priority": 1
       }
