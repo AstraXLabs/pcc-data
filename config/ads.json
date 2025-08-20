@@ -1,5 +1,5 @@
 {
-  "VERSION": 552248,
+  "VERSION": 653028,
   "data": {
     "home": [
       {
@@ -30,7 +30,7 @@
     "showroom": [
       {
         "id": "showroom_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Black_Blaser_Dekstop_1440_x_784_Eng.jpg?v=1754395354",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/1156.67_450_9fac1fb6-c695-4170-be05-b3fd01203255.png?v=1754389006",
         "altText": "Welcome Offer - Store Promotions",
         "linkUrl": "https://pcchandraindia.com/collections/eterknight-collection",
         "isActive": true,
