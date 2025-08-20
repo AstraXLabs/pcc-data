@@ -1,5 +1,5 @@
 {
-  "VERSION": 28421,
+  "VERSION": 100490,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3366,7 +3366,7 @@
       }
     },
     {
-      "name": "P. C. Chandra Jewellers, Dankuni",
+      "name": "Dankuni Showroom",
       "key": "dankuni-showroom",
       "status": 1,
       "street": "Amrita Apartment, TN Mukerjee Rd, opposite Binodini Natya Mandir, Monoharpur, Gobra",
