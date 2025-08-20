@@ -1,10 +1,10 @@
 {
-  "VERSION": 366887,
+  "VERSION": 309799,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_freedom.png?v=1754649609",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.jpg?v=1755669259",
         "altText": "Timeless Elegance - Gold Necklace Collection",
         "linkUrl": "https://pcchandraindia.com/collections/gold-necklace",
         "isActive": true,
@@ -22,7 +22,7 @@
         "id": "home_mugdhaa_collection",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_cd19a488-5006-463d-a857-861f90f70443.png?v=1754283173",
         "altText": "Mugdhaa Collection - Premium Jewelry",
-        "linkUrl": "https://pcchandraindia.com/collections/mugdhaa-collection",
+        "linkUrl": "https://pcchandraindia.com/collections/horoscope",
         "isActive": true,
         "priority": 3
       }
@@ -30,7 +30,7 @@
     "showroom": [
       {
         "id": "showroom_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/452320969_417849724639014_477833870486246098_n.webp",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Black_Blaser_Dekstop_1440_x_784_Eng.jpg?v=1754395354",
         "altText": "Welcome Offer - Store Promotions",
         "linkUrl": "https://pcchandraindia.com/collections/promotions",
         "isActive": true,
@@ -40,10 +40,10 @@
     "state": [
       {
         "id": "state_premium_offer",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/1440_784_f0cd6102-326f-4684-9025-10e51fe48bea.png?v=1754284879",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.jpg?v=1755669259",
         "altText": "Premium Collection - State Exclusive",
-        "linkUrl": "https://pcchandraindia.com/collections/premium",
-        "isActive": true,
+        "linkUrl": "https://pcchandraindia.com/collections/promotions",
+        "isActive": false,
         "priority": 1
       }
     ]
