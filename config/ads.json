@@ -1,5 +1,5 @@
 {
-  "VERSION": 377957,
+  "VERSION": 973593,
   "data": {
     "home": [
       {
@@ -15,7 +15,7 @@
         "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad3.jpg",
         "altText": "Welcome Offer - Special Discount",
         "linkUrl": "https://pcchandraindia.com/pages/discount-form",
-        "isActive": true,
+        "isActive": false,
         "priority": 2
       },
       {
