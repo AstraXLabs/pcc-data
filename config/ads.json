@@ -1,12 +1,12 @@
 {
-  "VERSION": 323907,
+  "VERSION": 377957,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.jpg?v=1755669259",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Creative_12_Mobile_724x640_fc40a847-4e35-4b05-8a96-824725984617.jpg?v=1756202034",
         "altText": "Timeless Elegance - Gold Necklace Collection",
-        "linkUrl": "https://pcchandraindia.com/collections/promotions",
+        "linkUrl": "https://pcchandraindia.com/collections/jewellery-sets",
         "isActive": true,
         "priority": 1
       },
@@ -15,14 +15,14 @@
         "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad3.jpg",
         "altText": "Welcome Offer - Special Discount",
         "linkUrl": "https://pcchandraindia.com/pages/discount-form",
-        "isActive": false,
+        "isActive": true,
         "priority": 2
       },
       {
         "id": "home_mugdhaa_collection",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_cd19a488-5006-463d-a857-861f90f70443.png?v=1754283173",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_aefa38ad-fe30-45c1-89d9-23a8a69fbbf9.png?v=1756203774",
         "altText": "Mugdhaa Collection - Premium Jewelry",
-        "linkUrl": "https://pcchandraindia.com/collections/horoscope",
+        "linkUrl": "https://pcchandraindia.com/collections/necklaces",
         "isActive": true,
         "priority": 3
       }
@@ -43,7 +43,7 @@
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.jpg?v=1755669259",
         "altText": "Premium Collection - State Exclusive",
         "linkUrl": "https://pcchandraindia.com/collections/promotions",
-        "isActive": true,
+        "isActive": false,
         "priority": 1
       }
     ]
