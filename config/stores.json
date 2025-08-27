@@ -1,5 +1,5 @@
 {
-  "VERSION": 139363,
+  "VERSION": 724213,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2006,7 +2006,8 @@
       "key": "midnapore-keranitala-showroom",
       "status": 1,
       "email": {
-        "primary": "pccmidnaporekt@pcchandraindia.com"
+        "primary": "pccmidnaporekt@pcchandraindia.com",
+        "other": []
       },
       "street": "Holding no.1343, Midnapore Railway Station Rd, Keranitola",
       "city": "Midnapore",
@@ -2022,25 +2023,16 @@
           ],
           "close": [
             19,
-            0
+            30
           ]
         },
         "exceptions": {
-          "wed": {
-            "open": [
-              10,
-              30
-            ],
-            "close": [
-              16,
-              0
-            ]
-          },
           "thu": null
         }
       },
       "phone": {
-        "primary": "9933529286"
+        "primary": "9933529286",
+        "other": []
       },
       "rating": 4.6,
       "placeId": "ChIJe3S8JUZbHToRUKY30FhDnxc",
