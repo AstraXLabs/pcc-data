@@ -1,5 +1,5 @@
 {
-  "VERSION": 100490,
+  "VERSION": 139363,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2060,7 +2060,8 @@
       "key": "midnapore-sahabharang-bazar-showroom",
       "status": 1,
       "email": {
-        "primary": "pccmidnaporekt@pcchandraindia.com"
+        "primary": "pccmidnaporekt@pcchandraindia.com",
+        "other": []
       },
       "street": "Sahabharang Bazar (Near -School Bazar) Dist., School Bazar",
       "city": "Midnapore",
@@ -2076,25 +2077,16 @@
           ],
           "close": [
             19,
-            0
+            30
           ]
         },
         "exceptions": {
-          "wed": {
-            "open": [
-              10,
-              30
-            ],
-            "close": [
-              16,
-              0
-            ]
-          },
           "thu": null
         }
       },
       "phone": {
-        "primary": "9933529179"
+        "primary": "9933529179",
+        "other": []
       },
       "rating": 4.1,
       "placeId": "ChIJuYCv9jNbHToRI7XJtCq9n2s",
