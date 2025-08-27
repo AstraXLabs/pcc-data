@@ -1,5 +1,5 @@
 {
-  "VERSION": 724213,
+  "VERSION": 224817,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2262,7 +2262,8 @@
       "key": "newtown-showroom",
       "status": 1,
       "email": {
-        "primary": "pcc@vsnl.com"
+        "primary": "pcc@vsnl.com",
+        "other": []
       },
       "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
       "city": "Kolkata",
@@ -2277,10 +2278,11 @@
             0
           ],
           "close": [
-            15,
-            0
+            19,
+            30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "033-25722017",
