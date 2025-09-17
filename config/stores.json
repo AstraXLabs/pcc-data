@@ -1,5 +1,5 @@
 {
-  "VERSION": 224817,
+  "VERSION": 887107,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3379,6 +3379,49 @@
         "bn",
         "hn",
         "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P. C. Chandra Jewellers, Amtala",
+      "key": "amtala-showroom",
+      "status": 1,
+      "street": "Diamond Harbour Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743503,
+      "lat": 22.3722371,
+      "lon": 88.2720283,
+      "email": {
+        "primary": "amtala@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9830521735",
+        "other": []
+      },
+      "placeId": "ChIJfYnwJ6dlAjoRNAt4S8Llsfo",
+      "rating": 0,
+      "cid": "18064472203012344628",
+      "gname": "P. C. Chandra Jewellers, Amtala",
+      "gcode": "",
+      "park": "street",
+      "lang": [
+        "bn",
+        "en",
+        "hn"
       ],
       "schedule": {
         "default": {
