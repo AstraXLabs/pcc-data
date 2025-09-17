@@ -1,5 +1,5 @@
 {
-  "VERSION": 887107,
+  "VERSION": 833246,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3395,7 +3395,7 @@
       }
     },
     {
-      "name": "P. C. Chandra Jewellers, Amtala",
+      "name": "Amtala Showroom",
       "key": "amtala-showroom",
       "status": 1,
       "street": "Diamond Harbour Road",
