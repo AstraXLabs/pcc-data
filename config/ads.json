@@ -1,5 +1,5 @@
 {
-  "VERSION": 199478,
+  "VERSION": 882102,
   "data": {
     "home": [
       {
@@ -12,10 +12,10 @@
       },
       {
         "id": "home_welcome_offer",
-        "imageUrl": "https://astraxlabs.github.io/pcc-data/photos/ad3.jpg",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640.webp?v=1757484145",
         "altText": "Welcome Offer - Special Discount",
-        "linkUrl": "https://pcchandraindia.com/pages/discount-form",
-        "isActive": false,
+        "linkUrl": "https://pcchandraindia.com/collections/thushi",
+        "isActive": true,
         "priority": 2
       },
       {
