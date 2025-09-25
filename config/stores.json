@@ -1,5 +1,5 @@
 {
-  "VERSION": 833246,
+  "VERSION": 844850,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3418,6 +3418,49 @@
       "gname": "P. C. Chandra Jewellers, Amtala",
       "gcode": "",
       "park": "street",
+      "lang": [
+        "bn",
+        "en",
+        "hn"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Bagnan Showroom",
+      "key": "bagnan-showroom",
+      "status": 1,
+      "street": "OT Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 711303,
+      "lat": 22.4682185,
+      "lon": 87.97021819999999,
+      "email": {
+        "primary": "pcc.bagnan@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073970193",
+        "other": []
+      },
+      "placeId": "ChIJESraA9ibAjoRoQp2qEm-4tI",
+      "rating": 0,
+      "cid": "15195917316269673121",
+      "gname": "P. C. Chandra Jewellers, Bagnan",
+      "gcode": "",
+      "park": "valet",
       "lang": [
         "bn",
         "en",
