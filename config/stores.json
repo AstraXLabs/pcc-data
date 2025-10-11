@@ -1,5 +1,5 @@
 {
-  "VERSION": 844850,
+  "VERSION": 462409,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3465,6 +3465,48 @@
         "bn",
         "en",
         "hn"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Diamond Harbour Showroom",
+      "key": "diamond-harbour-showroom",
+      "status": 1,
+      "street": "55QQ+QP7, অফিসের পাশে, ডায়মণ্ডহারবার বাটা পাম্পের বিপরীতে, C.I, Rabindra Nagar, Diamond Harbour, West Bengal 743331",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743331,
+      "lat": 22.189396,
+      "lon": 88.18942,
+      "email": {
+        "primary": "pccdiamondharbour@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9088335055",
+        "other": []
+      },
+      "placeId": "ChIJ9d9uCABfAjoR6OPAoqSrYtI",
+      "rating": 0,
+      "cid": "15159868019276047336",
+      "gname": "",
+      "gcode": "",
+      "park": "Not available",
+      "lang": [
+        "bn",
+        "en"
       ],
       "schedule": {
         "default": {
