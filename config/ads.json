@@ -1,5 +1,5 @@
 {
-  "VERSION": 286858,
+  "VERSION": 428403,
   "data": {
     "home": [
       {
@@ -15,7 +15,7 @@
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Mobile_Adoptation_724_X_640.webp?v=1760418317",
         "altText": "Welcome Offer - Special Discount",
         "linkUrl": "https://pcchandraindia.com/pages/dhanteras",
-        "isActive": true,
+        "isActive": false,
         "priority": 2
       },
       {
