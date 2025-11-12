@@ -1,5 +1,5 @@
 {
-  "VERSION": 500961,
+  "VERSION": 693856,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3532,6 +3532,49 @@
             ]
           }
         }
+      }
+    },
+    {
+      "name": "Bongaon Showroom",
+      "key": "bongaon-showroom",
+      "status": 1,
+      "street": "Jessore Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743235,
+      "lat": 23.0407608,
+      "lon": 88.8297767,
+      "email": {
+        "primary": "pccbongaon@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073371845",
+        "other": []
+      },
+      "placeId": "ChIJLUOMSAA1_zkRc2IJ-ImVEk8",
+      "rating": 5,
+      "cid": "5697780898381521523",
+      "gname": "",
+      "gcode": "",
+      "park": "Not available",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
       }
     }
   ]
