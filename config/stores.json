@@ -1,5 +1,5 @@
 {
-  "VERSION": 279524,
+  "VERSION": 963776,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1406,9 +1406,10 @@
     {
       "name": "Golpark Showroom",
       "key": "golpark-showroom",
-      "status": 1,
+      "status": 0,
       "email": {
-        "primary": "pcc@vsnl.com"
+        "primary": "pcc@vsnl.com",
+        "other": []
       },
       "street": "49C, Gariahat Rd, Dover Terrace, Ballygunge",
       "city": "Kolkata",
