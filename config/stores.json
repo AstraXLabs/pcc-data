@@ -1,5 +1,5 @@
 {
-  "VERSION": 312128,
+  "VERSION": 963776,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1406,9 +1406,10 @@
     {
       "name": "Golpark Showroom",
       "key": "golpark-showroom",
-      "status": 1,
+      "status": 0,
       "email": {
-        "primary": "pcc@vsnl.com"
+        "primary": "pcc@vsnl.com",
+        "other": []
       },
       "street": "49C, Gariahat Rd, Dover Terrace, Ballygunge",
       "city": "Kolkata",
@@ -2006,7 +2007,8 @@
       "key": "midnapore-keranitala-showroom",
       "status": 1,
       "email": {
-        "primary": "pccmidnaporekt@pcchandraindia.com"
+        "primary": "pccmidnaporekt@pcchandraindia.com",
+        "other": []
       },
       "street": "Holding no.1343, Midnapore Railway Station Rd, Keranitola",
       "city": "Midnapore",
@@ -2022,25 +2024,16 @@
           ],
           "close": [
             19,
-            0
+            30
           ]
         },
         "exceptions": {
-          "wed": {
-            "open": [
-              10,
-              30
-            ],
-            "close": [
-              16,
-              0
-            ]
-          },
           "thu": null
         }
       },
       "phone": {
-        "primary": "9933529286"
+        "primary": "9933529286",
+        "other": []
       },
       "rating": 4.6,
       "placeId": "ChIJe3S8JUZbHToRUKY30FhDnxc",
@@ -2060,7 +2053,8 @@
       "key": "midnapore-sahabharang-bazar-showroom",
       "status": 1,
       "email": {
-        "primary": "pccmidnaporekt@pcchandraindia.com"
+        "primary": "pccmidnaporekt@pcchandraindia.com",
+        "other": []
       },
       "street": "Sahabharang Bazar (Near -School Bazar) Dist., School Bazar",
       "city": "Midnapore",
@@ -2076,25 +2070,16 @@
           ],
           "close": [
             19,
-            0
+            30
           ]
         },
         "exceptions": {
-          "wed": {
-            "open": [
-              10,
-              30
-            ],
-            "close": [
-              16,
-              0
-            ]
-          },
           "thu": null
         }
       },
       "phone": {
-        "primary": "9933529179"
+        "primary": "9933529179",
+        "other": []
       },
       "rating": 4.1,
       "placeId": "ChIJuYCv9jNbHToRI7XJtCq9n2s",
@@ -2278,7 +2263,8 @@
       "key": "newtown-showroom",
       "status": 1,
       "email": {
-        "primary": "pcc@vsnl.com"
+        "primary": "pcc@vsnl.com",
+        "other": []
       },
       "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
       "city": "Kolkata",
@@ -2293,10 +2279,11 @@
             0
           ],
           "close": [
-            15,
-            0
+            19,
+            30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "033-25722017",
@@ -3346,6 +3333,232 @@
       "gname": "Sodepur Silver & Astral showroom",
       "gcode": "",
       "park": "Valet, street",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Dankuni Showroom",
+      "key": "dankuni-showroom",
+      "status": 1,
+      "street": "Amrita Apartment, TN Mukerjee Rd, opposite Binodini Natya Mandir, Monoharpur, Gobra",
+      "city": "Dankuni",
+      "region": "West Bengal",
+      "pin": 712311,
+      "lat": 22.6820534,
+      "lon": 88.2835991,
+      "email": {
+        "primary": "goldlites.dankuni@gmail.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "6292038331",
+        "other": []
+      },
+      "placeId": "ChIJRx3ucZeD-DkR-6WgBsEmKq4",
+      "rating": 0,
+      "cid": "12549885922103043579",
+      "gname": "",
+      "gcode": "",
+      "park": "valet",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Amtala Showroom",
+      "key": "amtala-showroom",
+      "status": 1,
+      "street": "Diamond Harbour Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743503,
+      "lat": 22.3722371,
+      "lon": 88.2720283,
+      "email": {
+        "primary": "amtala@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9830521735",
+        "other": []
+      },
+      "placeId": "ChIJfYnwJ6dlAjoRNAt4S8Llsfo",
+      "rating": 0,
+      "cid": "18064472203012344628",
+      "gname": "P. C. Chandra Jewellers, Amtala",
+      "gcode": "",
+      "park": "street",
+      "lang": [
+        "bn",
+        "en",
+        "hn"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Bagnan Showroom",
+      "key": "bagnan-showroom",
+      "status": 1,
+      "street": "OT Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 711303,
+      "lat": 22.4682185,
+      "lon": 87.97021819999999,
+      "email": {
+        "primary": "pcc.bagnan@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073970193",
+        "other": []
+      },
+      "placeId": "ChIJESraA9ibAjoRoQp2qEm-4tI",
+      "rating": 0,
+      "cid": "15195917316269673121",
+      "gname": "P. C. Chandra Jewellers, Bagnan",
+      "gcode": "",
+      "park": "valet",
+      "lang": [
+        "bn",
+        "en",
+        "hn"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Diamond Harbour Showroom",
+      "key": "diamond-harbour-showroom",
+      "status": 1,
+      "street": "55QQ+QP7, অফিসের পাশে, ডায়মণ্ডহারবার বাটা পাম্পের বিপরীতে, C.I, Rabindra Nagar, Diamond Harbour, West Bengal 743331",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743331,
+      "lat": 22.189396,
+      "lon": 88.18942,
+      "email": {
+        "primary": "pccdiamondharbour@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9088335055",
+        "other": []
+      },
+      "placeId": "ChIJ9d9uCABfAjoR6OPAoqSrYtI",
+      "rating": 0,
+      "cid": "15159868019276047336",
+      "gname": "",
+      "gcode": "",
+      "park": "Not available",
+      "lang": [
+        "bn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
+          ]
+        },
+        "exceptions": {
+          "thu": null,
+          "fri": {
+            "open": [
+              14,
+              0
+            ],
+            "close": [
+              19,
+              30
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "Bongaon Showroom",
+      "key": "bongaon-showroom",
+      "status": 1,
+      "street": "Jessore Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 743235,
+      "lat": 23.0407608,
+      "lon": 88.8297767,
+      "email": {
+        "primary": "pccbongaon@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073371845",
+        "other": []
+      },
+      "placeId": "ChIJLUOMSAA1_zkRc2IJ-ImVEk8",
+      "rating": 5,
+      "cid": "5697780898381521523",
+      "gname": "",
+      "gcode": "",
+      "park": "Not available",
       "lang": [
         "bn",
         "hn",
