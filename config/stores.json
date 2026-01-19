@@ -1,5 +1,5 @@
 {
-  "VERSION": 963776,
+  "VERSION": 747718,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -521,7 +521,8 @@
       "key": "bengaluru-showroom",
       "status": 1,
       "email": {
-        "primary": "pcckoramangala@pcchandraindia.com"
+        "primary": "pcckoramangala@pcchandraindia.com",
+        "other": []
       },
       "street": "Site No 42 Koramangala 6th block extension, 100 Feet Rd, near Sony Signal",
       "city": "Bengaluru",
@@ -540,9 +541,7 @@
             30
           ]
         },
-        "exceptions": {
-          "mon": null
-        }
+        "exceptions": {}
       },
       "phone": {
         "primary": "080-46845555",
@@ -571,7 +570,8 @@
       "key": "bengaluru-showroom-ulsoor",
       "status": 1,
       "email": {
-        "primary": "pcculsoor@pcchandraindia.com"
+        "primary": "pcculsoor@pcchandraindia.com",
+        "other": []
       },
       "street": "46, Ulsoor Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
       "city": "Bengaluru",
@@ -590,12 +590,11 @@
             30
           ]
         },
-        "exceptions": {
-          "tue": null
-        }
+        "exceptions": {}
       },
       "phone": {
-        "primary": "7795444942"
+        "primary": "7795444942",
+        "other": []
       },
       "rating": 4.7,
       "placeId": "ChIJtT58H_IXrjsRRj90IKGXyLo",
@@ -1963,7 +1962,8 @@
       "key": "marathahalli-showroom",
       "status": 1,
       "email": {
-        "primary": "pccmarathahalli@pcchandraindia.com"
+        "primary": "pccmarathahalli@pcchandraindia.com",
+        "other": []
       },
       "street": "97/2B, 3rd Main Cross Rd, Subbaiah Reddy Colony, Aswath Nagar, Marathahalli",
       "city": "Bengaluru",
@@ -1982,12 +1982,11 @@
             0
           ]
         },
-        "exceptions": {
-          "mon": null
-        }
+        "exceptions": {}
       },
       "phone": {
-        "primary": "8904214008"
+        "primary": "8904214008",
+        "other": []
       },
       "rating": 4.8,
       "placeId": "ChIJR0hJdlMTrjsRyNK7URBYzHE",
