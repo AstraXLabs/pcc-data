@@ -1,5 +1,5 @@
 {
-  "VERSION": 747718,
+  "VERSION": 13634,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3572,6 +3572,49 @@
           "close": [
             19,
             30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Matigara Showroom",
+      "key": "matigara-showroom",
+      "status": 1,
+      "street": "Patharghata Road",
+      "city": "Siliguri Division",
+      "region": "West Bengal",
+      "pin": 734010,
+      "lat": 26.7236605,
+      "lon": 88.38430579999999,
+      "email": {
+        "primary": "pccmatigara.slg@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9230961704",
+        "other": []
+      },
+      "placeId": "ChIJb4CNtWxH5DkRzG5CWBFNg-Q",
+      "rating": 4.3,
+      "cid": "16466089399487196876",
+      "gname": "Matigara Showroom",
+      "gcode": "",
+      "park": "Street parking",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
           ]
         },
         "exceptions": {}
