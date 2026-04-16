@@ -1,5 +1,5 @@
 {
-  "VERSION": 465911,
+  "VERSION": 601209,
   "data": {
     "home": [
       {
@@ -20,9 +20,9 @@
       },
       {
         "id": "home_mugdhaa_collection",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_aefa38ad-fe30-45c1-89d9-23a8a69fbbf9.png?v=1756203774",
-        "altText": "Mugdhaa Collection - Premium Jewelry",
-        "linkUrl": "https://pcchandraindia.com/collections/necklaces",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_6428427a-6977-45d4-ba20-a33bdfb7e9d7.webp?v=1776319856",
+        "altText": "promotions",
+        "linkUrl": "https://pcchandraindia.com/collections/promotions",
         "isActive": true,
         "priority": 3
       }
