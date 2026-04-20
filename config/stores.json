@@ -1,5 +1,5 @@
 {
-  "VERSION": 158971,
+  "VERSION": 318909,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1234,18 +1234,19 @@
       "astro": true
     },
     {
-      "name": "Durgapur Showroom",
+      "name": "P.C. Chandra Jewellers Durgapur (Benachity)",
       "key": "durgapur-showroom",
       "status": 1,
       "email": {
-        "primary": "pccdurgapur@gmail.com"
+        "primary": "pccdurgapur@gmail.com",
+        "other": []
       },
-      "street": "Holding No. N/39, P.O. & Ps :, Pushpanjali Building, C 71/A, Shahid Khudiram Sarani, City Center",
-      "city": "Asansol",
+      "street": "NACHAN ROAD BENACHITY, DGP-13, WARD NO - 15, Opposite Kohinoor Hotel & Restaurant, Benachity, Durgapur, West Bengal 713213",
+      "city": "Durgapur",
       "region": "West Bengal",
       "pin": 713213,
-      "lat": 23.5382744,
-      "lon": 87.2938593,
+      "lat": 23.5601762,
+      "lon": 87.2768007,
       "schedule": {
         "default": {
           "open": [
@@ -1256,13 +1257,15 @@
             19,
             30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "91-8967052199"
+        "primary": "91-8967052199",
+        "other": []
       },
-      "rating": 4.5,
-      "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
+      "rating": 4.1,
+      "placeId": "ChIJ_2_Rsxxy9zkRQcqbluLead8",
       "cid": "5158784928054683809",
       "gname": "P.C.Chandra Jewellers, Durgapur City Centre",
       "gcode": "7MM9G7QV+8G",
