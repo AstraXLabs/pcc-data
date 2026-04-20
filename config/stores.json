@@ -1,5 +1,5 @@
 {
-  "VERSION": 423980,
+  "VERSION": 158971,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1194,10 +1194,11 @@
       "key": "durgapur-2nd-showroom",
       "status": 1,
       "email": {
-        "primary": "pccdurgapurcc@pcchandraindia.com"
+        "primary": "pccdurgapurcc@pcchandraindia.com",
+        "other": []
       },
-      "street": "Holding No. N/39, P.O. & Ps :, Pushpanjali Building, C 71/A, Shahid Khudiram Sarani, City Center",
-      "city": "Asansol",
+      "street": "Pushpanjali Building, Holding No. N/39, C 71/A,, Shahid Khudiram Sarani, P.O. & Ps : Durgapur, City Centre,, Durgapur, West Bengal 713216",
+      "city": "Durgapur",
       "region": "West Bengal",
       "pin": 713216,
       "lat": 23.5382744,
@@ -1212,10 +1213,12 @@
             19,
             30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "91-9674020717"
+        "primary": "91-9674020717",
+        "other": []
       },
       "rating": 4.5,
       "placeId": "ChIJCctmiKpz9zkRoahWRY-vl0c",
