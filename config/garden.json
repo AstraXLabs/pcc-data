@@ -1,0 +1,340 @@
+{
+  "VERSION": 1,
+  "data": {
+    "content": {
+      "hero": {
+        "eyebrow": "Best Event Venues in Kolkata",
+        "titleLineOne": "Celebrate Life's Biggest Moments,",
+        "titleLineTwo": "Surrounded by Nature",
+        "subtitle": "Elegant wedding lawns and banquet halls in Kolkata - crafted for unforgettable celebrations.",
+        "primaryCtaLabel": "Plan Your Event",
+        "secondaryCtaLabel": "Explore Venues"
+      },
+      "story": {
+        "eyebrow": "A Garden Reclaimed",
+        "title": "From forgotten ground to Kolkata's celebration landmark",
+        "description": "On Kolkata's eastern periphery, land once known for municipal dumping has been transformed into a verdant destination where weddings, receptions, corporate evenings, and milestone gatherings unfold in calm, open surroundings.",
+        "highlightsTitle": "Why Guests Remember It",
+        "highlights": [
+          "Opposite Science City on the E. M. Bypass",
+          "Open lawns, banquet halls, food arenas, and guest-ready support",
+          "Wedding photoshoot facility available after booking"
+        ]
+      },
+      "homepage": {
+        "venues": {
+          "eyebrow": "Event Venues in Kolkata",
+          "title": "Discover Our Venues",
+          "description": "Four distinctive venues, from open lawns to hilltop banquet spaces, each designed with kitchen access, parking, illumination, and support services for celebrations of every scale."
+        },
+        "gallery": {
+          "eyebrow": "Gallery",
+          "title": "Unforgettable Memories",
+          "description": "A glimpse into celebrations hosted at PC Chandra Garden's distinctive venues."
+        },
+        "imageTestimonials": {
+          "eyebrow": "Testimonials",
+          "title": "What Our Guests Say",
+          "description": "Heartfelt notes from celebrations held at PC Chandra Garden.",
+          "dialogTitle": "Guest testimonial viewer",
+          "dialogDescription": "Browse fullscreen guest testimonial cards with previous and next controls."
+        }
+      },
+      "facilities": {
+        "eyebrow": "Facilities & Services",
+        "title": "Everything You Need On Site",
+        "description": "Create and craft your dream events under one roof with thoughtful amenities and reliable support.",
+        "features": [
+          {
+            "icon": "hotel",
+            "title": "Guest Comfort",
+            "description": "AC lounges, banquet halls, guest rooms, and food arenas designed for effortless hosting."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Empanelled Vendors",
+            "description": "Trusted decorators, florists, electricians, and caterers available as per venue guidelines."
+          },
+          {
+            "icon": "car",
+            "title": "Parking & Valet",
+            "description": "Large parking areas with valet parking and PA support for smooth arrivals."
+          },
+          {
+            "icon": "shield-check",
+            "title": "Power & Safety",
+            "description": "Power backup, CCTV, fire fighting, and pest control for secure celebrations."
+          }
+        ]
+      },
+      "events": {
+        "eyebrow": "Events We Host",
+        "title": "Perfect for Every Occasion",
+        "description": "Marriage, sangeet, reception, anniversary, birthday, corporate, doctors' meets, exhibitions, film & TV shoots, and spiritual gatherings.",
+        "items": [
+          {
+            "key": "marriage-sangeet",
+            "title": "Marriage & Sangeet",
+            "description": "Celebrate marriage ceremonies and sangeet evenings in open lawns or AC halls."
+          },
+          {
+            "key": "reception-anniversary",
+            "title": "Reception & Anniversary",
+            "description": "Elegant receptions and anniversaries crafted with warm lighting and lush settings."
+          },
+          {
+            "key": "birthday-celebrations",
+            "title": "Birthday Celebrations",
+            "description": "Flexible indoor and outdoor spaces for festive family gatherings."
+          },
+          {
+            "key": "corporate-events",
+            "title": "Corporate Events",
+            "description": "Corporate events and brand showcases with AV-ready halls and lawns."
+          },
+          {
+            "key": "doctors-meets-exhibitions",
+            "title": "Doctors' Meets & Exhibitions",
+            "description": "Professional meets, exhibitions, and conferences with ample space."
+          },
+          {
+            "key": "film-tv-spiritual",
+            "title": "Film & TV Shoots / Spiritual",
+            "description": "Stunning backdrops for productions and spiritual gatherings."
+          }
+        ]
+      },
+      "support": {
+        "eyebrow": "Event Support",
+        "title": "Create and Craft Your Dream Event",
+        "description": "We help you plan with ease, so you can focus on the moments that matter.",
+        "highlights": [
+          {
+            "icon": "hotel",
+            "title": "Guest Room Assistance",
+            "text": "Assistance in finding hotel rooms for your guests (subject to availability)."
+          },
+          {
+            "icon": "party-popper",
+            "title": "Dream Events Under One Roof",
+            "text": "Create and craft your dream events under one roof."
+          },
+          {
+            "icon": "camera",
+            "title": "Photoshoot Facility",
+            "text": "Wedding photoshoot facility available after booking."
+          }
+        ]
+      },
+      "contact": {
+        "eyebrow": "Contact Us",
+        "title": "Contact Us",
+        "description": "Contact us to turn your dream into a reality. Please fill out this form and we will get back to you shortly.",
+        "visitTitle": "Visit Us",
+        "venueName": "PC Chandra Garden - Event Venues in Kolkata",
+        "addressLines": [
+          "144, Arupota, E. M. Bypass (Opp. Science City)",
+          "Kolkata-700105, West Bengal, India"
+        ],
+        "phoneLabel": "WhatsApp/Mobile",
+        "phones": [
+          "+91 96741 00059",
+          "+91 98310 54781",
+          "+91 98317 09922",
+          "+91 98318 28130",
+          "+91 96745 86000"
+        ],
+        "email": "contact@pcchandragarden.com",
+        "mapEmbedSrc": "https://www.google.com/maps?q=PC%20Chandra%20Garden%2C%20144%2C%20Arupota%2C%20E.%20M.%20Bypass%2C%20Opp.%20Science%20City%2C%20Kolkata%20700105&output=embed",
+        "form": {
+          "title": "Send Us a Message",
+          "submitLabel": "Submit",
+          "fields": {
+            "name": "Name *",
+            "email": "Email *",
+            "phone": "Phone *",
+            "eventType": "Event Type *",
+            "eventDate": "Event Date",
+            "expectedGuests": "Expected Guests",
+            "message": "Message"
+          },
+          "eventOptions": [
+            { "value": "", "label": "Select Event Type" },
+            { "value": "marriage", "label": "Marriage" },
+            { "value": "sangeet", "label": "Sangeet" },
+            { "value": "reception", "label": "Reception" },
+            { "value": "anniversary", "label": "Anniversary" },
+            { "value": "birthday", "label": "Birthday" },
+            { "value": "corporate", "label": "Corporate" },
+            { "value": "doctors-meet", "label": "Doctors' Meet" },
+            { "value": "exhibition", "label": "Exhibition" },
+            { "value": "film-tv", "label": "Film & TV Shoot" },
+            { "value": "spiritual", "label": "Spiritual" },
+            { "value": "other", "label": "Other" }
+          ]
+        }
+      },
+      "footer": {
+        "brandDescription": "On Kolkata's eastern periphery, discover open lawns and AC banquet halls for weddings, corporate events, and celebrations.",
+        "quickLinksTitle": "Quick Links",
+        "contactTitle": "Contact",
+        "copyright": "© 2025 Chandras' Green Project Limited. All rights reserved."
+      },
+      "venuePage": {
+        "eyebrow": "PC Chandra Garden Venue",
+        "snapshotTitle": "Venue Snapshot",
+        "overviewEyebrow": "Venue Overview",
+        "overviewTitle": "A venue built for flowing event journeys",
+        "galleryEyebrow": "Venue Gallery",
+        "galleryTitlePrefix": "Inside",
+        "galleryDescriptionPrefix": "A visual preview of the settings, decor moments, and atmosphere that shape celebrations at",
+        "ctaEyebrow": "Plan Your Visit",
+        "ctaTitlePrefix": "Shortlist",
+        "ctaTitleSuffix": "for your next celebration",
+        "enquireLabel": "Enquire Now",
+        "backLabel": "Back to Venues",
+        "notFoundEyebrow": "Venue Not Found",
+        "notFoundTitle": "This venue page is not available.",
+        "notFoundDescription": "Return to the homepage to explore the full PC Chandra Garden venue collection."
+      },
+      "venueText": [
+        {
+          "slug": "gold-acres",
+          "title": "Gold Acres",
+          "cardLabel": "60,000 sq ft open lawn",
+          "shortDescription": "A grand open-air venue with expansive lawn space, a covered lounge block, guest rooms, and reliable event infrastructure.",
+          "overview": "Gold Acres is built for large-format celebrations, pairing a lush 60,000 sq. ft. lawn with covered support spaces, guest rooms, parking, and venue services that make high-footfall events feel organized from arrival to wrap-up.",
+          "summaryStats": [
+            { "label": "Open Lawn", "value": "60,000 sq ft" },
+            { "label": "Covered Area", "value": "5,800 sq ft" },
+            { "label": "AC Lounge", "value": "1,000 sq ft" }
+          ],
+          "sections": [
+            { "title": "Facilities", "items": ["Approximately 60,000 sq. ft. open area with lush green lawn.", "Approximately 5,800 sq. ft. covered area including a 1,000 sq. ft. AC lounge.", "2 guest rooms with adequate washrooms.", "Spacious kitchen and parking facility."] },
+            { "title": "Illumination", "items": ["Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."] },
+            { "title": "Vendors", "items": ["Empanelled decorators, florists, and electricians support venue setup requirements."] },
+            { "title": "Other Services", "items": ["Power supply for basic illumination.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+          ]
+        },
+        {
+          "slug": "the-maple",
+          "title": "The Maple",
+          "cardLabel": "33,000 sq ft open lawn",
+          "shortDescription": "A landscaped lawn venue with fountain features, a banquet hall, guest rooms, and event-ready furniture support.",
+          "overview": "The Maple balances outdoor freshness with banquet convenience, pairing a large lawn and rockery setting with an AC hall, guest rooms, kitchen access, and in-package event essentials for flexible celebration formats.",
+          "summaryStats": [
+            { "label": "Open Lawn", "value": "33,000 sq ft" },
+            { "label": "AC Hall", "value": "2,300 sq ft" },
+            { "label": "Guest Rooms", "value": "2 Rooms" }
+          ],
+          "sections": [
+            { "title": "Facilities", "items": ["Approximately 33,000 sq. ft. open area with lush green lawn.", "Colourful fountain and rockery.", "Approximately 2,300 sq. ft. AC banquet hall.", "2 guest rooms with adequate washrooms.", "Spacious kitchen and large parking facility."] },
+            { "title": "Illumination", "items": ["Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."] },
+            { "title": "Decoration", "items": ["Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are included within the package."] },
+            { "title": "Vendors", "items": ["Empanelled decorators, florists, and electricians take care of client requirements."] },
+            { "title": "Other Services", "items": ["Power supply for basic illumination.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+          ]
+        },
+        {
+          "slug": "the-tulip",
+          "title": "The Tulip",
+          "cardLabel": "6,000 sq ft AC hall",
+          "shortDescription": "A hilltop venue with a banquet hall, food arena, open celebration space, kitchen access, and parking.",
+          "overview": "The Tulip brings together a large air-conditioned hall, a dedicated food arena, and open-air celebration space in one hilltop venue, making it a strong fit for weddings, receptions, and event formats that move between indoor and outdoor settings.",
+          "summaryStats": [
+            { "label": "AC Hall", "value": "6,000 sq ft" },
+            { "label": "Food Arena", "value": "3,000 sq ft" },
+            { "label": "Open Area", "value": "5,500 sq ft" }
+          ],
+          "sections": [
+            { "title": "Location", "items": ["A hilltop venue within the PC Chandra Garden campus.", "Designed for celebrations that benefit from indoor comfort and open-air spillover space."] },
+            { "title": "Facilities", "items": ["Approximately 6,000 sq. ft. AC banquet hall.", "Approximately 3,000 sq. ft. AC food arena.", "Approximately 5,500 sq. ft. open area.", "Kitchen access and large parking facility."] },
+            { "title": "Illumination", "items": ["Existing venue illumination is included to support smooth event operations across indoor and outdoor zones."] },
+            { "title": "Event Use", "items": ["Suitable for weddings, receptions, festive evenings, and high-guest-count social events."] }
+          ]
+        },
+        {
+          "slug": "meadows",
+          "title": "Meadows",
+          "cardLabel": "4,500 sq ft AC hall",
+          "shortDescription": "A hillock-top venue overlooking the E. M. Bypass with a banquet hall, food arena, lawn, and backup-ready event infrastructure.",
+          "overview": "Meadows sits on a green rise overlooking the E. M. Bypass and Science City, combining a modern AC banquet hall, food arena, lawn, and backup-supported operations for events that need both setting and reliability.",
+          "summaryStats": [
+            { "label": "AC Hall", "value": "4,500 sq ft" },
+            { "label": "Food Arena", "value": "1,700 sq ft" },
+            { "label": "Lawn", "value": "2,000 sq ft" }
+          ],
+          "sections": [
+            { "title": "Location", "items": ["Situated on a hillock overlooking the E. M. Bypass and Science City.", "Surrounded by lush greenery."] },
+            { "title": "Facilities", "items": ["Approximately 4,500 sq. ft. AC banquet hall with modern facilities.", "Room with attached washroom.", "Approximately 1,700 sq. ft. AC food arena.", "Approximately 2,000 sq. ft. lawn.", "Spacious kitchen and parking facility."] },
+            { "title": "Illumination", "items": ["Existing lights in the halls, lawn, kitchen, washrooms, pathway, driveway, and parking area are included within the package."] },
+            { "title": "Decoration", "items": ["Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are provided within the package."] },
+            { "title": "Vendors & Caterers", "items": ["Empanelled decorators, florists, and electricians support venue requirements.", "Clients may choose from empanelled caterers serving vegetarian and non-vegetarian cuisines."] },
+            { "title": "Other Services", "items": ["Adequate power supply for existing facilities plus back-up generator.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+          ]
+        }
+      ]
+    },
+    "media": {
+      "hero": {
+        "src": "https://static.wixstatic.com/media/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg",
+        "alt": "PC Chandra Garden"
+      },
+      "venues": {
+        "gold-acres": {
+          "heroImage": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg",
+          "galleryImages": [
+            { "src": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg", "alt": "Gold Acres lawn at PC Chandra Garden", "caption": "The signature lawn at Gold Acres" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_fed5927259a14fe8af976bd93d571c69~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_fed5927259a14fe8af976bd93d571c69~mv2.jpg", "alt": "Ceremonial aisle setup at PC Chandra Garden", "caption": "A dramatic arrival setup for evening celebrations" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_49b6fccf43f3450496c6b60b8794cf1d~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_49b6fccf43f3450496c6b60b8794cf1d~mv2.jpg", "alt": "Decor installation at PC Chandra Garden", "caption": "Statement decor moments across the celebration grounds" }
+          ]
+        },
+        "the-maple": {
+          "heroImage": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg",
+          "galleryImages": [
+            { "src": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg", "alt": "The Maple lawn and banquet exterior", "caption": "A landscaped lawn layout framed by the venue block" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_4852c541bc2d4a75aec5b9bf1c4249d8~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_4852c541bc2d4a75aec5b9bf1c4249d8~mv2.jpg", "alt": "Bridge and water feature at The Maple", "caption": "The Maple's fountain-and-rockery atmosphere" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_a278861dc3dd4cb9bfc5e0a934d5f1d6~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_a278861dc3dd4cb9bfc5e0a934d5f1d6~mv2.jpg", "alt": "Banquet setup at PC Chandra Garden", "caption": "Indoor seating and stage arrangements ready for reception flow" }
+          ]
+        },
+        "the-tulip": {
+          "heroImage": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg",
+          "galleryImages": [
+            { "src": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg", "alt": "The Tulip exterior at PC Chandra Garden", "caption": "The Tulip's signature venue frontage" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_7607b6b8aa7e48b0a663fa1208d5c328~mv2.jpg", "alt": "Evening celebration setup at PC Chandra Garden", "caption": "Ambient evening celebrations around the venue" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_e2fcc1ce7d3241968116b723e97143d7~mv2.jpg", "alt": "Celebration moment at PC Chandra Garden", "caption": "A glimpse into the event atmosphere around The Tulip" }
+          ]
+        },
+        "meadows": {
+          "heroImage": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg",
+          "galleryImages": [
+            { "src": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg", "alt": "Meadows lawn at PC Chandra Garden", "caption": "Meadows framed by greenery and open air" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_81db3fcc92c842c78041be05fda2060f~mv2.jpg/v1/fill/w_328,h_174,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6401_edited.jpg", "alt": "Meadows landscape at PC Chandra Garden", "caption": "The green approach and landscape character of Meadows" },
+            { "src": "https://static.wixstatic.com/media/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg", "alt": "Open lawn and venue edge at PC Chandra Garden", "caption": "Open sightlines that suit day and evening functions alike" }
+          ]
+        }
+      },
+      "homepageGallery": [
+        { "id": "home-gold-acres", "src": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg", "alt": "Gold Acres lawn", "caption": "Gold Acres" },
+        { "id": "home-maple", "src": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg", "alt": "The Maple banquet hall exterior", "caption": "The Maple" },
+        { "id": "home-tulip", "src": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg", "alt": "The Tulip venue", "caption": "The Tulip" },
+        { "id": "home-meadows", "src": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg", "alt": "Meadows lawn", "caption": "Meadows" },
+        { "id": "home-evening-reception", "src": "https://static.wixstatic.com/media/d5e26b_7607b6b8aa7e48b0a663fa1208d5c328~mv2.jpg", "alt": "Evening reception lighting at PC Chandra Garden", "caption": "Evening Reception" },
+        { "id": "home-celebration-moments", "src": "https://static.wixstatic.com/media/d5e26b_e2fcc1ce7d3241968116b723e97143d7~mv2.jpg", "alt": "Celebration moment at PC Chandra Garden", "caption": "Celebration Moments" }
+      ],
+      "eventTypeImages": {
+        "marriage-sangeet": { "src": "https://static.wixstatic.com/media/d5e26b_6ca05fb9a71942fcbc789c3fc1c678a8~mv2.jpg", "alt": "Marriage and sangeet setup at PC Chandra Garden" },
+        "reception-anniversary": { "src": "https://static.wixstatic.com/media/d5e26b_efc0a20181ce4b838e3a52cbdc797cdf~mv2.jpg", "alt": "Reception and anniversary setup at PC Chandra Garden" },
+        "birthday-celebrations": { "src": "https://static.wixstatic.com/media/d5e26b_a07272334dde4701bf0e75b073de9edc~mv2.jpg", "alt": "Birthday celebration setup at PC Chandra Garden" },
+        "corporate-events": { "src": "https://static.wixstatic.com/media/d5e26b_b7451d8675b14612ababf980be56c8e8~mv2.jpg", "alt": "Corporate event setup at PC Chandra Garden" },
+        "doctors-meets-exhibitions": { "src": "https://static.wixstatic.com/media/d5e26b_9413adf9ea0c4a4c934a0fd13b643a2d~mv2.jpg", "alt": "Doctors meet and exhibition setup at PC Chandra Garden" },
+        "film-tv-spiritual": { "src": "https://static.wixstatic.com/media/d5e26b_e15a661a8c07449e8d70cdb7c4e073a6~mv2.jpg", "alt": "Film shoot or spiritual gathering backdrop at PC Chandra Garden" }
+      },
+      "testimonialCards": [
+        { "id": "testimonial-1", "src": "https://static.wixstatic.com/media/d5e26b_aedd1bd5b76d4303a410f98b7206d335~mv2.jpg", "alt": "Guest testimonial card 1" },
+        { "id": "testimonial-2", "src": "https://static.wixstatic.com/media/d5e26b_70a3cda06f854c3084474b5ba86df59f~mv2.jpg", "alt": "Guest testimonial card 2" },
+        { "id": "testimonial-3", "src": "https://static.wixstatic.com/media/d5e26b_c1733a346daa498d8d8b2142a32f7846~mv2.jpg", "alt": "Guest testimonial card 3" }
+      ]
+    }
+  }
+}
