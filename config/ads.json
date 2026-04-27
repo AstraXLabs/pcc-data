@@ -1,5 +1,5 @@
 {
-  "VERSION": 601209,
+  "VERSION": 770088,
   "data": {
     "home": [
       {
@@ -23,7 +23,7 @@
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_6428427a-6977-45d4-ba20-a33bdfb7e9d7.webp?v=1776319856",
         "altText": "promotions",
         "linkUrl": "https://pcchandraindia.com/collections/promotions",
-        "isActive": true,
+        "isActive": false,
         "priority": 3
       }
     ],
