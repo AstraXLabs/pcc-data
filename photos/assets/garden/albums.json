@@ -1,0 +1,1123 @@
+{
+  "VERSION": 1777359110659,
+  "generatedAt": "2026-04-28T06:51:50.659Z",
+  "thumbnailPrefix": "t-",
+  "albums": [
+    {
+      "slug": "gold-acres",
+      "title": "Gold Acres",
+      "directory": "Gold",
+      "images": [
+        {
+          "fileName": "gold-1.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-1.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 1",
+          "originalBytes": 402630,
+          "thumbnailBytes": 56508
+        },
+        {
+          "fileName": "gold-2.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-2.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 2",
+          "originalBytes": 543896,
+          "thumbnailBytes": 68307
+        },
+        {
+          "fileName": "gold-3.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-3.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 3",
+          "originalBytes": 367277,
+          "thumbnailBytes": 53172
+        },
+        {
+          "fileName": "gold-4.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-4.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 4",
+          "originalBytes": 406056,
+          "thumbnailBytes": 58788
+        },
+        {
+          "fileName": "gold-5.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-5.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 5",
+          "originalBytes": 452516,
+          "thumbnailBytes": 50159
+        },
+        {
+          "fileName": "gold-6.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-6.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 6",
+          "originalBytes": 508585,
+          "thumbnailBytes": 59042
+        },
+        {
+          "fileName": "gold-7.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-7.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 7",
+          "originalBytes": 305742,
+          "thumbnailBytes": 41121
+        },
+        {
+          "fileName": "gold-8.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-8.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 8",
+          "originalBytes": 492082,
+          "thumbnailBytes": 59133
+        },
+        {
+          "fileName": "gold-9.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-9.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 9",
+          "originalBytes": 368569,
+          "thumbnailBytes": 47926
+        },
+        {
+          "fileName": "gold-10.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-10.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 10",
+          "originalBytes": 616068,
+          "thumbnailBytes": 75571
+        },
+        {
+          "fileName": "gold-11.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-11.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 11",
+          "originalBytes": 399126,
+          "thumbnailBytes": 49479
+        },
+        {
+          "fileName": "gold-12.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-12.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 12",
+          "originalBytes": 254544,
+          "thumbnailBytes": 32359
+        },
+        {
+          "fileName": "gold-13.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-13.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 13",
+          "originalBytes": 464286,
+          "thumbnailBytes": 63554
+        },
+        {
+          "fileName": "gold-14.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-14.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 14",
+          "originalBytes": 435475,
+          "thumbnailBytes": 56063
+        },
+        {
+          "fileName": "gold-15.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-15.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 15",
+          "originalBytes": 299694,
+          "thumbnailBytes": 32981
+        },
+        {
+          "fileName": "gold-16.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-16.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 16",
+          "originalBytes": 440746,
+          "thumbnailBytes": 50979
+        },
+        {
+          "fileName": "gold-17.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-17.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 17",
+          "originalBytes": 377918,
+          "thumbnailBytes": 46638
+        },
+        {
+          "fileName": "gold-18.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-18.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 18",
+          "originalBytes": 439891,
+          "thumbnailBytes": 58566
+        },
+        {
+          "fileName": "gold-19.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-19.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 19",
+          "originalBytes": 518955,
+          "thumbnailBytes": 67526
+        },
+        {
+          "fileName": "gold-20.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-20.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 20",
+          "originalBytes": 557849,
+          "thumbnailBytes": 62131
+        },
+        {
+          "fileName": "gold-21.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-21.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 21",
+          "originalBytes": 438482,
+          "thumbnailBytes": 53692
+        },
+        {
+          "fileName": "gold-22.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-22.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 22",
+          "originalBytes": 591065,
+          "thumbnailBytes": 67917
+        },
+        {
+          "fileName": "gold-23.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-23.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 23",
+          "originalBytes": 572428,
+          "thumbnailBytes": 64115
+        },
+        {
+          "fileName": "gold-24.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-24.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 24",
+          "originalBytes": 610226,
+          "thumbnailBytes": 81671
+        },
+        {
+          "fileName": "gold-25.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-25.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 25",
+          "originalBytes": 826905,
+          "thumbnailBytes": 92884
+        },
+        {
+          "fileName": "gold-27.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-27.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 27",
+          "originalBytes": 570274,
+          "thumbnailBytes": 72085
+        },
+        {
+          "fileName": "gold-28.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-28.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 28",
+          "originalBytes": 443954,
+          "thumbnailBytes": 53720
+        },
+        {
+          "fileName": "gold-29.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-29.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 29",
+          "originalBytes": 403341,
+          "thumbnailBytes": 54267
+        },
+        {
+          "fileName": "gold-30.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-30.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 30",
+          "originalBytes": 533014,
+          "thumbnailBytes": 65098
+        },
+        {
+          "fileName": "gold-31.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-31.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 31",
+          "originalBytes": 549658,
+          "thumbnailBytes": 58203
+        },
+        {
+          "fileName": "gold-32.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-32.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 32",
+          "originalBytes": 600386,
+          "thumbnailBytes": 59782
+        },
+        {
+          "fileName": "gold-33.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-33.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 33",
+          "originalBytes": 322653,
+          "thumbnailBytes": 38359
+        },
+        {
+          "fileName": "gold-34.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-34.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 34",
+          "originalBytes": 550013,
+          "thumbnailBytes": 73397
+        },
+        {
+          "fileName": "gold-35.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-35.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 35",
+          "originalBytes": 349480,
+          "thumbnailBytes": 49156
+        },
+        {
+          "fileName": "gold-36.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-36.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 36",
+          "originalBytes": 540467,
+          "thumbnailBytes": 67891
+        },
+        {
+          "fileName": "gold-37.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-37.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 37",
+          "originalBytes": 466253,
+          "thumbnailBytes": 59815
+        },
+        {
+          "fileName": "gold-38.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-38.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 38",
+          "originalBytes": 470425,
+          "thumbnailBytes": 62465
+        },
+        {
+          "fileName": "gold-39.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-39.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 39",
+          "originalBytes": 403040,
+          "thumbnailBytes": 50090
+        },
+        {
+          "fileName": "gold-40.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-40.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 40",
+          "originalBytes": 579313,
+          "thumbnailBytes": 66322
+        },
+        {
+          "fileName": "gold-41.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-41.jpg",
+          "alt": "Gold Acres gallery image",
+          "caption": "Gold 41",
+          "originalBytes": 358174,
+          "thumbnailBytes": 47394
+        }
+      ]
+    },
+    {
+      "slug": "the-maple",
+      "title": "The Maple",
+      "directory": "Maple",
+      "images": [
+        {
+          "fileName": "maple-1.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-1.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 1",
+          "originalBytes": 506271,
+          "thumbnailBytes": 70012
+        },
+        {
+          "fileName": "maple-2.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-2.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 2",
+          "originalBytes": 435454,
+          "thumbnailBytes": 55879
+        },
+        {
+          "fileName": "maple-3.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-3.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 3",
+          "originalBytes": 272420,
+          "thumbnailBytes": 75858
+        },
+        {
+          "fileName": "maple-4.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-4.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 4",
+          "originalBytes": 544778,
+          "thumbnailBytes": 61686
+        },
+        {
+          "fileName": "maple-5.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-5.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 5",
+          "originalBytes": 549021,
+          "thumbnailBytes": 67374
+        },
+        {
+          "fileName": "maple-6.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-6.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 6",
+          "originalBytes": 573404,
+          "thumbnailBytes": 78182
+        },
+        {
+          "fileName": "maple-7.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-7.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 7",
+          "originalBytes": 837803,
+          "thumbnailBytes": 95014
+        },
+        {
+          "fileName": "maple-8.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-8.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 8",
+          "originalBytes": 428457,
+          "thumbnailBytes": 43319
+        },
+        {
+          "fileName": "maple-9.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-9.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 9",
+          "originalBytes": 196847,
+          "thumbnailBytes": 32268
+        },
+        {
+          "fileName": "maple-10.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-10.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 10",
+          "originalBytes": 548775,
+          "thumbnailBytes": 67369
+        },
+        {
+          "fileName": "maple-11.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-11.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 11",
+          "originalBytes": 764002,
+          "thumbnailBytes": 98800
+        },
+        {
+          "fileName": "maple-12.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-12.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 12",
+          "originalBytes": 578877,
+          "thumbnailBytes": 74775
+        },
+        {
+          "fileName": "maple-13.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-13.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 13",
+          "originalBytes": 549993,
+          "thumbnailBytes": 70794
+        },
+        {
+          "fileName": "maple-14.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-14.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 14",
+          "originalBytes": 602814,
+          "thumbnailBytes": 68350
+        },
+        {
+          "fileName": "maple-15.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-15.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 15",
+          "originalBytes": 619161,
+          "thumbnailBytes": 84420
+        },
+        {
+          "fileName": "maple-16.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-16.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 16",
+          "originalBytes": 657097,
+          "thumbnailBytes": 72479
+        },
+        {
+          "fileName": "maple-17.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-17.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 17",
+          "originalBytes": 420177,
+          "thumbnailBytes": 57423
+        },
+        {
+          "fileName": "maple-18.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-18.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 18",
+          "originalBytes": 636006,
+          "thumbnailBytes": 84688
+        },
+        {
+          "fileName": "maple-19.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-19.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 19",
+          "originalBytes": 554697,
+          "thumbnailBytes": 74384
+        },
+        {
+          "fileName": "maple-20.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-20.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 20",
+          "originalBytes": 545020,
+          "thumbnailBytes": 78749
+        },
+        {
+          "fileName": "maple-21.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-21.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 21",
+          "originalBytes": 582540,
+          "thumbnailBytes": 72745
+        },
+        {
+          "fileName": "maple-22.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-22.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 22",
+          "originalBytes": 459789,
+          "thumbnailBytes": 55699
+        },
+        {
+          "fileName": "maple-23.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-23.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 23",
+          "originalBytes": 676931,
+          "thumbnailBytes": 81626
+        },
+        {
+          "fileName": "maple-24.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-24.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 24",
+          "originalBytes": 595327,
+          "thumbnailBytes": 77203
+        },
+        {
+          "fileName": "maple-25.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-25.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 25",
+          "originalBytes": 514517,
+          "thumbnailBytes": 70543
+        },
+        {
+          "fileName": "maple-26.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-26.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 26",
+          "originalBytes": 569249,
+          "thumbnailBytes": 72063
+        },
+        {
+          "fileName": "maple-27.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-27.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 27",
+          "originalBytes": 505400,
+          "thumbnailBytes": 58044
+        },
+        {
+          "fileName": "maple-28.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-28.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 28",
+          "originalBytes": 585801,
+          "thumbnailBytes": 73935
+        },
+        {
+          "fileName": "maple-29.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-29.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 29",
+          "originalBytes": 528446,
+          "thumbnailBytes": 60313
+        },
+        {
+          "fileName": "maple-30.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-30.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 30",
+          "originalBytes": 532770,
+          "thumbnailBytes": 61355
+        },
+        {
+          "fileName": "maple-31.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-31.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 31",
+          "originalBytes": 580012,
+          "thumbnailBytes": 73456
+        },
+        {
+          "fileName": "maple-32.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-32.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 32",
+          "originalBytes": 605439,
+          "thumbnailBytes": 72877
+        },
+        {
+          "fileName": "maple-33.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-33.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 33",
+          "originalBytes": 597590,
+          "thumbnailBytes": 69777
+        },
+        {
+          "fileName": "maple-34.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-34.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 34",
+          "originalBytes": 437723,
+          "thumbnailBytes": 48085
+        },
+        {
+          "fileName": "maple-35.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-35.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 35",
+          "originalBytes": 550894,
+          "thumbnailBytes": 70709
+        },
+        {
+          "fileName": "maple-36.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-36.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 36",
+          "originalBytes": 456409,
+          "thumbnailBytes": 56093
+        },
+        {
+          "fileName": "maple-37.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-37.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 37",
+          "originalBytes": 446840,
+          "thumbnailBytes": 55037
+        },
+        {
+          "fileName": "maple-38.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-38.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 38",
+          "originalBytes": 344432,
+          "thumbnailBytes": 67666
+        },
+        {
+          "fileName": "maple-39.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-39.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 39",
+          "originalBytes": 376919,
+          "thumbnailBytes": 73681
+        },
+        {
+          "fileName": "maple-40.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-40.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 40",
+          "originalBytes": 349236,
+          "thumbnailBytes": 64269
+        },
+        {
+          "fileName": "maple-41.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-41.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 41",
+          "originalBytes": 630546,
+          "thumbnailBytes": 83557
+        },
+        {
+          "fileName": "maple-42.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-42.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 42",
+          "originalBytes": 110808,
+          "thumbnailBytes": 50673
+        },
+        {
+          "fileName": "maple-43.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-43.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 43",
+          "originalBytes": 106174,
+          "thumbnailBytes": 44204
+        },
+        {
+          "fileName": "maple-44.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-44.jpg",
+          "alt": "The Maple gallery image",
+          "caption": "Maple 44",
+          "originalBytes": 337681,
+          "thumbnailBytes": 40713
+        }
+      ]
+    },
+    {
+      "slug": "the-tulip",
+      "title": "The Tulip",
+      "directory": "Tulip",
+      "images": [
+        {
+          "fileName": "tulip-1.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-1.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 1",
+          "originalBytes": 773344,
+          "thumbnailBytes": 95429
+        },
+        {
+          "fileName": "tulip-2.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-2.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 2",
+          "originalBytes": 633271,
+          "thumbnailBytes": 81994
+        },
+        {
+          "fileName": "tulip-3.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-3.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 3",
+          "originalBytes": 689033,
+          "thumbnailBytes": 85512
+        },
+        {
+          "fileName": "tulip-4.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-4.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 4",
+          "originalBytes": 582300,
+          "thumbnailBytes": 63616
+        },
+        {
+          "fileName": "tulip-5.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-5.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 5",
+          "originalBytes": 559747,
+          "thumbnailBytes": 59876
+        },
+        {
+          "fileName": "tulip-6.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-6.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 6",
+          "originalBytes": 500337,
+          "thumbnailBytes": 60509
+        },
+        {
+          "fileName": "tulip-7.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-7.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 7",
+          "originalBytes": 282389,
+          "thumbnailBytes": 41984
+        },
+        {
+          "fileName": "tulip-8.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-8.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 8",
+          "originalBytes": 515802,
+          "thumbnailBytes": 78717
+        },
+        {
+          "fileName": "tulip-9.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-9.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 9",
+          "originalBytes": 405334,
+          "thumbnailBytes": 64446
+        },
+        {
+          "fileName": "tulip-10.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-10.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 10",
+          "originalBytes": 547908,
+          "thumbnailBytes": 78137
+        },
+        {
+          "fileName": "tulip-11.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-11.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 11",
+          "originalBytes": 421347,
+          "thumbnailBytes": 66945
+        },
+        {
+          "fileName": "tulip-12.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-12.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 12",
+          "originalBytes": 510332,
+          "thumbnailBytes": 73585
+        },
+        {
+          "fileName": "tulip-13.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-13.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 13",
+          "originalBytes": 370759,
+          "thumbnailBytes": 57885
+        },
+        {
+          "fileName": "tulip-14.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-14.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 14",
+          "originalBytes": 408428,
+          "thumbnailBytes": 61188
+        },
+        {
+          "fileName": "tulip-15.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-15.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 15",
+          "originalBytes": 387536,
+          "thumbnailBytes": 62413
+        },
+        {
+          "fileName": "tulip-16.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-16.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 16",
+          "originalBytes": 444682,
+          "thumbnailBytes": 61723
+        },
+        {
+          "fileName": "tulip-17.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-17.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 17",
+          "originalBytes": 440598,
+          "thumbnailBytes": 57761
+        },
+        {
+          "fileName": "tulip-18.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-18.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 18",
+          "originalBytes": 403819,
+          "thumbnailBytes": 58437
+        },
+        {
+          "fileName": "tulip-19.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-19.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 19",
+          "originalBytes": 362421,
+          "thumbnailBytes": 51747
+        },
+        {
+          "fileName": "tulip-20.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-20.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 20",
+          "originalBytes": 431232,
+          "thumbnailBytes": 57986
+        },
+        {
+          "fileName": "tulip-21.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-21.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 21",
+          "originalBytes": 469031,
+          "thumbnailBytes": 64499
+        },
+        {
+          "fileName": "tulip-22.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-22.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 22",
+          "originalBytes": 346477,
+          "thumbnailBytes": 51836
+        },
+        {
+          "fileName": "tulip-23.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-23.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 23",
+          "originalBytes": 417708,
+          "thumbnailBytes": 67198
+        },
+        {
+          "fileName": "tulip-24.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-24.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 24",
+          "originalBytes": 426723,
+          "thumbnailBytes": 61634
+        },
+        {
+          "fileName": "tulip-25.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-25.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 25",
+          "originalBytes": 523046,
+          "thumbnailBytes": 80598
+        },
+        {
+          "fileName": "tulip-26.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-26.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 26",
+          "originalBytes": 720926,
+          "thumbnailBytes": 91848
+        },
+        {
+          "fileName": "tulip-27.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-27.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 27",
+          "originalBytes": 430922,
+          "thumbnailBytes": 56317
+        },
+        {
+          "fileName": "tulip-28.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-28.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 28",
+          "originalBytes": 519031,
+          "thumbnailBytes": 70260
+        },
+        {
+          "fileName": "tulip-29.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-29.jpg",
+          "alt": "The Tulip gallery image",
+          "caption": "Tulip 29",
+          "originalBytes": 478126,
+          "thumbnailBytes": 67427
+        }
+      ]
+    },
+    {
+      "slug": "meadows",
+      "title": "Meadows",
+      "directory": "Meadows",
+      "images": [
+        {
+          "fileName": "meadows-1.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-1.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 1",
+          "originalBytes": 767471,
+          "thumbnailBytes": 91147
+        },
+        {
+          "fileName": "meadows-2.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-2.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 2",
+          "originalBytes": 541512,
+          "thumbnailBytes": 76995
+        },
+        {
+          "fileName": "meadows-3.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-3.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 3",
+          "originalBytes": 493012,
+          "thumbnailBytes": 65914
+        },
+        {
+          "fileName": "meadows-4.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-4.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 4",
+          "originalBytes": 303586,
+          "thumbnailBytes": 41754
+        },
+        {
+          "fileName": "meadows-5.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-5.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 5",
+          "originalBytes": 479976,
+          "thumbnailBytes": 57674
+        },
+        {
+          "fileName": "meadows-6.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-6.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 6",
+          "originalBytes": 433604,
+          "thumbnailBytes": 60775
+        },
+        {
+          "fileName": "meadows-7.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-7.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 7",
+          "originalBytes": 518945,
+          "thumbnailBytes": 69219
+        },
+        {
+          "fileName": "meadows-8.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-8.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 8",
+          "originalBytes": 333366,
+          "thumbnailBytes": 47634
+        },
+        {
+          "fileName": "meadows-9.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-9.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 9",
+          "originalBytes": 572303,
+          "thumbnailBytes": 85034
+        },
+        {
+          "fileName": "meadows-10.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-10.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 10",
+          "originalBytes": 296300,
+          "thumbnailBytes": 42097
+        },
+        {
+          "fileName": "meadows-11.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-11.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 11",
+          "originalBytes": 352291,
+          "thumbnailBytes": 50308
+        },
+        {
+          "fileName": "meadows-12.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-12.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 12",
+          "originalBytes": 433480,
+          "thumbnailBytes": 58655
+        },
+        {
+          "fileName": "meadows-13.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-13.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 13",
+          "originalBytes": 323790,
+          "thumbnailBytes": 50231
+        },
+        {
+          "fileName": "meadows-14.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-14.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 14",
+          "originalBytes": 379026,
+          "thumbnailBytes": 58620
+        },
+        {
+          "fileName": "meadows-15.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-15.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 15",
+          "originalBytes": 278696,
+          "thumbnailBytes": 43152
+        },
+        {
+          "fileName": "meadows-16.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-16.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 16",
+          "originalBytes": 419224,
+          "thumbnailBytes": 58814
+        },
+        {
+          "fileName": "meadows-17.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-17.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 17",
+          "originalBytes": 541225,
+          "thumbnailBytes": 65533
+        },
+        {
+          "fileName": "meadows-18.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-18.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 18",
+          "originalBytes": 755188,
+          "thumbnailBytes": 89625
+        },
+        {
+          "fileName": "meadows-19.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-19.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 19",
+          "originalBytes": 451526,
+          "thumbnailBytes": 57924
+        },
+        {
+          "fileName": "meadows-20.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-20.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 20",
+          "originalBytes": 460909,
+          "thumbnailBytes": 58838
+        },
+        {
+          "fileName": "meadows-21.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-21.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 21",
+          "originalBytes": 400657,
+          "thumbnailBytes": 51914
+        },
+        {
+          "fileName": "meadows-22.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-22.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 22",
+          "originalBytes": 501083,
+          "thumbnailBytes": 63897
+        },
+        {
+          "fileName": "meadows-23.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-23.jpg",
+          "alt": "Meadows gallery image",
+          "caption": "Meadows 23",
+          "originalBytes": 528245,
+          "thumbnailBytes": 67898
+        }
+      ]
+    }
+  ]
+}

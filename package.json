@@ -9,6 +9,7 @@
     "update-reviews": "node scripts/update-photos-review.js",
     "fetch-fresh-reviews": "node scripts/fetch-fresh-reviews.js",
     "validate-reviews": "node scripts/validate-photos-review.js",
+    "optimize-garden-images": "node scripts/optimize-garden-images.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -22,4 +23,4 @@
   ],
   "author": "",
   "license": "ISC"
-} 
+}

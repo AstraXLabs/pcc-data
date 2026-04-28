@@ -1,5 +1,5 @@
 {
-  "VERSION": 1,
+  "VERSION": 3,
   "data": {
     "content": {
       "hero": {
@@ -70,22 +70,22 @@
       "events": {
         "eyebrow": "Events We Host",
         "title": "Perfect for Every Occasion",
-        "description": "Marriage, sangeet, reception, anniversary, birthday, corporate, doctors' meets, exhibitions, film & TV shoots, and spiritual gatherings.",
+        "description": "Marriage, reception, sangeet, engagement, anniversary, birthday, rice ceremony, corporate events, doctors' meets, exhibitions, spiritual gatherings, concerts, parties, and film & TV shoots.",
         "items": [
           {
-            "key": "marriage-sangeet",
-            "title": "Marriage & Sangeet",
-            "description": "Celebrate marriage ceremonies and sangeet evenings in open lawns or AC halls."
+            "key": "marriage-reception",
+            "title": "Marriage And Reception",
+            "description": "Host wedding ceremonies and receptions across open lawns, banquet spaces, and decorated arrival zones."
           },
           {
-            "key": "reception-anniversary",
-            "title": "Reception & Anniversary",
-            "description": "Elegant receptions and anniversaries crafted with warm lighting and lush settings."
+            "key": "sangeet-engagement-anniversary",
+            "title": "Sangeet, Engagement & Anniversary",
+            "description": "Celebrate pre-wedding evenings, engagements, and anniversaries with flexible indoor and outdoor settings."
           },
           {
-            "key": "birthday-celebrations",
-            "title": "Birthday Celebrations",
-            "description": "Flexible indoor and outdoor spaces for festive family gatherings."
+            "key": "birthday-rice-ceremony",
+            "title": "Birthday & Rice Ceremony",
+            "description": "Plan intimate or festive family gatherings with easy guest flow and dedicated support spaces."
           },
           {
             "key": "corporate-events",
@@ -93,14 +93,29 @@
             "description": "Corporate events and brand showcases with AV-ready halls and lawns."
           },
           {
-            "key": "doctors-meets-exhibitions",
-            "title": "Doctors' Meets & Exhibitions",
-            "description": "Professional meets, exhibitions, and conferences with ample space."
+            "key": "doctors-meet",
+            "title": "Doctor’s Meet",
+            "description": "Professional meets and medical community gatherings with organized seating and guest support."
           },
           {
-            "key": "film-tv-spiritual",
-            "title": "Film & TV Shoots / Spiritual",
-            "description": "Stunning backdrops for productions and spiritual gatherings."
+            "key": "exhibition",
+            "title": "Exhibition",
+            "description": "Spacious layouts for lifestyle, cultural, craft, and brand exhibitions."
+          },
+          {
+            "key": "spiritual",
+            "title": "Spiritual",
+            "description": "Calm open-air and covered settings for spiritual gatherings and community events."
+          },
+          {
+            "key": "concerts-parties",
+            "title": "Concerts & Parties",
+            "description": "Large-format lawns and halls for musical evenings, parties, and cultural performances."
+          },
+          {
+            "key": "film-tv-shoots",
+            "title": "Film & TV Shoots",
+            "description": "Distinctive garden, lawn, and venue backdrops for film, television, and content shoots."
           }
         ]
       },
@@ -134,7 +149,7 @@
         "venueName": "PC Chandra Garden - Event Venues in Kolkata",
         "addressLines": [
           "144, Arupota, E. M. Bypass (Opp. Science City)",
-          "Kolkata-700105, West Bengal, India"
+          "Kolkata- 700105, West Bengal, India"
         ],
         "phoneLabel": "WhatsApp/Mobile",
         "phones": [
@@ -159,18 +174,54 @@
             "message": "Message"
           },
           "eventOptions": [
-            { "value": "", "label": "Select Event Type" },
-            { "value": "marriage", "label": "Marriage" },
-            { "value": "sangeet", "label": "Sangeet" },
-            { "value": "reception", "label": "Reception" },
-            { "value": "anniversary", "label": "Anniversary" },
-            { "value": "birthday", "label": "Birthday" },
-            { "value": "corporate", "label": "Corporate" },
-            { "value": "doctors-meet", "label": "Doctors' Meet" },
-            { "value": "exhibition", "label": "Exhibition" },
-            { "value": "film-tv", "label": "Film & TV Shoot" },
-            { "value": "spiritual", "label": "Spiritual" },
-            { "value": "other", "label": "Other" }
+            {
+              "value": "",
+              "label": "Select Event Type"
+            },
+            {
+              "value": "marriage",
+              "label": "Marriage"
+            },
+            {
+              "value": "sangeet",
+              "label": "Sangeet"
+            },
+            {
+              "value": "reception",
+              "label": "Reception"
+            },
+            {
+              "value": "anniversary",
+              "label": "Anniversary"
+            },
+            {
+              "value": "birthday",
+              "label": "Birthday"
+            },
+            {
+              "value": "corporate",
+              "label": "Corporate"
+            },
+            {
+              "value": "doctors-meet",
+              "label": "Doctors' Meet"
+            },
+            {
+              "value": "exhibition",
+              "label": "Exhibition"
+            },
+            {
+              "value": "film-tv",
+              "label": "Film & TV Shoot"
+            },
+            {
+              "value": "spiritual",
+              "label": "Spiritual"
+            },
+            {
+              "value": "other",
+              "label": "Other"
+            }
           ]
         }
       },
@@ -205,15 +256,51 @@
           "shortDescription": "A grand open-air venue with expansive lawn space, a covered lounge block, guest rooms, and reliable event infrastructure.",
           "overview": "Gold Acres is built for large-format celebrations, pairing a lush 60,000 sq. ft. lawn with covered support spaces, guest rooms, parking, and venue services that make high-footfall events feel organized from arrival to wrap-up.",
           "summaryStats": [
-            { "label": "Open Lawn", "value": "60,000 sq ft" },
-            { "label": "Covered Area", "value": "5,800 sq ft" },
-            { "label": "AC Lounge", "value": "1,000 sq ft" }
+            {
+              "label": "Open Lawn",
+              "value": "60,000 sq ft"
+            },
+            {
+              "label": "Covered Area",
+              "value": "5,800 sq ft"
+            },
+            {
+              "label": "AC Lounge",
+              "value": "1,000 sq ft"
+            }
           ],
           "sections": [
-            { "title": "Facilities", "items": ["Approximately 60,000 sq. ft. open area with lush green lawn.", "Approximately 5,800 sq. ft. covered area including a 1,000 sq. ft. AC lounge.", "2 guest rooms with adequate washrooms.", "Spacious kitchen and parking facility."] },
-            { "title": "Illumination", "items": ["Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."] },
-            { "title": "Vendors", "items": ["Empanelled decorators, florists, and electricians support venue setup requirements."] },
-            { "title": "Other Services", "items": ["Power supply for basic illumination.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+            {
+              "title": "Facilities",
+              "items": [
+                "Approximately 60,000 sq. ft. open area with lush green lawn.",
+                "Approximately 5,800 sq. ft. covered area including a 1,000 sq. ft. AC lounge.",
+                "2 guest rooms with adequate washrooms.",
+                "Spacious kitchen and parking facility."
+              ]
+            },
+            {
+              "title": "Illumination",
+              "items": [
+                "Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."
+              ]
+            },
+            {
+              "title": "Vendors",
+              "items": [
+                "Empanelled decorators, florists, and electricians support venue setup requirements."
+              ]
+            },
+            {
+              "title": "Other Services",
+              "items": [
+                "Power supply for basic illumination.",
+                "Valet parking with public address system.",
+                "Security system with CCTV.",
+                "Fire fighting system.",
+                "Pest control."
+              ]
+            }
           ]
         },
         {
@@ -223,16 +310,58 @@
           "shortDescription": "A landscaped lawn venue with fountain features, a banquet hall, guest rooms, and event-ready furniture support.",
           "overview": "The Maple balances outdoor freshness with banquet convenience, pairing a large lawn and rockery setting with an AC hall, guest rooms, kitchen access, and in-package event essentials for flexible celebration formats.",
           "summaryStats": [
-            { "label": "Open Lawn", "value": "33,000 sq ft" },
-            { "label": "AC Hall", "value": "2,300 sq ft" },
-            { "label": "Guest Rooms", "value": "2 Rooms" }
+            {
+              "label": "Open Lawn",
+              "value": "33,000 sq ft"
+            },
+            {
+              "label": "AC Hall",
+              "value": "2,300 sq ft"
+            },
+            {
+              "label": "Guest Rooms",
+              "value": "2 Rooms"
+            }
           ],
           "sections": [
-            { "title": "Facilities", "items": ["Approximately 33,000 sq. ft. open area with lush green lawn.", "Colourful fountain and rockery.", "Approximately 2,300 sq. ft. AC banquet hall.", "2 guest rooms with adequate washrooms.", "Spacious kitchen and large parking facility."] },
-            { "title": "Illumination", "items": ["Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."] },
-            { "title": "Decoration", "items": ["Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are included within the package."] },
-            { "title": "Vendors", "items": ["Empanelled decorators, florists, and electricians take care of client requirements."] },
-            { "title": "Other Services", "items": ["Power supply for basic illumination.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+            {
+              "title": "Facilities",
+              "items": [
+                "Approximately 33,000 sq. ft. open area with lush green lawn.",
+                "Colourful fountain and rockery.",
+                "Approximately 2,300 sq. ft. AC banquet hall.",
+                "2 guest rooms with adequate washrooms.",
+                "Spacious kitchen and large parking facility."
+              ]
+            },
+            {
+              "title": "Illumination",
+              "items": [
+                "Existing lights in the hall, kitchen, washrooms, driveway, parking area, and working ground lights are included within the package."
+              ]
+            },
+            {
+              "title": "Decoration",
+              "items": [
+                "Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are included within the package."
+              ]
+            },
+            {
+              "title": "Vendors",
+              "items": [
+                "Empanelled decorators, florists, and electricians take care of client requirements."
+              ]
+            },
+            {
+              "title": "Other Services",
+              "items": [
+                "Power supply for basic illumination.",
+                "Valet parking with public address system.",
+                "Security system with CCTV.",
+                "Fire fighting system.",
+                "Pest control."
+              ]
+            }
           ]
         },
         {
@@ -242,15 +371,48 @@
           "shortDescription": "A hilltop venue with a banquet hall, food arena, open celebration space, kitchen access, and parking.",
           "overview": "The Tulip brings together a large air-conditioned hall, a dedicated food arena, and open-air celebration space in one hilltop venue, making it a strong fit for weddings, receptions, and event formats that move between indoor and outdoor settings.",
           "summaryStats": [
-            { "label": "AC Hall", "value": "6,000 sq ft" },
-            { "label": "Food Arena", "value": "3,000 sq ft" },
-            { "label": "Open Area", "value": "5,500 sq ft" }
+            {
+              "label": "AC Hall",
+              "value": "6,000 sq ft"
+            },
+            {
+              "label": "Food Arena",
+              "value": "3,000 sq ft"
+            },
+            {
+              "label": "Open Area",
+              "value": "5,500 sq ft"
+            }
           ],
           "sections": [
-            { "title": "Location", "items": ["A hilltop venue within the PC Chandra Garden campus.", "Designed for celebrations that benefit from indoor comfort and open-air spillover space."] },
-            { "title": "Facilities", "items": ["Approximately 6,000 sq. ft. AC banquet hall.", "Approximately 3,000 sq. ft. AC food arena.", "Approximately 5,500 sq. ft. open area.", "Kitchen access and large parking facility."] },
-            { "title": "Illumination", "items": ["Existing venue illumination is included to support smooth event operations across indoor and outdoor zones."] },
-            { "title": "Event Use", "items": ["Suitable for weddings, receptions, festive evenings, and high-guest-count social events."] }
+            {
+              "title": "Location",
+              "items": [
+                "A hilltop venue within the PC Chandra Garden campus.",
+                "Designed for celebrations that benefit from indoor comfort and open-air spillover space."
+              ]
+            },
+            {
+              "title": "Facilities",
+              "items": [
+                "Approximately 6,000 sq. ft. AC banquet hall.",
+                "Approximately 3,000 sq. ft. AC food arena.",
+                "Approximately 5,500 sq. ft. open area.",
+                "Kitchen access and large parking facility."
+              ]
+            },
+            {
+              "title": "Illumination",
+              "items": [
+                "Existing venue illumination is included to support smooth event operations across indoor and outdoor zones."
+              ]
+            },
+            {
+              "title": "Event Use",
+              "items": [
+                "Suitable for weddings, receptions, festive evenings, and high-guest-count social events."
+              ]
+            }
           ]
         },
         {
@@ -260,80 +422,249 @@
           "shortDescription": "A hillock-top venue overlooking the E. M. Bypass with a banquet hall, food arena, lawn, and backup-ready event infrastructure.",
           "overview": "Meadows sits on a green rise overlooking the E. M. Bypass and Science City, combining a modern AC banquet hall, food arena, lawn, and backup-supported operations for events that need both setting and reliability.",
           "summaryStats": [
-            { "label": "AC Hall", "value": "4,500 sq ft" },
-            { "label": "Food Arena", "value": "1,700 sq ft" },
-            { "label": "Lawn", "value": "2,000 sq ft" }
+            {
+              "label": "AC Hall",
+              "value": "4,500 sq ft"
+            },
+            {
+              "label": "Food Arena",
+              "value": "1,700 sq ft"
+            },
+            {
+              "label": "Lawn",
+              "value": "2,000 sq ft"
+            }
           ],
           "sections": [
-            { "title": "Location", "items": ["Situated on a hillock overlooking the E. M. Bypass and Science City.", "Surrounded by lush greenery."] },
-            { "title": "Facilities", "items": ["Approximately 4,500 sq. ft. AC banquet hall with modern facilities.", "Room with attached washroom.", "Approximately 1,700 sq. ft. AC food arena.", "Approximately 2,000 sq. ft. lawn.", "Spacious kitchen and parking facility."] },
-            { "title": "Illumination", "items": ["Existing lights in the halls, lawn, kitchen, washrooms, pathway, driveway, and parking area are included within the package."] },
-            { "title": "Decoration", "items": ["Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are provided within the package."] },
-            { "title": "Vendors & Caterers", "items": ["Empanelled decorators, florists, and electricians support venue requirements.", "Clients may choose from empanelled caterers serving vegetarian and non-vegetarian cuisines."] },
-            { "title": "Other Services", "items": ["Adequate power supply for existing facilities plus back-up generator.", "Valet parking with public address system.", "Security system with CCTV.", "Fire fighting system.", "Pest control."] }
+            {
+              "title": "Location",
+              "items": [
+                "Situated on a hillock overlooking the E. M. Bypass and Science City.",
+                "Surrounded by lush greenery."
+              ]
+            },
+            {
+              "title": "Facilities",
+              "items": [
+                "Approximately 4,500 sq. ft. AC banquet hall with modern facilities.",
+                "Room with attached washroom.",
+                "Approximately 1,700 sq. ft. AC food arena.",
+                "Approximately 2,000 sq. ft. lawn.",
+                "Spacious kitchen and parking facility."
+              ]
+            },
+            {
+              "title": "Illumination",
+              "items": [
+                "Existing lights in the halls, lawn, kitchen, washrooms, pathway, driveway, and parking area are included within the package."
+              ]
+            },
+            {
+              "title": "Decoration",
+              "items": [
+                "Fixed numbers of sofa sets, banquet chairs, buffet counters, and related setup pieces are provided within the package."
+              ]
+            },
+            {
+              "title": "Vendors & Caterers",
+              "items": [
+                "Empanelled decorators, florists, and electricians support venue requirements.",
+                "Clients may choose from empanelled caterers serving vegetarian and non-vegetarian cuisines."
+              ]
+            },
+            {
+              "title": "Other Services",
+              "items": [
+                "Adequate power supply for existing facilities plus back-up generator.",
+                "Valet parking with public address system.",
+                "Security system with CCTV.",
+                "Fire fighting system.",
+                "Pest control."
+              ]
+            }
           ]
         }
       ]
     },
     "media": {
       "hero": {
-        "src": "https://static.wixstatic.com/media/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg",
+        "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/garden-hero.jpg",
         "alt": "PC Chandra Garden"
       },
       "venues": {
         "gold-acres": {
-          "heroImage": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg",
+          "heroImage": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-hero.jpg",
           "galleryImages": [
-            { "src": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg", "alt": "Gold Acres lawn at PC Chandra Garden", "caption": "The signature lawn at Gold Acres" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_fed5927259a14fe8af976bd93d571c69~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_fed5927259a14fe8af976bd93d571c69~mv2.jpg", "alt": "Ceremonial aisle setup at PC Chandra Garden", "caption": "A dramatic arrival setup for evening celebrations" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_49b6fccf43f3450496c6b60b8794cf1d~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_49b6fccf43f3450496c6b60b8794cf1d~mv2.jpg", "alt": "Decor installation at PC Chandra Garden", "caption": "Statement decor moments across the celebration grounds" }
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-hero.jpg",
+              "alt": "Gold Acres lawn at PC Chandra Garden",
+              "caption": "The signature lawn at Gold Acres"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-gallery-aisle.jpg",
+              "alt": "Ceremonial aisle setup at PC Chandra Garden",
+              "caption": "A dramatic arrival setup for evening celebrations"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-gallery-decor.jpg",
+              "alt": "Decor installation at PC Chandra Garden",
+              "caption": "Statement decor moments across the celebration grounds"
+            }
           ]
         },
         "the-maple": {
-          "heroImage": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg",
+          "heroImage": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-hero.jpg",
           "galleryImages": [
-            { "src": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg", "alt": "The Maple lawn and banquet exterior", "caption": "A landscaped lawn layout framed by the venue block" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_4852c541bc2d4a75aec5b9bf1c4249d8~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_4852c541bc2d4a75aec5b9bf1c4249d8~mv2.jpg", "alt": "Bridge and water feature at The Maple", "caption": "The Maple's fountain-and-rockery atmosphere" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_a278861dc3dd4cb9bfc5e0a934d5f1d6~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_a278861dc3dd4cb9bfc5e0a934d5f1d6~mv2.jpg", "alt": "Banquet setup at PC Chandra Garden", "caption": "Indoor seating and stage arrangements ready for reception flow" }
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-hero.jpg",
+              "alt": "The Maple lawn and banquet exterior",
+              "caption": "A landscaped lawn layout framed by the venue block"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-gallery-bridge.jpg",
+              "alt": "Bridge and water feature at The Maple",
+              "caption": "The Maple's fountain-and-rockery atmosphere"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-gallery-banquet.jpg",
+              "alt": "Banquet setup at PC Chandra Garden",
+              "caption": "Indoor seating and stage arrangements ready for reception flow"
+            }
           ]
         },
         "the-tulip": {
-          "heroImage": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg",
+          "heroImage": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-hero.jpg",
           "galleryImages": [
-            { "src": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg", "alt": "The Tulip exterior at PC Chandra Garden", "caption": "The Tulip's signature venue frontage" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_7607b6b8aa7e48b0a663fa1208d5c328~mv2.jpg", "alt": "Evening celebration setup at PC Chandra Garden", "caption": "Ambient evening celebrations around the venue" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_e2fcc1ce7d3241968116b723e97143d7~mv2.jpg", "alt": "Celebration moment at PC Chandra Garden", "caption": "A glimpse into the event atmosphere around The Tulip" }
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-hero.jpg",
+              "alt": "The Tulip exterior at PC Chandra Garden",
+              "caption": "The Tulip's signature venue frontage"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-gallery-evening.jpg",
+              "alt": "Evening celebration setup at PC Chandra Garden",
+              "caption": "Ambient evening celebrations around the venue"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-gallery-celebration.jpg",
+              "alt": "Celebration moment at PC Chandra Garden",
+              "caption": "A glimpse into the event atmosphere around The Tulip"
+            }
           ]
         },
         "meadows": {
-          "heroImage": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg",
+          "heroImage": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-hero.jpg",
           "galleryImages": [
-            { "src": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg", "alt": "Meadows lawn at PC Chandra Garden", "caption": "Meadows framed by greenery and open air" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_81db3fcc92c842c78041be05fda2060f~mv2.jpg/v1/fill/w_328,h_174,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6401_edited.jpg", "alt": "Meadows landscape at PC Chandra Garden", "caption": "The green approach and landscape character of Meadows" },
-            { "src": "https://static.wixstatic.com/media/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg/v1/fill/w_399,h_398,q_90,enc_avif,quality_auto/d5e26b_b762b62a2d814ca1b53393bbea8b0232~mv2.jpg", "alt": "Open lawn and venue edge at PC Chandra Garden", "caption": "Open sightlines that suit day and evening functions alike" }
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-hero.jpg",
+              "alt": "Meadows lawn at PC Chandra Garden",
+              "caption": "Meadows framed by greenery and open air"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-gallery-landscape.jpg",
+              "alt": "Meadows landscape at PC Chandra Garden",
+              "caption": "The green approach and landscape character of Meadows"
+            },
+            {
+              "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-gallery-open-lawn.jpg",
+              "alt": "Open lawn and venue edge at PC Chandra Garden",
+              "caption": "Open sightlines that suit day and evening functions alike"
+            }
           ]
         }
       },
       "homepageGallery": [
-        { "id": "home-gold-acres", "src": "https://static.wixstatic.com/media/d5e26b_af00f615984140858d53a7c8c15fd702~mv2.jpg", "alt": "Gold Acres lawn", "caption": "Gold Acres" },
-        { "id": "home-maple", "src": "https://static.wixstatic.com/media/d5e26b_bd05b42e411942b699060a6d2368ee1a~mv2.jpg", "alt": "The Maple banquet hall exterior", "caption": "The Maple" },
-        { "id": "home-tulip", "src": "https://static.wixstatic.com/media/d5e26b_0ae3fb422e08409395191ef3cdbeccb3~mv2.jpg", "alt": "The Tulip venue", "caption": "The Tulip" },
-        { "id": "home-meadows", "src": "https://static.wixstatic.com/media/d5e26b_740ed973105e4dbba9fce0351b6e3dae~mv2.jpg", "alt": "Meadows lawn", "caption": "Meadows" },
-        { "id": "home-evening-reception", "src": "https://static.wixstatic.com/media/d5e26b_7607b6b8aa7e48b0a663fa1208d5c328~mv2.jpg", "alt": "Evening reception lighting at PC Chandra Garden", "caption": "Evening Reception" },
-        { "id": "home-celebration-moments", "src": "https://static.wixstatic.com/media/d5e26b_e2fcc1ce7d3241968116b723e97143d7~mv2.jpg", "alt": "Celebration moment at PC Chandra Garden", "caption": "Celebration Moments" }
+        {
+          "id": "home-gold-acres",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-hero.jpg",
+          "alt": "Gold Acres lawn",
+          "caption": "Gold Acres"
+        },
+        {
+          "id": "home-maple",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-hero.jpg",
+          "alt": "The Maple banquet hall exterior",
+          "caption": "The Maple"
+        },
+        {
+          "id": "home-tulip",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-hero.jpg",
+          "alt": "The Tulip venue",
+          "caption": "The Tulip"
+        },
+        {
+          "id": "home-meadows",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-hero.jpg",
+          "alt": "Meadows lawn",
+          "caption": "Meadows"
+        },
+        {
+          "id": "home-evening-reception",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-gallery-evening.jpg",
+          "alt": "Evening reception lighting at PC Chandra Garden",
+          "caption": "Evening Reception"
+        },
+        {
+          "id": "home-celebration-moments",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-gallery-celebration.jpg",
+          "alt": "Celebration moment at PC Chandra Garden",
+          "caption": "Celebration Moments"
+        }
       ],
       "eventTypeImages": {
-        "marriage-sangeet": { "src": "https://static.wixstatic.com/media/d5e26b_6ca05fb9a71942fcbc789c3fc1c678a8~mv2.jpg", "alt": "Marriage and sangeet setup at PC Chandra Garden" },
-        "reception-anniversary": { "src": "https://static.wixstatic.com/media/d5e26b_efc0a20181ce4b838e3a52cbdc797cdf~mv2.jpg", "alt": "Reception and anniversary setup at PC Chandra Garden" },
-        "birthday-celebrations": { "src": "https://static.wixstatic.com/media/d5e26b_a07272334dde4701bf0e75b073de9edc~mv2.jpg", "alt": "Birthday celebration setup at PC Chandra Garden" },
-        "corporate-events": { "src": "https://static.wixstatic.com/media/d5e26b_b7451d8675b14612ababf980be56c8e8~mv2.jpg", "alt": "Corporate event setup at PC Chandra Garden" },
-        "doctors-meets-exhibitions": { "src": "https://static.wixstatic.com/media/d5e26b_9413adf9ea0c4a4c934a0fd13b643a2d~mv2.jpg", "alt": "Doctors meet and exhibition setup at PC Chandra Garden" },
-        "film-tv-spiritual": { "src": "https://static.wixstatic.com/media/d5e26b_e15a661a8c07449e8d70cdb7c4e073a6~mv2.jpg", "alt": "Film shoot or spiritual gathering backdrop at PC Chandra Garden" }
+        "marriage-reception": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-marriage-reception.jpg",
+          "alt": "Marriage and reception setup at PC Chandra Garden"
+        },
+        "sangeet-engagement-anniversary": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-sangeet-engagement-anniversary.jpg",
+          "alt": "Sangeet, engagement, and anniversary setup at PC Chandra Garden"
+        },
+        "birthday-rice-ceremony": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-birthday-rice-ceremony.jpg",
+          "alt": "Birthday and rice ceremony setup at PC Chandra Garden"
+        },
+        "corporate-events": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-corporate-concerts.jpg",
+          "alt": "Corporate event setup at PC Chandra Garden"
+        },
+        "doctors-meet": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-doctors-exhibition.jpg",
+          "alt": "Doctors meet setup at PC Chandra Garden"
+        },
+        "exhibition": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-doctors-exhibition.jpg",
+          "alt": "Exhibition setup at PC Chandra Garden"
+        },
+        "spiritual": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-spiritual-film-tv.jpg",
+          "alt": "Spiritual gathering backdrop at PC Chandra Garden"
+        },
+        "concerts-parties": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-corporate-concerts.jpg",
+          "alt": "Concert or party setup at PC Chandra Garden"
+        },
+        "film-tv-shoots": {
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-spiritual-film-tv.jpg",
+          "alt": "Film and TV shoot backdrop at PC Chandra Garden"
+        }
       },
       "testimonialCards": [
-        { "id": "testimonial-1", "src": "https://static.wixstatic.com/media/d5e26b_aedd1bd5b76d4303a410f98b7206d335~mv2.jpg", "alt": "Guest testimonial card 1" },
-        { "id": "testimonial-2", "src": "https://static.wixstatic.com/media/d5e26b_70a3cda06f854c3084474b5ba86df59f~mv2.jpg", "alt": "Guest testimonial card 2" },
-        { "id": "testimonial-3", "src": "https://static.wixstatic.com/media/d5e26b_c1733a346daa498d8d8b2142a32f7846~mv2.jpg", "alt": "Guest testimonial card 3" }
+        {
+          "id": "testimonial-1",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/testimonial-1.jpg",
+          "alt": "Guest testimonial card 1"
+        },
+        {
+          "id": "testimonial-2",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/testimonial-2.jpg",
+          "alt": "Guest testimonial card 2"
+        },
+        {
+          "id": "testimonial-3",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/testimonial-3.jpg",
+          "alt": "Guest testimonial card 3"
+        }
       ]
     }
   }
