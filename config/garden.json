@@ -1,5 +1,5 @@
 {
-  "VERSION": 284405,
+  "VERSION": 284406,
   "data": {
     "content": {
       "hero": {
@@ -417,10 +417,10 @@
         },
         {
           "slug": "meadows",
-          "title": "Meadows",
+          "title": "The Meadows",
           "cardLabel": "4,500 sq ft AC hall",
           "shortDescription": "A hillock-top venue overlooking the E. M. Bypass with a banquet hall, food arena, lawn, and backup-ready event infrastructure.",
-          "overview": "Meadows sits on a green rise overlooking the E. M. Bypass and Science City, combining a modern AC banquet hall, food arena, lawn, and backup-supported operations for events that need both setting and reliability.",
+          "overview": "The Meadows sits on a green rise overlooking the E. M. Bypass and Science City, combining a modern AC banquet hall, food arena, lawn, and backup-supported operations for events that need both setting and reliability.",
           "summaryStats": [
             {
               "label": "AC Hall",
@@ -595,8 +595,8 @@
         {
           "id": "home-meadows",
           "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-hero.jpg",
-          "alt": "Meadows lawn",
-          "caption": "Meadows"
+          "alt": "The Meadows lawn",
+          "caption": "The Meadows"
         },
         {
           "id": "home-evening-reception",
