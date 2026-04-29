@@ -1,5 +1,5 @@
 {
-  "VERSION": 284406,
+  "VERSION": 284407,
   "data": {
     "content": {
       "hero": {
@@ -484,7 +484,12 @@
             }
           ]
         }
-      ]
+      ],
+      "blog": {
+        "name": "PC Chandra Garden Journal",
+        "description": "Planning ideas, venue stories, and celebration inspiration for weddings, corporate events, culture, and gatherings at PC Chandra Garden.",
+        "url": "https://pccblog.1ax.in"
+      }
     },
     "media": {
       "hero": {
