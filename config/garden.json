@@ -1,5 +1,5 @@
 {
-  "VERSION": 284408,
+  "VERSION": 704631,
   "data": {
     "content": {
       "hero": {
@@ -581,33 +581,33 @@
       "homepageGallery": [
         {
           "id": "home-gold-acres",
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/gold-acres-hero.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-30.jpg",
           "alt": "Gold Acres lawn",
           "caption": "Gold Acres"
         },
         {
           "id": "home-maple",
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/maple-hero.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-6.jpg",
           "alt": "The Maple banquet hall exterior",
           "caption": "The Maple"
         },
         {
           "id": "home-tulip",
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-hero.jpg",
-          "alt": "The Tulip venue",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-17.jpg",
+          "alt": "The Tulip Venue",
           "caption": "The Tulip"
         },
         {
-          "id": "home-meadows",
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/meadows-hero.jpg",
-          "alt": "The Meadows lawn",
-          "caption": "The Meadows"
+          "id": "home-maple-venue",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-6.jpg",
+          "alt": "The Maple Venue",
+          "caption": "The Maple"
         },
         {
-          "id": "home-evening-reception",
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/tulip-gallery-evening.jpg",
-          "alt": "Evening reception lighting at PC Chandra Garden",
-          "caption": "Evening Reception"
+          "id": "gold-stage",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-28.jpg",
+          "alt": "Gold Acres - Concerts & Parties",
+          "caption": "Concerts"
         },
         {
           "id": "home-celebration-moments",
@@ -638,19 +638,19 @@
           "alt": "Doctors meet setup at PC Chandra Garden"
         },
         "exhibition": {
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-doctors-exhibition.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-22.jpg",
           "alt": "Exhibition setup at PC Chandra Garden"
         },
         "spiritual": {
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-spiritual-film-tv.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/t-maple-8.jpg",
           "alt": "Spiritual gathering backdrop at PC Chandra Garden"
         },
         "concerts-parties": {
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-corporate-concerts.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-3.jpg",
           "alt": "Concert or party setup at PC Chandra Garden"
         },
         "film-tv-shoots": {
-          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/event-spiritual-film-tv.jpg",
+          "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/t-maple-7.jpg",
           "alt": "Film and TV shoot backdrop at PC Chandra Garden"
         }
       },
@@ -682,7 +682,153 @@
           "permalink": "https://www.instagram.com/reel/DW6TG2sDUAV/?utm_source=ig_embed&utm_campaign=loading",
           "label": "PC Chandra Garden Instagram reel 2"
         }
-      ]
+      ],
+      "albumOrder": {
+        "gold-acres": [
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-32.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-13.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-39.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-5.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-31.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-2.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-40.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-12.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-7.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-4.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-1.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-6.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-8.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-9.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-3.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-10.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-11.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-14.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-15.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-16.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-17.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-18.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-19.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-20.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-34.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-30.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-21.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-22.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-23.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-24.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-27.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-25.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-29.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-28.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-33.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-35.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-36.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-37.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-38.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Gold/gold-41.jpg"
+        ],
+        "the-maple": [
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-4.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-1.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-2.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-3.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-5.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-6.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-7.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-8.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-10.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-11.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-12.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-9.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-13.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-14.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-15.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-16.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-17.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-18.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-19.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-20.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-21.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-22.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-23.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-24.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-25.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-26.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-27.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-28.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-29.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-30.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-31.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-32.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-33.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-34.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-35.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-36.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-37.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-38.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-39.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-40.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-41.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-42.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-43.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Maple/maple-44.jpg"
+        ],
+        "the-tulip": [
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-1.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-2.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-3.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-5.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-7.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-25.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-6.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-8.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-9.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-4.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-10.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-11.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-12.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-13.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-14.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-15.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-16.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-17.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-18.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-19.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-20.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-23.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-21.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-22.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-24.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-26.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-27.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-28.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Tulip/tulip-29.jpg"
+        ],
+        "meadows": [
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-1.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-5.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-2.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-20.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-6.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-8.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-3.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-11.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-4.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-7.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-9.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-10.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-12.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-13.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-14.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-15.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-16.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-17.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-18.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-19.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-21.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-22.jpg",
+          "https://astraxlabs.github.io/pcc-data/photos/assets/garden/Meadows/meadows-23.jpg"
+        ]
+      }
     }
   }
 }
