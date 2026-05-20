@@ -1,5 +1,5 @@
 {
-  "VERSION": 284407,
+  "VERSION": 284408,
   "data": {
     "content": {
       "hero": {
@@ -669,6 +669,18 @@
           "id": "testimonial-3",
           "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/testimonial-3.jpg",
           "alt": "Guest testimonial card 3"
+        }
+      ],
+      "instagramEmbeds": [
+        {
+          "id": "instagram-reel-1",
+          "permalink": "https://www.instagram.com/reel/DW0829MFHWY/?utm_source=ig_embed&utm_campaign=loading",
+          "label": "PC Chandra Garden Instagram reel 1"
+        },
+        {
+          "id": "instagram-reel-2",
+          "permalink": "https://www.instagram.com/reel/DW6TG2sDUAV/?utm_source=ig_embed&utm_campaign=loading",
+          "label": "PC Chandra Garden Instagram reel 2"
         }
       ]
     }
