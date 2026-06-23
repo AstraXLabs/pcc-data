@@ -1,5 +1,5 @@
 {
-  "VERSION": 704631,
+  "VERSION": 704632,
   "data": {
     "content": {
       "hero": {
@@ -229,7 +229,303 @@
         "brandDescription": "On Kolkata's eastern periphery, discover open lawns and AC banquet halls for weddings, corporate events, and celebrations.",
         "quickLinksTitle": "Quick Links",
         "contactTitle": "Contact",
-        "copyright": "© 2025 Chandras' Green Project Limited. All rights reserved."
+        "copyright": "© 2026 Chandras' Green Project Limited. All rights reserved."
+      },
+      "csr": {
+        "eyebrow": "CSR",
+        "title": "Preserving Culture, Supporting Community",
+        "introParagraphs": [
+          "P. C. Chandra Garden is committed to preserve the various aspects of the rich heritage of India with special emphasis on West Bengal, as the property is located in Kolkata.",
+          "We organize various events to promote art & crafts, dance, drama, music, folk arts & dances, cuisines, lifestyle, handicrafts, literature, cinema and different expositions that bring out the unique oneness in our country against the background of diversity in lifestyle and customs in the different regions.",
+          "We also celebrate different holidays, festivals, etc. in the form of cultural functions to impart a flavour of national integration, as well as to promote talents from far and near."
+        ],
+        "eventsEyebrow": "Important Events",
+        "eventsTitle": "A continuing cultural calendar",
+        "archiveEyebrow": "Archive",
+        "archiveTitle": "Show Earlier Years (2015-2020)",
+        "archiveButtonLabel": "Show Earlier Years (2015-2020)",
+        "galleryEyebrow": "Moments",
+        "galleryTitle": "CSR event gallery",
+        "recentPeriods": [
+          {
+            "period": "2025-26",
+            "items": [
+              {
+                "slug": "robir-opera",
+                "title": "Robir Opera",
+                "date": "17-May-2025",
+                "venue": "The Meadows",
+                "detail": "Alokparash, in association with P.C. Chandra Garden, organized a musical programme based on songs from dramas of Rabindranath Tagore titled \"Robir Opera\" on 17th May 2025 at The Meadows of P.C. Chandra Garden. The songs were performed by Smt. Somali Mukherjee and her students of Alokparash. The dances were performed by eminent dancer Smt. Madhuboni Chatterjee and her students of Jahnavi Centre for Performing Arts. The entire programme was conceptualized and directed by Smt. Somali Mukherjee."
+              },
+              {
+                "slug": "murchhona",
+                "title": "Murchhona",
+                "date": "21-Jun-2025",
+                "venue": "The Tulip",
+                "detail": "Eminent Singer Sri Agnivo Bandyopadhyay, in association with P.C. Chandra Garden, organized a musical programme titled \"Murchhona\" on 21st June 2025 at The Tulip of P.C. Chandra Garden. The songs were performed by Sri Agnivo Bandyopadhyay and the artistes of Abhigyan. The dances were performed by Sri Souvik Chakraborty and the artistes of Padatik Dance Center. The entire programme was conceptualized and directed by Sri Agnivo Bandyopadhyay."
+              },
+              {
+                "slug": "jonmodiner-kalikaprasad",
+                "title": "Jonmodiner Kalikaprasad",
+                "date": "14-Sep-2025",
+                "venue": "The Tulip",
+                "detail": "Dohar, in association with P.C. Chandra Group, organized a one day workshop titled \"Baul O Bhakti Sangeet\" on 13th September 2025 at The Meadows of P.C. Chandra Garden, under the direction and guidance of famous Folk Artist Smt. Parvathy Baul. A special programme titled \"Jonmodiner Kalikaprasad\" was held on 14th September 2025 at The Tulip of P.C. Chandra Garden, where Smt. Parvathy Baul, along with Dohar, performed Baul Songs and Bhakti Sangeet."
+              },
+              {
+                "slug": "utsab-amantrane",
+                "title": "Utsab Amantrane",
+                "date": "08-Nov-2025",
+                "venue": "Gold Acres",
+                "detail": "Srabani Sen Music Academy, in association with P.C. Chandra Garden, celebrated their 12th annual function on 8th November 2025 at Gold Acres of P.C. Chandra Garden. Rabindra Sangeet themed on Tagore's Festival Ideas were performed by the teachers and the students of the Academy. It was followed by a special Musical Programme participated by Dr. Indrani Sen, Smt. Srabani Sen, Sri Debshankar Haldar, Smt. Sohini Sengupta, Sri Sujoy Prosad Chattopadhyay, Smt. Sukriti Lahori and Sri Sutirtha Bedajna. The dances were performed by Ghungur, Kaushik Creation and Anandadhwoni Phulia. The entire programme was conceptualized & directed by Smt. Srabani Sen. The Chief Guest was eminent singer Smt. Indrani Sen."
+              }
+            ]
+          },
+          {
+            "period": "2024-25",
+            "items": [
+              {
+                "slug": "dakshinee-baromasya",
+                "title": "Dakshinee Baromasya",
+                "date": "07-Apr-2024",
+                "venue": "The Maple",
+                "detail": "Dakshinee, with the cooperation of P.C. Chandra Garden, organized the closing ceremony of their Platinum Jubilee Celebration titled \"Dakshinee Baromasya\" on 7th April 2024 at The Maple of P.C. Chandra Garden. This grand finale, a multimedia production, was devised, designed and directed by Sri Debashish Raychaudhuri and had performances of more than 75 artistes. The Chief Guest was eminent physicist, author, philosopher, musician Dr. Partha Ghose."
+              },
+              {
+                "slug": "ek-sundor-sanskritik-sandhya",
+                "title": "Ek Sundor Sanskritik Sandhya",
+                "date": "06-Jul-2024",
+                "venue": "The Tulip",
+                "detail": "P.C. Chandra Garden and Sri Surojit Chattopadhyay jointly organized \"Ek Sundor Sanskritik Sandhya\", a beautiful cultural evening with the perfect culmination of vocals, melody and poetry, led by everyone's beloved Sri Surojit Chattopadhyay, and with participation from Surojit O Bondhura Kobita Club, Music Arts Academics Foundation, Kolkata and Surojit O Bondhura Band, on 6th July 2024 at The Tulip of P.C. Chandra Garden."
+              },
+              {
+                "slug": "ananda-sandhya",
+                "title": "Ananda Sandhya",
+                "date": "15-Nov-2024",
+                "venue": "Gold Acres",
+                "detail": "Srabani Sen Music Academy, in association with P.C. Chandra Garden, celebrated their annual function on 15th November 2024 at Gold Acres of P.C. Chandra Garden. The teachers and the students of the Academy paid musical tributes to legendary singers Late Suchitra Mitra and Late Kanika Bandopadhyay on their centenary, by performing Rabindra Sangeet sung by them. It was followed by Dance Drama \"Chitrangada\" of Kabiguru Rabindranath Tagore, under Music Direction of eminent singer Smt. Srabani Sen. The lead singers were Smt. Indrani Sen, Sri Srikanto Acharya and Smt. Srabani Sen and the lead dancers were Sri Rudravo Neogi, Sri Drabin Chattopadhyay, Smt. Nibedita Sen, Smt. Sharmistha Mukherjee and Sahana Dance Troupe. The Chief Guest was eminent singer Smt. Indrani Sen."
+              },
+              {
+                "slug": "sabdora-amar-bagane",
+                "title": "Sabdora Amar Bagane",
+                "date": "09-Mar-2025",
+                "venue": "The Maple",
+                "detail": "Bratati Parampara, in collaboration with P.C. Chandra Garden, organized a Kobita Utsab titled \"Sabdora Amar Bagane\" on 9th March 2025 at The Maple of P.C. Chandra Garden. Recitations were performed by 250 students of Bratati Parampara and by several distinguished poets, artistes and performers, like Sri Subodh Sarkar, Sri Srijato, Smt. Lopamudra Mitra, Smt. Pronati Thakur, Smt. Sutapa Bandopadhyay, Sri Sumantra Sengupta, etc. A tribute was paid to legendary music director Late Salil Choudhury on his 100th birth anniversary by Sri Kalyan Sen Barat and singers of Calcutta Choir. Homage was paid to the legendary singers Late Suchitra Mitra and Late Kanika Bandopadhyay on their centenary by eminent elocutionist Smt. Bratati Bandyopadhyay and eminent singer Smt. Jayati Chakraborty. Smt. Aratrika Sinha, of Zee Saregamapa fame, presented a fusion of recitation and songs. The festival was inaugurated by renowned author Sri Shirshendu Mukhopadhyay and by poet Sri Subodh Sarkar."
+              }
+            ]
+          },
+          {
+            "period": "2023-24",
+            "items": [
+              {
+                "slug": "baul-fakir-paramparar-gaan",
+                "title": "Baul Fakir Paramparar Gaan",
+                "date": "09-Apr-2023",
+                "venue": "The Tulip",
+                "detail": "Dohar, in association with P.C. Chandra Group, organized a one day workshop titled \"Baul Fakir Paramparar Gaan\" on 8th April 2023 at The Maple of P.C. Chandra Garden, under the direction and guidance of renowned veteran Folk Artist and Researcher Sri Shafi Mondol of Kusthia, Bangladesh. A special programme was held on 9th April 2023 at The Tulip of P.C. Chandra Garden, where Sri Shafi Mondol performed Baul Fakir Paramparar Gaan and Smt. Rina Das Baul performed Baul Gaan."
+              },
+              {
+                "slug": "leelakamal",
+                "title": "Leelakamal",
+                "date": "13-May-2023",
+                "venue": "The Tulip",
+                "detail": "Jahnavi, in collaboration with P.C. Chandra Garden, organized \"Leelakamal\" the celestial lotus, a cultural evening filled with music and dance on 13th May 2023 at The Tulip of P.C. Chandra Garden. The concept, script and choreography of the programme were done by eminent dancer Smt. Madhuboni Chatterjee and presented by the dancers of Jahnavi Centre for Performing Arts."
+              },
+              {
+                "slug": "gaane-tomar-paraskhani",
+                "title": "Gaane Tomar Paraskhani",
+                "date": "04-Nov-2023",
+                "venue": "Gold Acres",
+                "detail": "Srabani Sen Music Academy, in association with P.C. Chandra Garden, celebrated their annual function on 4th November 2023 at Gold Acres of P.C. Chandra Garden, by paying a musical tribute to legendary singer Late Sumitra Sen. During the event, the teachers and the students of the Academy performed only those Rabindra Sangeet, which were sung by Late Sumitra Sen. It was followed by Dance Drama \"Shyama\" of Kabiguru Rabindranath Tagore, under Music Direction of eminent singer Smt. Srabani Sen and Dance Direction of Dr. Arkadev Bhattacharya. The lead singers were Smt. Srabani Sen and Sri Pramit Sen and the lead dancers were Smt. Alokparna Guha & Dr. Arkadev Bhattacharya. The Chief Guest was eminent singer Smt. Indrani Sen."
+              },
+              {
+                "slug": "basanta-abagahan",
+                "title": "Basanta Abagahan",
+                "date": "17-Mar-2024",
+                "venue": "The Tulip",
+                "detail": "Dohar, in association with P.C. Chandra Group, organized a one day workshop titled \"Bhaati Oncholer Gaan\" on 16th March 2024 at The Maple of P.C. Chandra Garden, under the direction and guidance of renowned and bright Folk Artist and Researcher Smt. Lovely Deb of Sylhet, Bangladesh. A special programme titled \"Basanta Abagahan\" was held on 17th March 2024 at The Tulip of P.C. Chandra Garden, where Smt. Lovely Deb performed Bhatiyali songs and Sri Sadhu Das and Sri Kangal Das, brothers from Joydev Kenduli, Birbhum performed Baul Gaan."
+              }
+            ]
+          },
+          {
+            "period": "2022-23",
+            "items": [
+              {
+                "slug": "raar-banglar-gaan",
+                "title": "Raar Banglar Gaan",
+                "date": "03-Apr-2022",
+                "venue": "The Tulip",
+                "detail": "Dohar, in association with P.C. Chandra Group, organized a one day workshop titled \"Raar Banglar Gaan\" on 2nd April 2022 at The Maple of P.C. Chandra Garden, under the direction and guidance of renowned veteran Folk Artist and Researcher of Purulia - Sri Sunil Mahato. A special programme was held on 3rd April 2022 at The Tulip of P.C. Chandra Garden, where Sri Anath Bondhu Ghosh, a living legend of Birbhum, performed Geet Govindo and Sri Sunil Mahato performed Raar Banglar Gaan."
+              },
+              {
+                "slug": "e-sudhu-gaaner-din",
+                "title": "E Sudhu Gaaner Din",
+                "date": "20-May-2022",
+                "venue": "The Tulip",
+                "detail": "Asha Audio Company and P.C. Chandra Garden jointly organized a musical evening titled \"E Sudhu Gaaner Din\" on 20th May 2022 at The Tulip of P.C. Chandra Garden, with a pure intention to celebrate songs from different era. There were performances by renowned singers Smt. Jayati Chakraborty, Sri Raghab Chattopadhyay, Smt. Piu Mukherjee and Sri Aritra Dasgupta."
+              }
+            ]
+          },
+          {
+            "period": "2021-22",
+            "items": [
+              {
+                "slug": "poila-porob",
+                "title": "Poila Porob",
+                "date": "11-Apr-2021",
+                "venue": "The Tulip",
+                "detail": "P.C. Chandra Garden and Viewpoint jointly organized a musical evening titled \"Poila Porob\" on 11th April 2021 at The Tulip of P.C. Chandra Garden, to celebrate the Bengali New Year. There were performances by a new age band named The Kolkata Collective and by Arko Mukherjee Collective, led by famous Urban Folk Musician Sri Arko Mukherjee."
+              }
+            ]
+          }
+        ],
+        "archivedPeriods": [
+          {
+            "period": "2017-18",
+            "items": [
+              {
+                "slug": "esho-poila-utsabe",
+                "title": "Esho Poila Utsabe",
+                "date": "16th April 2017",
+                "venue": "The Tulip",
+                "detail": "Poila Boishakh 1424 was celebrated with music, Baul songs, and a lifestyle exhibition with food, jewellery, and apparel stalls."
+              },
+              {
+                "slug": "noti-kironshashi",
+                "title": "Noti Kironshashi",
+                "date": "28th May 2017",
+                "venue": "The Tulip",
+                "detail": "The play Noti Kironshashi by Anya Theatre was staged as part of the Teen Din Teen Natok drama festival."
+              },
+              {
+                "slug": "gaane-bondhure",
+                "title": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki",
+                "date": "4th November 2017",
+                "venue": "The Maple",
+                "detail": "A folk-song tribute to Kalika Prasad Bhattacharjee by Dohar members, his disciples, and SaReGaMaPa participants."
+              },
+              {
+                "slug": "kabita-utsab-2018",
+                "title": "Kabita Utsab 2018",
+                "date": "24th & 25th February 2018",
+                "venue": "The Maple",
+                "detail": "A two-day poetry festival with recitations, an audio-drama version of Raktakarabi, songs, and appearances by eminent poets, actors, and authors."
+              },
+              {
+                "slug": "basanto-utsab-mela-2018",
+                "title": "Basanto Utsab & Basanto Mela 2018",
+                "date": "28th February 2018",
+                "venue": "Gold Acres",
+                "detail": "A spring festival and fair with Chhou dance, a Santiniketan-style procession, Rabindrasangeet, dance, Chitrangada, and around 40 stalls."
+              }
+            ]
+          },
+          {
+            "period": "2016-17",
+            "items": [
+              {
+                "slug": "gaane-gaane",
+                "title": "Gaane Gaane",
+                "date": "14th May 2016",
+                "venue": "The Tulip",
+                "detail": "Veteran vocalist Sumitra Sen received the Rabindra Ratna lifetime achievement award, followed by performances by Indrani Sen, Srabani Sen, and their family troupe Tribeni."
+              },
+              {
+                "slug": "raktakarabi",
+                "title": "Raktakarabi",
+                "date": "26th June 2016",
+                "venue": "The Tulip",
+                "detail": "An audio-drama version of Rabindranath Tagore's Raktakarabi was performed by Bratati Parampara with Rabindrasangeet and dance."
+              },
+              {
+                "slug": "esho-brikkher-joy-gaai",
+                "title": "Esho Brikkher Joy Gaai",
+                "date": "21st August 2016",
+                "venue": "The Maple",
+                "detail": "A Brikkhoropon festival with Santiniketan artistes, a Sonajhuri Haat, and participation from children of Parivarikee, a school for slum children."
+              },
+              {
+                "slug": "ki-jadu-bangla-gaane",
+                "title": "Ki Jadu Bangla Gaane",
+                "date": "2nd October 2016",
+                "venue": "The Tulip",
+                "detail": "Folk legend Amar Paul received the Lokoratna lifetime achievement award, followed by performances by Dohaar, Aditi Munshi, and Ashim Kumar Sarkar's Kabigaan team."
+              },
+              {
+                "slug": "kabita-utsab-2017",
+                "title": "Kabita Utsab 2017",
+                "date": "26th February 2017",
+                "venue": "The Maple",
+                "detail": "A poetry festival by Abrittilok and Bratati Parampara in association with Sahitya Akademi and the Ministry of Culture, Government of India."
+              },
+              {
+                "slug": "basanto-utsab-2017",
+                "title": "Basanto Utsab 2017",
+                "date": "11th March 2017",
+                "venue": "The Maple",
+                "detail": "A Santiniketan-style spring festival with more than 600 participants, eminent artistes, and stalls for food, garments, and handicrafts."
+              }
+            ]
+          },
+          {
+            "period": "2015-16",
+            "items": [
+              {
+                "slug": "ek-guchcho-santiniketan",
+                "title": "Ek Guchcho Santiniketan",
+                "date": "15th April 2015",
+                "venue": "The Tulip",
+                "detail": "Poila Baishak 1422 was celebrated in Santiniketan style with Rabindrasangeet, dance, recitation, Esraj, Santhali dance, Baul songs, and a Sonajhuri Haat recreated by artisans from Santiniketan."
+              },
+              {
+                "slug": "chalo-potol-tuli",
+                "title": "Chalo Potol Tuli",
+                "date": "19th July 2015",
+                "venue": "The Tulip",
+                "detail": "A drama by Charbak, the reputed theatre group, starring eminent actors Sabyasachi Chakraborty and Arindam Ganguly."
+              },
+              {
+                "slug": "brikkhoropon-utsab-2015",
+                "title": "Brikkhoropon Utsab",
+                "date": "9th August 2015",
+                "venue": "The Maple",
+                "detail": "A tree plantation festival celebrated in Santiniketan style with Rabindrasangeet, dance, recitation, Baul songs, and a Sonajhuri Haat experience."
+              },
+              {
+                "slug": "journey-through-images",
+                "title": "Journey Through Images - A Tribute to Badhan Das",
+                "date": "2nd, 3rd & 4th October 2015",
+                "venue": "The Tulip",
+                "detail": "A three-day art exhibition paying tribute to artist Late Badhan Das with his paintings and sculptures alongside works by 12 reputed artists, including Ganesh Haloi."
+              },
+              {
+                "slug": "flower-show-2016",
+                "title": "Flower Show 2016",
+                "date": "8th, 9th & 10th January 2016",
+                "venue": "Lokotirtha",
+                "detail": "The three-day Flower Show was inaugurated by actress Aparajita Adhya. About 500 children from Manovikas Kendra attended the inauguration, with magic show and entertainment arranged for them."
+              },
+              {
+                "slug": "basanto-utsab-2016",
+                "title": "Basanto Utsab 2016",
+                "date": "22nd March 2016",
+                "venue": "The Maple",
+                "detail": "A spring festival in Santiniketan style featuring more than 300 students, eminent artistes, and a performance of Rabindranath Tagore's dance drama Chandalika."
+              }
+            ]
+          },
+          {
+            "period": "2014-15",
+            "items": [
+              {
+                "slug": "flower-show-2015",
+                "title": "Flower Show 2015",
+                "date": "9th & 10th January 2015",
+                "venue": "The Maple",
+                "detail": "The two-day Flower Show was inaugurated by actress Gargi Roy Chowdhuri. More than 100 children from NGOs including Ektara, Tiljala Primary School, Monovikas Kendra, United Basti Development, and SHIRC attended the inauguration, with a magic show and sit-and-draw competition organized for them."
+              }
+            ]
+          }
+        ]
       },
       "venuePage": {
         "eyebrow": "PC Chandra Garden Venue",
@@ -671,6 +967,308 @@
           "alt": "Guest testimonial card 3"
         }
       ],
+      "csrEventImages": {
+        "poila-porob": [
+          {
+            "id": "csr-poila-porob-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-poila-porob-1.jpg",
+            "alt": "Poila Porob CSR moment 1",
+            "caption": "Poila Porob"
+          },
+          {
+            "id": "csr-poila-porob-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-poila-porob-2.jpg",
+            "alt": "Poila Porob CSR moment 2",
+            "caption": "Poila Porob"
+          },
+          {
+            "id": "csr-poila-porob-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-poila-porob-3.jpg",
+            "alt": "Poila Porob CSR moment 3",
+            "caption": "Poila Porob"
+          }
+        ],
+        "raar-banglar-gaan": [
+          {
+            "id": "csr-raar-banglar-gaan-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raar-banglar-gaan-1.jpg",
+            "alt": "Raar Banglar Gaan CSR moment 1",
+            "caption": "Raar Banglar Gaan"
+          },
+          {
+            "id": "csr-raar-banglar-gaan-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raar-banglar-gaan-2.jpg",
+            "alt": "Raar Banglar Gaan CSR moment 2",
+            "caption": "Raar Banglar Gaan"
+          },
+          {
+            "id": "csr-raar-banglar-gaan-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raar-banglar-gaan-3.jpg",
+            "alt": "Raar Banglar Gaan CSR moment 3",
+            "caption": "Raar Banglar Gaan"
+          }
+        ],
+        "e-sudhu-gaaner-din": [
+          {
+            "id": "csr-e-sudhu-gaaner-din-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-e-sudhu-gaaner-din-1.jpg",
+            "alt": "E Sudhu Gaaner Din CSR moment 1",
+            "caption": "E Sudhu Gaaner Din"
+          },
+          {
+            "id": "csr-e-sudhu-gaaner-din-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-e-sudhu-gaaner-din-2.jpg",
+            "alt": "E Sudhu Gaaner Din CSR moment 2",
+            "caption": "E Sudhu Gaaner Din"
+          },
+          {
+            "id": "csr-e-sudhu-gaaner-din-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-e-sudhu-gaaner-din-3.jpg",
+            "alt": "E Sudhu Gaaner Din CSR moment 3",
+            "caption": "E Sudhu Gaaner Din"
+          }
+        ],
+        "baul-fakir-paramparar-gaan": [
+          {
+            "id": "csr-baul-fakir-paramparar-gaan-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-baul-fakir-paramparar-gaan-1.jpg",
+            "alt": "Baul Fakir Paramparar Gaan CSR moment 1",
+            "caption": "Baul Fakir Paramparar Gaan"
+          },
+          {
+            "id": "csr-baul-fakir-paramparar-gaan-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-baul-fakir-paramparar-gaan-2.jpg",
+            "alt": "Baul Fakir Paramparar Gaan CSR moment 2",
+            "caption": "Baul Fakir Paramparar Gaan"
+          },
+          {
+            "id": "csr-baul-fakir-paramparar-gaan-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-baul-fakir-paramparar-gaan-3.jpg",
+            "alt": "Baul Fakir Paramparar Gaan CSR moment 3",
+            "caption": "Baul Fakir Paramparar Gaan"
+          }
+        ],
+        "leelakamal": [
+          {
+            "id": "csr-leelakamal-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-leelakamal-1.jpg",
+            "alt": "Leelakamal CSR moment 1",
+            "caption": "Leelakamal"
+          },
+          {
+            "id": "csr-leelakamal-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-leelakamal-2.jpg",
+            "alt": "Leelakamal CSR moment 2",
+            "caption": "Leelakamal"
+          },
+          {
+            "id": "csr-leelakamal-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-leelakamal-3.jpg",
+            "alt": "Leelakamal CSR moment 3",
+            "caption": "Leelakamal"
+          }
+        ],
+        "gaane-tomar-paraskhani": [
+          {
+            "id": "csr-gaane-tomar-paraskhani-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-tomar-paraskhani-1.jpg",
+            "alt": "Gaane Tomar Paraskhani CSR moment 1",
+            "caption": "Gaane Tomar Paraskhani"
+          },
+          {
+            "id": "csr-gaane-tomar-paraskhani-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-tomar-paraskhani-2.jpg",
+            "alt": "Gaane Tomar Paraskhani CSR moment 2",
+            "caption": "Gaane Tomar Paraskhani"
+          },
+          {
+            "id": "csr-gaane-tomar-paraskhani-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-tomar-paraskhani-3.jpg",
+            "alt": "Gaane Tomar Paraskhani CSR moment 3",
+            "caption": "Gaane Tomar Paraskhani"
+          }
+        ],
+        "basanta-abagahan": [
+          {
+            "id": "csr-basanta-abagahan-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-abagahan-1.jpg",
+            "alt": "Basanta Abagahan CSR moment 1",
+            "caption": "Basanta Abagahan"
+          },
+          {
+            "id": "csr-basanta-abagahan-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-abagahan-2.jpg",
+            "alt": "Basanta Abagahan CSR moment 2",
+            "caption": "Basanta Abagahan"
+          },
+          {
+            "id": "csr-basanta-abagahan-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-abagahan-3.jpg",
+            "alt": "Basanta Abagahan CSR moment 3",
+            "caption": "Basanta Abagahan"
+          }
+        ],
+        "dakshinee-baromasya": [
+          {
+            "id": "csr-dakshinee-baromasya-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-dakshinee-baromasya-1.jpg",
+            "alt": "Dakshinee Baromasya CSR moment 1",
+            "caption": "Dakshinee Baromasya"
+          },
+          {
+            "id": "csr-dakshinee-baromasya-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-dakshinee-baromasya-2.jpg",
+            "alt": "Dakshinee Baromasya CSR moment 2",
+            "caption": "Dakshinee Baromasya"
+          },
+          {
+            "id": "csr-dakshinee-baromasya-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-dakshinee-baromasya-3.jpg",
+            "alt": "Dakshinee Baromasya CSR moment 3",
+            "caption": "Dakshinee Baromasya"
+          }
+        ],
+        "ek-sundor-sanskritik-sandhya": [
+          {
+            "id": "csr-ek-sundor-sanskritik-sandhya-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-sundor-sanskritik-sandhya-1.jpg",
+            "alt": "Ek Sundor Sanskritik Sandhya CSR moment 1",
+            "caption": "Ek Sundor Sanskritik Sandhya"
+          },
+          {
+            "id": "csr-ek-sundor-sanskritik-sandhya-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-sundor-sanskritik-sandhya-2.jpg",
+            "alt": "Ek Sundor Sanskritik Sandhya CSR moment 2",
+            "caption": "Ek Sundor Sanskritik Sandhya"
+          },
+          {
+            "id": "csr-ek-sundor-sanskritik-sandhya-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-sundor-sanskritik-sandhya-3.jpg",
+            "alt": "Ek Sundor Sanskritik Sandhya CSR moment 3",
+            "caption": "Ek Sundor Sanskritik Sandhya"
+          }
+        ],
+        "ananda-sandhya": [
+          {
+            "id": "csr-ananda-sandhya-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ananda-sandhya-1.jpg",
+            "alt": "Ananda Sandhya CSR moment 1",
+            "caption": "Ananda Sandhya"
+          },
+          {
+            "id": "csr-ananda-sandhya-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ananda-sandhya-2.jpg",
+            "alt": "Ananda Sandhya CSR moment 2",
+            "caption": "Ananda Sandhya"
+          },
+          {
+            "id": "csr-ananda-sandhya-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ananda-sandhya-3.jpg",
+            "alt": "Ananda Sandhya CSR moment 3",
+            "caption": "Ananda Sandhya"
+          }
+        ],
+        "sabdora-amar-bagane": [
+          {
+            "id": "csr-sabdora-amar-bagane-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-sabdora-amar-bagane-1.jpg",
+            "alt": "Sabdora Amar Bagane CSR moment 1",
+            "caption": "Sabdora Amar Bagane"
+          },
+          {
+            "id": "csr-sabdora-amar-bagane-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-sabdora-amar-bagane-2.jpg",
+            "alt": "Sabdora Amar Bagane CSR moment 2",
+            "caption": "Sabdora Amar Bagane"
+          },
+          {
+            "id": "csr-sabdora-amar-bagane-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-sabdora-amar-bagane-3.jpg",
+            "alt": "Sabdora Amar Bagane CSR moment 3",
+            "caption": "Sabdora Amar Bagane"
+          }
+        ],
+        "robir-opera": [
+          {
+            "id": "csr-robir-opera-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-robir-opera-1.jpg",
+            "alt": "Robir Opera CSR moment 1",
+            "caption": "Robir Opera"
+          },
+          {
+            "id": "csr-robir-opera-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-robir-opera-2.jpg",
+            "alt": "Robir Opera CSR moment 2",
+            "caption": "Robir Opera"
+          },
+          {
+            "id": "csr-robir-opera-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-robir-opera-3.jpg",
+            "alt": "Robir Opera CSR moment 3",
+            "caption": "Robir Opera"
+          }
+        ],
+        "murchhona": [
+          {
+            "id": "csr-murchhona-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-murchhona-1.jpg",
+            "alt": "Murchhona CSR moment 1",
+            "caption": "Murchhona"
+          },
+          {
+            "id": "csr-murchhona-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-murchhona-2.jpg",
+            "alt": "Murchhona CSR moment 2",
+            "caption": "Murchhona"
+          },
+          {
+            "id": "csr-murchhona-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-murchhona-3.jpg",
+            "alt": "Murchhona CSR moment 3",
+            "caption": "Murchhona"
+          }
+        ],
+        "jonmodiner-kalikaprasad": [
+          {
+            "id": "csr-jonmodiner-kalikaprasad-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-jonmodiner-kalikaprasad-1.jpg",
+            "alt": "Jonmodiner Kalikaprasad CSR moment 1",
+            "caption": "Jonmodiner Kalikaprasad"
+          },
+          {
+            "id": "csr-jonmodiner-kalikaprasad-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-jonmodiner-kalikaprasad-2.jpg",
+            "alt": "Jonmodiner Kalikaprasad CSR moment 2",
+            "caption": "Jonmodiner Kalikaprasad"
+          },
+          {
+            "id": "csr-jonmodiner-kalikaprasad-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-jonmodiner-kalikaprasad-3.jpg",
+            "alt": "Jonmodiner Kalikaprasad CSR moment 3",
+            "caption": "Jonmodiner Kalikaprasad"
+          }
+        ],
+        "utsab-amantrane": [
+          {
+            "id": "csr-utsab-amantrane-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-utsab-amantrane-1.jpg",
+            "alt": "Utsab Amantrane CSR moment 1",
+            "caption": "Utsab Amantrane"
+          },
+          {
+            "id": "csr-utsab-amantrane-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-utsab-amantrane-2.jpg",
+            "alt": "Utsab Amantrane CSR moment 2",
+            "caption": "Utsab Amantrane"
+          },
+          {
+            "id": "csr-utsab-amantrane-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-utsab-amantrane-3.jpg",
+            "alt": "Utsab Amantrane CSR moment 3",
+            "caption": "Utsab Amantrane"
+          }
+        ]
+      },
       "instagramEmbeds": [
         {
           "id": "instagram-reel-1",
