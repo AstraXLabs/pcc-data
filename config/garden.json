@@ -1,5 +1,5 @@
 {
-  "VERSION": 704635,
+  "VERSION": 704636,
   "data": {
     "content": {
       "hero": {
@@ -539,7 +539,7 @@
         "ctaTitlePrefix": "Shortlist",
         "ctaTitleSuffix": "for your next celebration",
         "enquireLabel": "Enquire Now",
-        "shareLabel": "Venue",
+        "shareLabel": "Share",
         "shareCopiedLabel": "Link Copied",
         "backLabel": "Back to Venues",
         "notFoundEyebrow": "Venue Not Found",
