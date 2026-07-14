@@ -1,5 +1,5 @@
 {
-  "VERSION": 704636,
+  "VERSION": 704637,
   "data": {
     "content": {
       "hero": {
@@ -379,6 +379,93 @@
           }
         ],
         "archivedPeriods": [
+          {
+            "period": "2019-20",
+            "items": [
+              {
+                "slug": "natyotsab-2019",
+                "title": "Natyotsab",
+                "date": "31st May to 2nd June 2019",
+                "venue": "The Tulip",
+                "detail": "A three day Drama Festival titled \"Natyotsab\" was organized by P.C. Chandra Garden from 31st May to 2nd June 2019 at The Tulip of P.C. Chandra Garden. Veteran theatre personality Sri Bibhash Chakraborty inaugurated the event.\n\nOn the first day, Sayak's production \"Premkatha\" was staged, which was directed and acted by eminent theatre personality Meghnad Bhattacharya.\n\nOn the second day, Chakdaha Nattyajan's production \"Bhanu Sundarir Pala\" was staged, which was directed by Saik Siddique.\n\nOn the third day, Prachyo New Alipore's production \"Khelaghar\" was staged, which was directed by eminent theatre personality Biplab Bandyopadhyay and the lead roles were played by famous actors Debshankar Halder, Chaiti Ghosal and Anjana Basu."
+              },
+              {
+                "slug": "salil-sandhya",
+                "title": "Salil Sandhya",
+                "date": "2nd November 2019",
+                "venue": "The Tulip",
+                "detail": "P.C. Chandra Garden and Salil Chowdhury Foundation of Music, Social Help & Education Trust jointly organized \"Salil Sandhya\" on 2nd November 2019 at The Tulip of P.C. Chandra Garden, a tribute concert to commemorate the 94th Birth Anniversary of Legendary Music Composer Salil Chowdhury. Evergreen Bengali and Hindi songs of Salil Chowdhury were performed by Haimanti Shukla, Srikanta Acharya, Manomay Bhattacharya, Sreeradha Bandopadhyay & Antara Chowdhury, along with the students of 'Surodhwoni'. The Chief Guest was Smt. Haimanti Shukla, eminent Singer."
+              },
+              {
+                "slug": "gaaner-sure-aamaar-mukti",
+                "title": "Gaaner Sure Aamaar Mukti",
+                "date": "13th November 2019",
+                "venue": "Gold Acres",
+                "detail": "A Cultural Function by Srabani Sen Music Academy, a reputed cultural organization, on 13th November 2019 at Gold Acres of P.C. Chandra Garden, to celebrate their annual function, with Rabindra Sangeet performance by eminent singer Srabani Sen and by the teachers and students of the Academy. It was followed by Dance Drama 'Balmiki Pratibha' of Kabiguru Rabindranath Tagore, directed & performed by eminent dancer Alokananda Roy, along with the inmates of West Bengal Correctional Homes. Famous singers Indrani Sen, Srikanta Acharya & Surojit Chatterjee were felicitated at the programme. The Chief Guest was eminent singer Smt. Sumitra Sen."
+              },
+              {
+                "slug": "kabita-utsab-2020",
+                "title": "Kabita Utsab 2020",
+                "date": "1st March 2020",
+                "venue": "The Maple",
+                "detail": "Kabita Utsab 2020 (Poetry Festival) was celebrated by Abrittilok and Bratati Parampara, in association with Sahitya Akademi and Ministry of Culture, Govt. of India on 1st March 2020 at The Maple of P.C. Chandra Garden. Initially group recitations were performed by students of Bratati Parampara and Abrittilok. Then chorus songs were performed by students of Aroho, directed by Srikanta Acharya. Later on poetry reading was done by Joy Goswami, Subodh Sarkar, Chinmoy Guha, etc. Thereafter, an Audio-Drama version of the famous \"Bisarjan\" Play of Kabiguru Rabindranath Tagore – starring eminent Artistes Bratati Bandopadhyay, Soumitra Mitra, Srikanta Acharya & Parambrata Chattopadhyay was performed. The Chief Guest was eminent author Professor Chinmoy Guha."
+              },
+              {
+                "slug": "basanta-utsav-2020",
+                "title": "Basanta Utsav 2020",
+                "date": "6th March 2020",
+                "venue": "The Maple",
+                "detail": "Basanta Utsav - The Festival of Colours, was jointly organized by Association of Tourism Service Providers and P.C. Chandra Garden on 6th March 2020 at The Maple of P.C. Chandra Garden. The event was inaugurated by Sri Sagnik Chowdhury, Regional Director, IndiaTourism, Kolkata. The programme started with a colourful procession with singing & dancing, like Basanta Utsav of Santiniketan. Dohar, in association with Srabani Sen Music Academy, presented Tagore songs and Folk songs, many of which were accompanied by Dance performances. Famous Pung (Manipuri Khol) artist Ratan Singh from Manipur presented a special performance. The entire musical presentation was conceptualized by Dohar."
+              }
+            ]
+          },
+          {
+            "period": "2018-19",
+            "items": [
+              {
+                "slug": "natyotsab-teen-natyodaler",
+                "title": "Natyotsab Teen Natyodaler",
+                "date": "25th May to 27th May 2018",
+                "venue": "The Tulip",
+                "detail": "A three day Drama Festival titled Natyotsab Teen Natyodaler was organized by P.C. Chandra Garden from 25th May to 27th May 2018. Along with the Drama Festival, a daylong Acting Oriented Theatre Workshop was conducted on 25th May 2018 under the supervision of veteran theatre personality Sri Bibhash Chakraborty, along with Debasish Ray and Adrija Dasgupta. Sri Bibhash Chakraborty inaugurated the event.\n\nOn the first day, the play \"Furut\", a Blank Verse production, directed by Raja Bhattacharya was staged, where famous actor Deb Shankar Halder played the main role.\n\nOn the second day, Nandipat's production \"Ballavpurer Roopkatha\" was staged, which was directed by Prokash Bhattacharya.\n\nOn the third day, Charbak's production \"Dudh Kheyechhe Myao\" was staged, which was directed by eminent actor Arindam Ganguly and the lead roles were played by famous actors Sabyasachi Chakraborty and Kheyali Dastidar."
+              },
+              {
+                "slug": "pujor-gaan",
+                "title": "Pujor Gaan",
+                "date": "6th October 2018",
+                "venue": "The Tulip",
+                "detail": "P.C. Chandra Garden and Asha Audio Company jointly organized \"Pujor Gaan\", a musical soiree based on the song releases of various artistes, to mark the Durga Puja Festival. Eminent singers Manomay Bhattacharya, Raghab Chatterjee, Jayati Chakraborty, Iman Chakraborty, Shovan Ganguly and Brishtilekha Nandini performed at the programme."
+              },
+              {
+                "slug": "anandadhoni",
+                "title": "Anandadhoni",
+                "date": "18th November 2018",
+                "venue": "Gold Acres",
+                "detail": "A Cultural Function by Srabani Sen Music Academy, a reputed cultural organization, to celebrate their annual function, with Rabindra Sangeet performance by eminent singer Srabani Sen and by the teachers and students of the Academy. It was followed by a folk music programme by Dohar, a reputed musical group. The Chief Guest was eminent singer Sumitra Sen."
+              },
+              {
+                "slug": "kabita-utsab-2019",
+                "title": "Kabita Utsab 2019",
+                "date": "17th February 2019",
+                "venue": "The Maple",
+                "detail": "Kabita Utsab 2019 (Poetry Festival) was celebrated by Abrittilok and Bratati Parampara, in association with Sahitya Akademi and Ministry of Culture, Govt. of India. Initially recitations were performed by Bratati Parampara & Kabyayan directed by Bratati Bandyopadhyay, Abrittilok directed by Soumitra Mitra and Aroho directed by Srikanta Acharya. Later on recitations were performed by Jagannath Basu and Urmimala Basu. Poetry reading was done by Soumitra Chattopadhyay, Subodh Sarkar, Srijato, Srikanta Acharya, Binayak Bandhyopadhyay, etc. The Chief Guests were eminent poet Sankha Ghosh, eminent artist Shuvaprasanna Bhattacharya and eminent actors Soumitra Chattopadhyay and Debshankar Halder."
+              },
+              {
+                "slug": "phalguni",
+                "title": "Phalguni",
+                "date": "3rd March 2019",
+                "venue": "The Maple",
+                "detail": "Dakshinee organized a musical play of Rabindranath Tagore titled \"Phalguni\" under the direction of Tagore researcher and singer Debashish Raychaudhuri, and performances by Debashish Raychaudhuri, Rohini Raychaudhuri, Devlina Kumar, etc."
+              },
+              {
+                "slug": "se-je-moner-manush",
+                "title": "Se Je Moner Manush",
+                "date": "16th & 17th March 2019",
+                "venue": "The Tulip",
+                "detail": "Dohar, in association with P.C. Chandra Group, organized a one day workshop on the first day, titled 'Lalon Sai Paramparar Gaan' under the direction and guidance of renowned veteran Folk Artist and Researcher of Bangladesh - Srimati Chandana Majumder, a National Awardee of Bangladesh. A special programme titled 'Se Je Moner Manush' was held on the second day, where Noor Alam of Gourbhanga, Nadia and Chandana Majumder performed Lalon Geeti. The Chief Guest was Gouri Basu, Director of EZCC."
+              }
+            ]
+          },
           {
             "period": "2017-18",
             "items": [
