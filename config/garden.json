@@ -1,5 +1,5 @@
 {
-  "VERSION": 704637,
+  "VERSION": 704638,
   "data": {
     "content": {
       "hero": {
@@ -1355,6 +1355,586 @@
             "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-utsab-amantrane-3.jpg",
             "alt": "Utsab Amantrane CSR moment 3",
             "caption": "Utsab Amantrane"
+          }
+        ],
+        "esho-poila-utsabe": [
+          {
+            "id": "csr-esho-poila-utsabe-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-poila-utsabe-1.jpg",
+            "alt": "Esho Poila Utsabe CSR moment 1",
+            "caption": "Esho Poila Utsabe"
+          },
+          {
+            "id": "csr-esho-poila-utsabe-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-poila-utsabe-2.jpg",
+            "alt": "Esho Poila Utsabe CSR moment 2",
+            "caption": "Esho Poila Utsabe"
+          },
+          {
+            "id": "csr-esho-poila-utsabe-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-poila-utsabe-3.jpg",
+            "alt": "Esho Poila Utsabe CSR moment 3",
+            "caption": "Esho Poila Utsabe"
+          }
+        ],
+        "noti-kironshashi": [
+          {
+            "id": "csr-noti-kironshashi-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-noti-kironshashi-1.jpg",
+            "alt": "Noti Kironshashi CSR moment 1",
+            "caption": "Noti Kironshashi"
+          },
+          {
+            "id": "csr-noti-kironshashi-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-noti-kironshashi-2.jpg",
+            "alt": "Noti Kironshashi CSR moment 2",
+            "caption": "Noti Kironshashi"
+          },
+          {
+            "id": "csr-noti-kironshashi-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-noti-kironshashi-3.jpg",
+            "alt": "Noti Kironshashi CSR moment 3",
+            "caption": "Noti Kironshashi"
+          }
+        ],
+        "gaane-bondhure": [
+          {
+            "id": "csr-gaane-bondhure-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-bondhure-1.jpg",
+            "alt": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki CSR moment 1",
+            "caption": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki"
+          },
+          {
+            "id": "csr-gaane-bondhure-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-bondhure-2.jpg",
+            "alt": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki CSR moment 2",
+            "caption": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki"
+          },
+          {
+            "id": "csr-gaane-bondhure-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-bondhure-3.jpg",
+            "alt": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki CSR moment 3",
+            "caption": "Gaane Bondhure Daaki, Gaane Premer Chhobi Aanki"
+          }
+        ],
+        "kabita-utsab-2018": [
+          {
+            "id": "csr-kabita-utsab-2018-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2018-1.jpg",
+            "alt": "Kabita Utsab 2018 CSR moment 1",
+            "caption": "Kabita Utsab 2018"
+          },
+          {
+            "id": "csr-kabita-utsab-2018-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2018-2.jpg",
+            "alt": "Kabita Utsab 2018 CSR moment 2",
+            "caption": "Kabita Utsab 2018"
+          },
+          {
+            "id": "csr-kabita-utsab-2018-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2018-3.jpg",
+            "alt": "Kabita Utsab 2018 CSR moment 3",
+            "caption": "Kabita Utsab 2018"
+          }
+        ],
+        "basanto-utsab-mela-2018": [
+          {
+            "id": "csr-basanto-utsab-mela-2018-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-mela-2018-1.jpg",
+            "alt": "Basanto Utsab & Basanto Mela 2018 CSR moment 1",
+            "caption": "Basanto Utsab & Basanto Mela 2018"
+          },
+          {
+            "id": "csr-basanto-utsab-mela-2018-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-mela-2018-2.jpg",
+            "alt": "Basanto Utsab & Basanto Mela 2018 CSR moment 2",
+            "caption": "Basanto Utsab & Basanto Mela 2018"
+          },
+          {
+            "id": "csr-basanto-utsab-mela-2018-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-mela-2018-3.jpg",
+            "alt": "Basanto Utsab & Basanto Mela 2018 CSR moment 3",
+            "caption": "Basanto Utsab & Basanto Mela 2018"
+          }
+        ],
+        "natyotsab-teen-natyodaler": [
+          {
+            "id": "csr-natyotsab-teen-natyodaler-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-teen-natyodaler-1.jpg",
+            "alt": "Natyotsab Teen Natyodaler CSR moment 1",
+            "caption": "Natyotsab Teen Natyodaler"
+          },
+          {
+            "id": "csr-natyotsab-teen-natyodaler-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-teen-natyodaler-2.jpg",
+            "alt": "Natyotsab Teen Natyodaler CSR moment 2",
+            "caption": "Natyotsab Teen Natyodaler"
+          },
+          {
+            "id": "csr-natyotsab-teen-natyodaler-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-teen-natyodaler-3.jpg",
+            "alt": "Natyotsab Teen Natyodaler CSR moment 3",
+            "caption": "Natyotsab Teen Natyodaler"
+          }
+        ],
+        "pujor-gaan": [
+          {
+            "id": "csr-pujor-gaan-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-pujor-gaan-1.jpg",
+            "alt": "Pujor Gaan CSR moment 1",
+            "caption": "Pujor Gaan"
+          },
+          {
+            "id": "csr-pujor-gaan-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-pujor-gaan-2.jpg",
+            "alt": "Pujor Gaan CSR moment 2",
+            "caption": "Pujor Gaan"
+          },
+          {
+            "id": "csr-pujor-gaan-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-pujor-gaan-3.jpg",
+            "alt": "Pujor Gaan CSR moment 3",
+            "caption": "Pujor Gaan"
+          }
+        ],
+        "anandadhoni": [
+          {
+            "id": "csr-anandadhoni-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-anandadhoni-1.jpg",
+            "alt": "Anandadhoni CSR moment 1",
+            "caption": "Anandadhoni"
+          },
+          {
+            "id": "csr-anandadhoni-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-anandadhoni-2.jpg",
+            "alt": "Anandadhoni CSR moment 2",
+            "caption": "Anandadhoni"
+          },
+          {
+            "id": "csr-anandadhoni-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-anandadhoni-3.jpg",
+            "alt": "Anandadhoni CSR moment 3",
+            "caption": "Anandadhoni"
+          }
+        ],
+        "kabita-utsab-2019": [
+          {
+            "id": "csr-kabita-utsab-2019-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2019-1.jpg",
+            "alt": "Kabita Utsab 2019 CSR moment 1",
+            "caption": "Kabita Utsab 2019"
+          },
+          {
+            "id": "csr-kabita-utsab-2019-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2019-2.jpg",
+            "alt": "Kabita Utsab 2019 CSR moment 2",
+            "caption": "Kabita Utsab 2019"
+          },
+          {
+            "id": "csr-kabita-utsab-2019-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2019-3.jpg",
+            "alt": "Kabita Utsab 2019 CSR moment 3",
+            "caption": "Kabita Utsab 2019"
+          }
+        ],
+        "phalguni": [
+          {
+            "id": "csr-phalguni-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-phalguni-1.jpg",
+            "alt": "Phalguni CSR moment 1",
+            "caption": "Phalguni"
+          },
+          {
+            "id": "csr-phalguni-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-phalguni-2.jpg",
+            "alt": "Phalguni CSR moment 2",
+            "caption": "Phalguni"
+          },
+          {
+            "id": "csr-phalguni-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-phalguni-3.jpg",
+            "alt": "Phalguni CSR moment 3",
+            "caption": "Phalguni"
+          }
+        ],
+        "se-je-moner-manush": [
+          {
+            "id": "csr-se-je-moner-manush-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-se-je-moner-manush-1.jpg",
+            "alt": "Se Je Moner Manush CSR moment 1",
+            "caption": "Se Je Moner Manush"
+          },
+          {
+            "id": "csr-se-je-moner-manush-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-se-je-moner-manush-2.jpg",
+            "alt": "Se Je Moner Manush CSR moment 2",
+            "caption": "Se Je Moner Manush"
+          },
+          {
+            "id": "csr-se-je-moner-manush-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-se-je-moner-manush-3.jpg",
+            "alt": "Se Je Moner Manush CSR moment 3",
+            "caption": "Se Je Moner Manush"
+          }
+        ],
+        "natyotsab-2019": [
+          {
+            "id": "csr-natyotsab-2019-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-2019-1.jpg",
+            "alt": "Natyotsab CSR moment 1",
+            "caption": "Natyotsab"
+          },
+          {
+            "id": "csr-natyotsab-2019-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-2019-2.jpg",
+            "alt": "Natyotsab CSR moment 2",
+            "caption": "Natyotsab"
+          },
+          {
+            "id": "csr-natyotsab-2019-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-natyotsab-2019-3.jpg",
+            "alt": "Natyotsab CSR moment 3",
+            "caption": "Natyotsab"
+          }
+        ],
+        "salil-sandhya": [
+          {
+            "id": "csr-salil-sandhya-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-salil-sandhya-1.jpg",
+            "alt": "Salil Sandhya CSR moment 1",
+            "caption": "Salil Sandhya"
+          },
+          {
+            "id": "csr-salil-sandhya-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-salil-sandhya-2.jpg",
+            "alt": "Salil Sandhya CSR moment 2",
+            "caption": "Salil Sandhya"
+          },
+          {
+            "id": "csr-salil-sandhya-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-salil-sandhya-3.jpg",
+            "alt": "Salil Sandhya CSR moment 3",
+            "caption": "Salil Sandhya"
+          }
+        ],
+        "gaaner-sure-aamaar-mukti": [
+          {
+            "id": "csr-gaaner-sure-aamaar-mukti-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaaner-sure-aamaar-mukti-1.jpg",
+            "alt": "Gaaner Sure Aamaar Mukti CSR moment 1",
+            "caption": "Gaaner Sure Aamaar Mukti"
+          },
+          {
+            "id": "csr-gaaner-sure-aamaar-mukti-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaaner-sure-aamaar-mukti-2.jpg",
+            "alt": "Gaaner Sure Aamaar Mukti CSR moment 2",
+            "caption": "Gaaner Sure Aamaar Mukti"
+          },
+          {
+            "id": "csr-gaaner-sure-aamaar-mukti-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaaner-sure-aamaar-mukti-3.jpg",
+            "alt": "Gaaner Sure Aamaar Mukti CSR moment 3",
+            "caption": "Gaaner Sure Aamaar Mukti"
+          }
+        ],
+        "kabita-utsab-2020": [
+          {
+            "id": "csr-kabita-utsab-2020-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2020-1.jpg",
+            "alt": "Kabita Utsab 2020 CSR moment 1",
+            "caption": "Kabita Utsab 2020"
+          },
+          {
+            "id": "csr-kabita-utsab-2020-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2020-2.jpg",
+            "alt": "Kabita Utsab 2020 CSR moment 2",
+            "caption": "Kabita Utsab 2020"
+          },
+          {
+            "id": "csr-kabita-utsab-2020-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2020-3.jpg",
+            "alt": "Kabita Utsab 2020 CSR moment 3",
+            "caption": "Kabita Utsab 2020"
+          }
+        ],
+        "basanta-utsav-2020": [
+          {
+            "id": "csr-basanta-utsav-2020-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-utsav-2020-1.jpg",
+            "alt": "Basanta Utsav 2020 CSR moment 1",
+            "caption": "Basanta Utsav 2020"
+          },
+          {
+            "id": "csr-basanta-utsav-2020-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-utsav-2020-2.jpg",
+            "alt": "Basanta Utsav 2020 CSR moment 2",
+            "caption": "Basanta Utsav 2020"
+          },
+          {
+            "id": "csr-basanta-utsav-2020-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanta-utsav-2020-3.jpg",
+            "alt": "Basanta Utsav 2020 CSR moment 3",
+            "caption": "Basanta Utsav 2020"
+          }
+        ],
+        "gaane-gaane": [
+          {
+            "id": "csr-gaane-gaane-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-gaane-1.jpg",
+            "alt": "Gaane Gaane CSR moment 1",
+            "caption": "Gaane Gaane"
+          },
+          {
+            "id": "csr-gaane-gaane-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-gaane-2.jpg",
+            "alt": "Gaane Gaane CSR moment 2",
+            "caption": "Gaane Gaane"
+          },
+          {
+            "id": "csr-gaane-gaane-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-gaane-gaane-3.jpg",
+            "alt": "Gaane Gaane CSR moment 3",
+            "caption": "Gaane Gaane"
+          }
+        ],
+        "raktakarabi": [
+          {
+            "id": "csr-raktakarabi-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raktakarabi-1.jpg",
+            "alt": "Raktakarabi CSR moment 1",
+            "caption": "Raktakarabi"
+          },
+          {
+            "id": "csr-raktakarabi-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raktakarabi-2.jpg",
+            "alt": "Raktakarabi CSR moment 2",
+            "caption": "Raktakarabi"
+          },
+          {
+            "id": "csr-raktakarabi-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-raktakarabi-3.jpg",
+            "alt": "Raktakarabi CSR moment 3",
+            "caption": "Raktakarabi"
+          }
+        ],
+        "esho-brikkher-joy-gaai": [
+          {
+            "id": "csr-esho-brikkher-joy-gaai-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-brikkher-joy-gaai-1.jpg",
+            "alt": "Esho Brikkher Joy Gaai CSR moment 1",
+            "caption": "Esho Brikkher Joy Gaai"
+          },
+          {
+            "id": "csr-esho-brikkher-joy-gaai-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-brikkher-joy-gaai-2.jpg",
+            "alt": "Esho Brikkher Joy Gaai CSR moment 2",
+            "caption": "Esho Brikkher Joy Gaai"
+          },
+          {
+            "id": "csr-esho-brikkher-joy-gaai-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-esho-brikkher-joy-gaai-3.jpg",
+            "alt": "Esho Brikkher Joy Gaai CSR moment 3",
+            "caption": "Esho Brikkher Joy Gaai"
+          }
+        ],
+        "ki-jadu-bangla-gaane": [
+          {
+            "id": "csr-ki-jadu-bangla-gaane-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ki-jadu-bangla-gaane-1.jpg",
+            "alt": "Ki Jadu Bangla Gaane CSR moment 1",
+            "caption": "Ki Jadu Bangla Gaane"
+          },
+          {
+            "id": "csr-ki-jadu-bangla-gaane-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ki-jadu-bangla-gaane-2.jpg",
+            "alt": "Ki Jadu Bangla Gaane CSR moment 2",
+            "caption": "Ki Jadu Bangla Gaane"
+          },
+          {
+            "id": "csr-ki-jadu-bangla-gaane-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ki-jadu-bangla-gaane-3.jpg",
+            "alt": "Ki Jadu Bangla Gaane CSR moment 3",
+            "caption": "Ki Jadu Bangla Gaane"
+          }
+        ],
+        "kabita-utsab-2017": [
+          {
+            "id": "csr-kabita-utsab-2017-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2017-1.jpg",
+            "alt": "Kabita Utsab 2017 CSR moment 1",
+            "caption": "Kabita Utsab 2017"
+          },
+          {
+            "id": "csr-kabita-utsab-2017-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2017-2.jpg",
+            "alt": "Kabita Utsab 2017 CSR moment 2",
+            "caption": "Kabita Utsab 2017"
+          },
+          {
+            "id": "csr-kabita-utsab-2017-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-kabita-utsab-2017-3.jpg",
+            "alt": "Kabita Utsab 2017 CSR moment 3",
+            "caption": "Kabita Utsab 2017"
+          }
+        ],
+        "basanto-utsab-2017": [
+          {
+            "id": "csr-basanto-utsab-2017-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2017-1.jpg",
+            "alt": "Basanto Utsab 2017 CSR moment 1",
+            "caption": "Basanto Utsab 2017"
+          },
+          {
+            "id": "csr-basanto-utsab-2017-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2017-2.jpg",
+            "alt": "Basanto Utsab 2017 CSR moment 2",
+            "caption": "Basanto Utsab 2017"
+          },
+          {
+            "id": "csr-basanto-utsab-2017-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2017-3.jpg",
+            "alt": "Basanto Utsab 2017 CSR moment 3",
+            "caption": "Basanto Utsab 2017"
+          }
+        ],
+        "ek-guchcho-santiniketan": [
+          {
+            "id": "csr-ek-guchcho-santiniketan-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-guchcho-santiniketan-1.jpg",
+            "alt": "Ek Guchcho Santiniketan CSR moment 1",
+            "caption": "Ek Guchcho Santiniketan"
+          },
+          {
+            "id": "csr-ek-guchcho-santiniketan-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-guchcho-santiniketan-2.jpg",
+            "alt": "Ek Guchcho Santiniketan CSR moment 2",
+            "caption": "Ek Guchcho Santiniketan"
+          },
+          {
+            "id": "csr-ek-guchcho-santiniketan-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-ek-guchcho-santiniketan-3.jpg",
+            "alt": "Ek Guchcho Santiniketan CSR moment 3",
+            "caption": "Ek Guchcho Santiniketan"
+          }
+        ],
+        "chalo-potol-tuli": [
+          {
+            "id": "csr-chalo-potol-tuli-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-chalo-potol-tuli-1.jpg",
+            "alt": "Chalo Potol Tuli CSR moment 1",
+            "caption": "Chalo Potol Tuli"
+          },
+          {
+            "id": "csr-chalo-potol-tuli-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-chalo-potol-tuli-2.jpg",
+            "alt": "Chalo Potol Tuli CSR moment 2",
+            "caption": "Chalo Potol Tuli"
+          },
+          {
+            "id": "csr-chalo-potol-tuli-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-chalo-potol-tuli-3.jpg",
+            "alt": "Chalo Potol Tuli CSR moment 3",
+            "caption": "Chalo Potol Tuli"
+          }
+        ],
+        "brikkhoropon-utsab-2015": [
+          {
+            "id": "csr-brikkhoropon-utsab-2015-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-brikkhoropon-utsab-2015-1.jpg",
+            "alt": "Brikkhoropon Utsab CSR moment 1",
+            "caption": "Brikkhoropon Utsab"
+          },
+          {
+            "id": "csr-brikkhoropon-utsab-2015-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-brikkhoropon-utsab-2015-2.jpg",
+            "alt": "Brikkhoropon Utsab CSR moment 2",
+            "caption": "Brikkhoropon Utsab"
+          },
+          {
+            "id": "csr-brikkhoropon-utsab-2015-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-brikkhoropon-utsab-2015-3.jpg",
+            "alt": "Brikkhoropon Utsab CSR moment 3",
+            "caption": "Brikkhoropon Utsab"
+          }
+        ],
+        "journey-through-images": [
+          {
+            "id": "csr-journey-through-images-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-journey-through-images-1.jpg",
+            "alt": "Journey Through Images - A Tribute to Badhan Das CSR moment 1",
+            "caption": "Journey Through Images - A Tribute to Badhan Das"
+          },
+          {
+            "id": "csr-journey-through-images-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-journey-through-images-2.jpg",
+            "alt": "Journey Through Images - A Tribute to Badhan Das CSR moment 2",
+            "caption": "Journey Through Images - A Tribute to Badhan Das"
+          },
+          {
+            "id": "csr-journey-through-images-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-journey-through-images-3.jpg",
+            "alt": "Journey Through Images - A Tribute to Badhan Das CSR moment 3",
+            "caption": "Journey Through Images - A Tribute to Badhan Das"
+          }
+        ],
+        "flower-show-2016": [
+          {
+            "id": "csr-flower-show-2016-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2016-1.jpg",
+            "alt": "Flower Show 2016 CSR moment 1",
+            "caption": "Flower Show 2016"
+          },
+          {
+            "id": "csr-flower-show-2016-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2016-2.jpg",
+            "alt": "Flower Show 2016 CSR moment 2",
+            "caption": "Flower Show 2016"
+          },
+          {
+            "id": "csr-flower-show-2016-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2016-3.jpg",
+            "alt": "Flower Show 2016 CSR moment 3",
+            "caption": "Flower Show 2016"
+          }
+        ],
+        "basanto-utsab-2016": [
+          {
+            "id": "csr-basanto-utsab-2016-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2016-1.jpg",
+            "alt": "Basanto Utsab 2016 CSR moment 1",
+            "caption": "Basanto Utsab 2016"
+          },
+          {
+            "id": "csr-basanto-utsab-2016-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2016-2.jpg",
+            "alt": "Basanto Utsab 2016 CSR moment 2",
+            "caption": "Basanto Utsab 2016"
+          },
+          {
+            "id": "csr-basanto-utsab-2016-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-basanto-utsab-2016-3.jpg",
+            "alt": "Basanto Utsab 2016 CSR moment 3",
+            "caption": "Basanto Utsab 2016"
+          }
+        ],
+        "flower-show-2015": [
+          {
+            "id": "csr-flower-show-2015-1",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2015-1.jpg",
+            "alt": "Flower Show 2015 CSR moment 1",
+            "caption": "Flower Show 2015"
+          },
+          {
+            "id": "csr-flower-show-2015-2",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2015-2.jpg",
+            "alt": "Flower Show 2015 CSR moment 2",
+            "caption": "Flower Show 2015"
+          },
+          {
+            "id": "csr-flower-show-2015-3",
+            "src": "https://astraxlabs.github.io/pcc-data/photos/assets/garden/csr-event-flower-show-2015-3.jpg",
+            "alt": "Flower Show 2015 CSR moment 3",
+            "caption": "Flower Show 2015"
           }
         ]
       },
