@@ -1,5 +1,5 @@
 {
-  "VERSION": 318909,
+  "VERSION": 848486,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2274,7 +2274,7 @@
       "astro": true
     },
     {
-      "name": "New Town Showroom",
+      "name": "Rajarhat Showroom",
       "key": "newtown-showroom",
       "status": 1,
       "email": {
