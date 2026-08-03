@@ -1,5 +1,5 @@
 {
-  "VERSION": 770088,
+  "VERSION": 476744,
   "data": {
     "home": [
       {
@@ -7,7 +7,7 @@
         "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Creative_12_Mobile_724x640_fc40a847-4e35-4b05-8a96-824725984617.jpg?v=1756202034",
         "altText": "Timeless Elegance - Gold Necklace Collection",
         "linkUrl": "https://pcchandraindia.com/collections/jewellery-sets",
-        "isActive": true,
+        "isActive": false,
         "priority": 1
       },
       {
