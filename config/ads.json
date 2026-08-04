@@ -1,13 +1,13 @@
 {
-  "VERSION": 476744,
+  "VERSION": 814850,
   "data": {
     "home": [
       {
         "id": "home_main_banner",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Creative_12_Mobile_724x640_fc40a847-4e35-4b05-8a96-824725984617.jpg?v=1756202034",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/Ayushman_724_x_640_Eng_454809e1-b347-4c9e-ac6e-f667f29739ac.webp?v=1785837107",
         "altText": "Timeless Elegance - Gold Necklace Collection",
-        "linkUrl": "https://pcchandraindia.com/collections/jewellery-sets",
-        "isActive": false,
+        "linkUrl": "https://pcchandraindia.com/collections/eterknight-collection",
+        "isActive": true,
         "priority": 1
       },
       {
