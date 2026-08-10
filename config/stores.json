@@ -1,5 +1,5 @@
 {
-  "VERSION": 848486,
+  "VERSION": 430339,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3631,6 +3631,49 @@
           "close": [
             20,
             0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P. C. Chandra Jewellers, Uluberia",
+      "key": "uluberia-showroom",
+      "status": 1,
+      "street": "Orisha Trunk Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 711316,
+      "lat": 22.4682121,
+      "lon": 88.1000485,
+      "email": {
+        "primary": "pcculuberia@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "80179 90532",
+        "other": []
+      },
+      "placeId": "ChIJq2uxs9OHAjoRFyrz0bEbmx8",
+      "rating": 4.9,
+      "cid": "2277444487111453207",
+      "gname": "P. C. Chandra Jewellers, Uluberia",
+      "gcode": "",
+      "park": "Street Parking",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            0
+          ],
+          "close": [
+            19,
+            30
           ]
         },
         "exceptions": {}
