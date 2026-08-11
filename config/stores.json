@@ -1,5 +1,5 @@
 {
-  "VERSION": 24526,
+  "VERSION": 37277,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3674,6 +3674,49 @@
           "close": [
             19,
             30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "Jalpaiguri Showroom",
+      "key": "jalpaiguri-showroom",
+      "status": 1,
+      "street": "Ukilpara Road 268",
+      "city": "Jalpaiguri Division",
+      "region": "West Bengal",
+      "pin": 735101,
+      "lat": 26.525755,
+      "lon": 88.71965229999999,
+      "email": {
+        "primary": "pccjalpaiguri@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9230961707",
+        "other": []
+      },
+      "placeId": "ChIJ5YOj4r155DkRLzuYDO6Siig",
+      "rating": 5,
+      "cid": "2921308859414362927",
+      "gname": "",
+      "gcode": "",
+      "park": "Valet Parking",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
           ]
         },
         "exceptions": {}
