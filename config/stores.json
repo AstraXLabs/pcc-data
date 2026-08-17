@@ -1,5 +1,5 @@
 {
-  "VERSION": 703860,
+  "VERSION": 247129,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -86,13 +86,14 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
             0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "7005801725",
