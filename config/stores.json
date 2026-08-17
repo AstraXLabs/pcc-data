@@ -1,5 +1,5 @@
 {
-  "VERSION": 715128,
+  "VERSION": 945066,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -217,7 +217,8 @@
       "key": "girish-park-showroom",
       "status": 1,
       "email": {
-        "primary": "pccglobalvkroad@yahoo.com"
+        "primary": "pccglobalvkroad@yahoo.com",
+        "other": []
       },
       "street": "79, Vivekananda Rd, opposite Simla Byam Samiti, Hedua, Machuabazar",
       "city": "Kolkata",
@@ -229,16 +230,18 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "91-9830906029"
+        "primary": "91-9830906029",
+        "other": []
       },
       "rating": 4.7,
       "placeId": "ChIJ69B08tJ3AjoREGFnPBEubT0",
