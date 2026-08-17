@@ -1,5 +1,5 @@
 {
-  "VERSION": 945066,
+  "VERSION": 732725,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -261,7 +261,8 @@
       "key": "balurghat-showroom",
       "status": 1,
       "email": {
-        "primary": "pccbalurghat@pcchandraindia.com"
+        "primary": "pccbalurghat@pcchandraindia.com",
+        "other": []
       },
       "street": "Nazrul Sarani, opp. SBI Bazar Branch, Khadimpur, Narayanpur",
       "city": "Dinajpur",
@@ -273,16 +274,18 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "9674725067"
+        "primary": "9674725067",
+        "other": []
       },
       "rating": 4.3,
       "placeId": "ChIJ24m1cdFh-zkRGVCebrS9BFQ",
