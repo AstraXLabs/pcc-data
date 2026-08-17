@@ -1,5 +1,5 @@
 {
-  "VERSION": 11603,
+  "VERSION": 715128,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -168,7 +168,8 @@
       "key": "asansol-showroom",
       "status": 1,
       "email": {
-        "primary": "pccasansol@pcchandraindia.com"
+        "primary": "pccasansol@pcchandraindia.com",
+        "other": []
       },
       "street": "Laxminarayana Building, 71, GT Rd, East, Murgasol",
       "city": "Asansol",
@@ -180,13 +181,14 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "0341-2274331",
