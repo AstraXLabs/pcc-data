@@ -1,5 +1,5 @@
 {
-  "VERSION": 247129,
+  "VERSION": 11603,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -117,7 +117,8 @@
       "key": "arambagh-showroom",
       "status": 1,
       "email": {
-        "primary": "pccapex@pcchandraindia.com"
+        "primary": "pccapex@pcchandraindia.com",
+        "other": []
       },
       "street": "214/F, Link Road, Ward No 3",
       "city": "Hooghly",
@@ -129,11 +130,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
