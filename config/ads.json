@@ -1,5 +1,5 @@
 {
-  "VERSION": 814850,
+  "VERSION": 371792,
   "data": {
     "home": [
       {
@@ -20,10 +20,10 @@
       },
       {
         "id": "home_mugdhaa_collection",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_6428427a-6977-45d4-ba20-a33bdfb7e9d7.webp?v=1776319856",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0697/8945/0462/files/724_640_d4ecb1dc-6b0a-4f10-9ad7-046195105098.png?v=1787032540",
         "altText": "promotions",
         "linkUrl": "https://pcchandraindia.com/collections/promotions",
-        "isActive": false,
+        "isActive": true,
         "priority": 3
       }
     ],
