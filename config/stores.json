@@ -1,5 +1,5 @@
 {
-  "VERSION": 626813,
+  "VERSION": 71116,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2753,7 +2753,8 @@
       "key": "serampore-showroom",
       "status": 1,
       "email": {
-        "primary": "goldlites@gmail.com"
+        "primary": "goldlites@gmail.com",
+        "other": []
       },
       "street": "40, BP Dey St",
       "city": "Hooghly",
@@ -2773,7 +2774,17 @@
           ]
         },
         "exceptions": {
-          "thu": null
+          "thu": null,
+          "fri": {
+            "open": [
+              14,
+              30
+            ],
+            "close": [
+              20,
+              0
+            ]
+          }
         }
       },
       "phone": {
