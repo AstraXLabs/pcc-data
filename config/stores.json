@@ -1,5 +1,5 @@
 {
-  "VERSION": 153286,
+  "VERSION": 176734,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -908,7 +908,8 @@
       "key": "chandannagar-showroom",
       "status": 1,
       "email": {
-        "primary": "goldlites@gmail.com"
+        "primary": "goldlites@gmail.com",
+        "other": []
       },
       "street": "1320, Grand Trunk Rd, Dharampur",
       "city": "Hooghly",
@@ -928,7 +929,17 @@
           ]
         },
         "exceptions": {
-          "thu": null
+          "thu": null,
+          "fri": {
+            "open": [
+              14,
+              30
+            ],
+            "close": [
+              20,
+              0
+            ]
+          }
         }
       },
       "phone": {
