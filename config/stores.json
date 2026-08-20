@@ -1,5 +1,5 @@
 {
-  "VERSION": 732725,
+  "VERSION": 153286,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -27,24 +27,14 @@
           ]
         },
         "exceptions": {
-          "mon": {
-            "open": [
-              14,
-              0
-            ],
-            "close": [
-              19,
-              30
-            ]
-          },
           "fri": {
             "open": [
               14,
-              0
+              30
             ],
             "close": [
-              19,
-              30
+              20,
+              0
             ]
           },
           "thu": null
