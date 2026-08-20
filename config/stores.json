@@ -1,5 +1,5 @@
 {
-  "VERSION": 562394,
+  "VERSION": 366524,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1550,7 +1550,8 @@
       "key": "hatibagan-showroom",
       "status": 1,
       "email": {
-        "primary": "goldlites@gmail.com"
+        "primary": "goldlites@gmail.com",
+        "other": []
       },
       "street": "Hatibagan, 77, Bidhan Sarani Rd, Near Rupbani Cinema Hall, Sovabazar, Goa Bagan",
       "city": "Kolkata",
@@ -1562,13 +1563,14 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
+            20,
             30
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
         "primary": "2533 0206",
