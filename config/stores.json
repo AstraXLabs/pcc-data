@@ -1,5 +1,5 @@
 {
-  "VERSION": 686182,
+  "VERSION": 127558,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -1879,7 +1879,8 @@
       "key": "kadhyamgram-showroom",
       "status": 1,
       "email": {
-        "primary": "customercare@pcchandraindia.com"
+        "primary": "customercare@pcchandraindia.com",
+        "other": []
       },
       "street": "254, Sodepur Rd, East Bankimpally, Purbalaya, South Bankimpally",
       "city": "Barasat",
@@ -1897,6 +1898,9 @@
             20,
             0
           ]
+        },
+        "exceptions": {
+          "thu": null
         }
       },
       "phone": {
@@ -1912,7 +1916,9 @@
       "placeId": "ChIJXyCgruSf-DkRvTqp2pbTf-c",
       "cid": "16681284189670685373",
       "gname": "PCC Lites by P. C. Chandra Jewellers, Madhyamgram",
-      "gcode": "7MJCMFV7+47"
+      "gcode": "7MJCMFV7+47",
+      "park": null,
+      "lang": []
     },
     {
       "name": "Malda English Bazar Showroom",
