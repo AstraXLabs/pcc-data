@@ -1,5 +1,5 @@
 {
-  "VERSION": 14520,
+  "VERSION": 320384,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -612,7 +612,9 @@
             0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "tue": null
+        }
       },
       "phone": {
         "primary": "7795444942",
