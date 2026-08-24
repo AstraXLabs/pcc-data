@@ -1,5 +1,5 @@
 {
-  "VERSION": 237324,
+  "VERSION": 14520,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -554,7 +554,7 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
@@ -562,36 +562,7 @@
           ]
         },
         "exceptions": {
-          "fri": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              18,
-              30
-            ]
-          },
-          "sat": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              18,
-              30
-            ]
-          },
-          "sun": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              18,
-              30
-            ]
-          }
+          "mon": null
         }
       },
       "phone": {
@@ -634,45 +605,14 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
             0
           ]
         },
-        "exceptions": {
-          "fri": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          },
-          "sat": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          },
-          "sun": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          }
-        }
+        "exceptions": {}
       },
       "phone": {
         "primary": "7795444942",
@@ -1941,8 +1881,7 @@
       "key": "kadhyamgram-showroom",
       "status": 1,
       "email": {
-        "primary": "customercare@pcchandraindia.com",
-        "other": []
+        "primary": "customercare@pcchandraindia.com"
       },
       "street": "254, Sodepur Rd, East Bankimpally, Purbalaya, South Bankimpally",
       "city": "Barasat",
@@ -1960,9 +1899,6 @@
             20,
             0
           ]
-        },
-        "exceptions": {
-          "thu": null
         }
       },
       "phone": {
@@ -1978,9 +1914,7 @@
       "placeId": "ChIJXyCgruSf-DkRvTqp2pbTf-c",
       "cid": "16681284189670685373",
       "gname": "PCC Lites by P. C. Chandra Jewellers, Madhyamgram",
-      "gcode": "7MJCMFV7+47",
-      "park": null,
-      "lang": []
+      "gcode": "7MJCMFV7+47"
     },
     {
       "name": "Malda English Bazar Showroom",
@@ -2082,45 +2016,14 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
             0
           ]
         },
-        "exceptions": {
-          "fri": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          },
-          "sat": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          },
-          "sun": {
-            "open": [
-              11,
-              30
-            ],
-            "close": [
-              20,
-              30
-            ]
-          }
-        }
+        "exceptions": {}
       },
       "phone": {
         "primary": "8904214008",
@@ -2925,8 +2828,7 @@
       "key": "silchar-showroom",
       "status": 1,
       "email": {
-        "primary": "pccsilchar@pcchandraindia.com",
-        "other": []
+        "primary": "pccsilchar@pcchandraindia.com"
       },
       "street": "Holding no. 1005010231500560, Central Rd, near Oriental Talkies, Nazirpatty",
       "city": "Silchar",
@@ -2938,18 +2840,16 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
             0
           ]
-        },
-        "exceptions": {}
+        }
       },
       "phone": {
-        "primary": "6000501687",
-        "other": []
+        "primary": "6000501687"
       },
       "rating": 3.1,
       "placeId": "ChIJPXpU-RNLTjcRT1XYXYBXLWU",
