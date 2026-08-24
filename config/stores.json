@@ -1,5 +1,5 @@
 {
-  "VERSION": 127558,
+  "VERSION": 210157,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2832,7 +2832,8 @@
       "key": "silchar-showroom",
       "status": 1,
       "email": {
-        "primary": "pccsilchar@pcchandraindia.com"
+        "primary": "pccsilchar@pcchandraindia.com",
+        "other": []
       },
       "street": "Holding no. 1005010231500560, Central Rd, near Oriental Talkies, Nazirpatty",
       "city": "Silchar",
@@ -2844,16 +2845,18 @@
         "default": {
           "open": [
             11,
-            30
+            0
           ],
           "close": [
             20,
             0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "6000501687"
+        "primary": "6000501687",
+        "other": []
       },
       "rating": 3.1,
       "placeId": "ChIJPXpU-RNLTjcRT1XYXYBXLWU",
