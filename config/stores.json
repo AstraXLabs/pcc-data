@@ -1,5 +1,5 @@
 {
-  "VERSION": 246488,
+  "VERSION": 663039,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -634,14 +634,45 @@
         "default": {
           "open": [
             11,
-            30
+            0
           ],
           "close": [
             20,
             0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "fri": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sat": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sun": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          }
+        }
       },
       "phone": {
         "primary": "7795444942",
