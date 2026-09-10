@@ -1,5 +1,5 @@
 {
-  "VERSION": 130767,
+  "VERSION": 90070,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3812,6 +3812,55 @@
       "rating": 4.5,
       "cid": "10170812850672638878",
       "gname": "P.C. Chandra Jewellers, Rajarhat",
+      "gcode": "",
+      "park": "Street",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Newtown",
+      "key": "newtown-showroom",
+      "status": 1,
+      "street": "CF/13, Action Area 1C, New Town, Kolkata - 700156 (Opposite Axis Mall)",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700156,
+      "lat": 22.5787255,
+      "lon": 88.4602164,
+      "email": {
+        "primary": "pccnewtown@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073371829",
+        "other": [
+          {
+            "phone": "9073371830",
+            "type": "alternative",
+            "name": "Aniket Shukla"
+          }
+        ]
+      },
+      "placeId": "ChIJ9Q2gHTt1AjoRHktw4SVdABk",
+      "rating": 5,
+      "cid": "1801542268225604382",
+      "gname": "",
       "gcode": "",
       "park": "Street",
       "lang": [
