@@ -1,5 +1,5 @@
 {
-  "VERSION": 593909,
+  "VERSION": 130767,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3765,6 +3765,55 @@
       "gname": "",
       "gcode": "",
       "park": "Valet Parking",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Rajarhat",
+      "key": "rajarhat-showroom",
+      "status": 1,
+      "street": "New Town Road",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700157,
+      "lat": 22.6230363,
+      "lon": 88.4502303,
+      "email": {
+        "primary": "pcc@vsnl.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "033-25722017",
+        "other": [
+          {
+            "phone": "9073387956",
+            "type": "Alternative",
+            "name": ""
+          }
+        ]
+      },
+      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
+      "rating": 4.5,
+      "cid": "10170812850672638878",
+      "gname": "P.C. Chandra Jewellers, Rajarhat",
+      "gcode": "",
+      "park": "Street",
       "lang": [
         "bn",
         "hn",
