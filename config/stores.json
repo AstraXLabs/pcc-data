@@ -1,5 +1,5 @@
 {
-  "VERSION": 236381,
+  "VERSION": 846342,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2363,19 +2363,19 @@
       "astro": true
     },
     {
-      "name": "Newtown Showroom",
+      "name": "Rajarhat Showroom",
       "key": "newtown-showroom",
       "status": 1,
       "email": {
-        "primary": "pccnewtown@pcchandraindia.com",
+        "primary": "pcc@vsnl.com",
         "other": []
       },
-      "street": "CF/13, Action Area 1C, New Town, Kolkata - 700156 (Opposite Axis Mall)",
-      "city": "Presidency Division",
+      "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
+      "city": "Kolkata",
       "region": "West Bengal",
-      "pin": 700156,
-      "lat": 22.5787255,
-      "lon": 88.4602164,
+      "pin": 700157,
+      "lat": 22.6225413,
+      "lon": 88.4469836,
       "schedule": {
         "default": {
           "open": [
@@ -2390,26 +2390,25 @@
         "exceptions": {}
       },
       "phone": {
-        "primary": "9073371829",
+        "primary": "033-25722017",
         "other": [
           {
-            "phone": "9073371830",
-            "type": "work",
-            "name": ""
+            "phone": "9073387956",
+            "name": "Alternative"
           }
         ]
       },
-      "rating": 5,
-      "placeId": "ChIJ9Q2gHTt1AjoRHktw4SVdABk",
-      "cid": "1801542268225604382",
-      "gname": "P. C. Chandra Jewellers, Newtown",
-      "gcode": "",
+      "rating": 4.4,
+      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
+      "cid": "10170812850672638878",
+      "gname": "P.C. Chandra Jewellers, Rajarhat",
+      "gcode": "7MJCJCFW+2Q",
       "lang": [
         "bn",
         "en",
         "hn"
       ],
-      "park": null,
+      "park": "street",
       "astro": true
     },
     {
@@ -3835,35 +3834,34 @@
       }
     },
     {
-      "name": "Newtown Showroom",
+      "name": "Rajarhat Showroom",
       "key": "newtown-showroom",
       "status": 1,
-      "street": "CF/13, Action Area 1C, New Town, Kolkata - 700156 (Opposite Axis Mall)",
-      "city": "Presidency Division",
+      "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
+      "city": "Kolkata",
       "region": "West Bengal",
-      "pin": 700156,
-      "lat": 22.5787255,
-      "lon": 88.4602164,
+      "pin": 700157,
+      "lat": 22.6225413,
+      "lon": 88.4469836,
       "email": {
-        "primary": "pccnewtown@pcchandraindia.com",
+        "primary": "pcc@vsnl.com",
         "other": []
       },
       "phone": {
-        "primary": "9073371829",
+        "primary": "033-25722017",
         "other": [
           {
-            "phone": "9073371830",
-            "type": "work",
-            "name": ""
+            "phone": "9073387956",
+            "name": "Alternative"
           }
         ]
       },
-      "placeId": "ChIJ9Q2gHTt1AjoRHktw4SVdABk",
-      "rating": 5,
-      "cid": "1801542268225604382",
-      "gname": "P. C. Chandra Jewellers, Newtown",
-      "gcode": "",
-      "park": null,
+      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
+      "rating": 4.4,
+      "cid": "10170812850672638878",
+      "gname": "P.C. Chandra Jewellers, Rajarhat",
+      "gcode": "7MJCJCFW+2Q",
+      "park": "street",
       "lang": [
         "bn",
         "en",
@@ -3881,7 +3879,8 @@
           ]
         },
         "exceptions": {}
-      }
+      },
+      "astro": true
     }
   ]
 }
