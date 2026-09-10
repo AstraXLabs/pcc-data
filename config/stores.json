@@ -1,5 +1,5 @@
 {
-  "VERSION": 122995,
+  "VERSION": 181139,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3790,7 +3790,7 @@
       "name": "P.C. Chandra Jewellers, Rajarhat",
       "key": "rajarhat-showroom",
       "status": 1,
-      "street": "New Town Road",
+      "street": "New Town Road, near City Centre 2, Noapara, Signal, Rajarhat, Kolkata, West Bengal 700157",
       "city": "Presidency Division",
       "region": "West Bengal",
       "pin": 700157,
