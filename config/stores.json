@@ -1,5 +1,5 @@
 {
-  "VERSION": 618725,
+  "VERSION": 122995,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3805,7 +3805,7 @@
         "other": [
           {
             "phone": "9073387956",
-            "type": "Alternative",
+            "type": "",
             "name": ""
           }
         ]
