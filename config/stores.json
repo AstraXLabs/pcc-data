@@ -1,5 +1,5 @@
 {
-  "VERSION": 846342,
+  "VERSION": 593909,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2363,55 +2363,6 @@
       "astro": true
     },
     {
-      "name": "Rajarhat Showroom",
-      "key": "newtown-showroom",
-      "status": 1,
-      "email": {
-        "primary": "pcc@vsnl.com",
-        "other": []
-      },
-      "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
-      "city": "Kolkata",
-      "region": "West Bengal",
-      "pin": 700157,
-      "lat": 22.6225413,
-      "lon": 88.4469836,
-      "schedule": {
-        "default": {
-          "open": [
-            11,
-            30
-          ],
-          "close": [
-            20,
-            0
-          ]
-        },
-        "exceptions": {}
-      },
-      "phone": {
-        "primary": "033-25722017",
-        "other": [
-          {
-            "phone": "9073387956",
-            "name": "Alternative"
-          }
-        ]
-      },
-      "rating": 4.4,
-      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
-      "cid": "10170812850672638878",
-      "gname": "P.C. Chandra Jewellers, Rajarhat",
-      "gcode": "7MJCJCFW+2Q",
-      "lang": [
-        "bn",
-        "en",
-        "hn"
-      ],
-      "park": "street",
-      "astro": true
-    },
-    {
       "name": "Noida Showroom",
       "key": "noida-showroom",
       "status": 1,
@@ -3832,55 +3783,6 @@
         },
         "exceptions": {}
       }
-    },
-    {
-      "name": "Rajarhat Showroom",
-      "key": "newtown-showroom",
-      "status": 1,
-      "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
-      "city": "Kolkata",
-      "region": "West Bengal",
-      "pin": 700157,
-      "lat": 22.6225413,
-      "lon": 88.4469836,
-      "email": {
-        "primary": "pcc@vsnl.com",
-        "other": []
-      },
-      "phone": {
-        "primary": "033-25722017",
-        "other": [
-          {
-            "phone": "9073387956",
-            "name": "Alternative"
-          }
-        ]
-      },
-      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
-      "rating": 4.4,
-      "cid": "10170812850672638878",
-      "gname": "P.C. Chandra Jewellers, Rajarhat",
-      "gcode": "7MJCJCFW+2Q",
-      "park": "street",
-      "lang": [
-        "bn",
-        "en",
-        "hn"
-      ],
-      "schedule": {
-        "default": {
-          "open": [
-            11,
-            30
-          ],
-          "close": [
-            20,
-            0
-          ]
-        },
-        "exceptions": {}
-      },
-      "astro": true
     }
   ]
 }
