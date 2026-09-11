@@ -1,5 +1,5 @@
 {
-  "VERSION": 686181,
+  "VERSION": 181139,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -316,11 +316,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         }
@@ -359,11 +359,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -409,11 +409,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -459,11 +459,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -509,11 +509,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -553,15 +553,47 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             0
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "mon": null,
+          "fri": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sat": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sun": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          }
+        }
       },
       "phone": {
         "primary": "080-46845555",
@@ -602,15 +634,17 @@
       "schedule": {
         "default": {
           "open": [
-            10,
-            0
+            11,
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "tue": null
+        }
       },
       "phone": {
         "primary": "7795444942",
@@ -645,11 +679,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         },
@@ -700,11 +734,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -743,11 +777,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         }
@@ -791,11 +825,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -842,11 +876,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -889,11 +923,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -931,11 +965,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -991,11 +1025,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1042,11 +1076,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1093,11 +1127,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1138,11 +1172,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         }
@@ -1189,8 +1223,8 @@
             30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1228,11 +1262,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -1272,11 +1306,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -1315,11 +1349,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1362,11 +1396,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1409,11 +1443,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1456,11 +1490,11 @@
       "schedule": {
         "default": {
           "open": [
-            12,
-            0
+            11,
+            30
           ],
           "close": [
-            15,
+            20,
             0
           ]
         },
@@ -1508,11 +1542,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -1567,7 +1601,7 @@
           ],
           "close": [
             20,
-            30
+            0
           ]
         },
         "exceptions": {}
@@ -1611,11 +1645,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1652,11 +1686,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1693,11 +1727,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1748,11 +1782,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1803,11 +1837,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1844,11 +1878,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1891,11 +1925,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1931,11 +1965,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -1972,11 +2006,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2021,7 +2055,39 @@
             0
           ]
         },
-        "exceptions": {}
+        "exceptions": {
+          "mon": null,
+          "fri": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sat": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          },
+          "sun": {
+            "open": [
+              11,
+              30
+            ],
+            "close": [
+              20,
+              30
+            ]
+          }
+        }
       },
       "phone": {
         "primary": "8904214008",
@@ -2057,12 +2123,12 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -2103,12 +2169,12 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -2150,11 +2216,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -2216,11 +2282,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2258,11 +2324,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2288,55 +2354,6 @@
       "cid": "2003444927084094366",
       "gname": "PC Chandra Jewellers, Nagerbazar",
       "gcode": "7MJCJCC6+XQ",
-      "lang": [
-        "bn",
-        "en",
-        "hn"
-      ],
-      "park": "street",
-      "astro": true
-    },
-    {
-      "name": "Rajarhat Showroom",
-      "key": "newtown-showroom",
-      "status": 1,
-      "email": {
-        "primary": "pcc@vsnl.com",
-        "other": []
-      },
-      "street": "Noapara Signal, Road, near City Centre 2, Atghara, Newtown, New Town",
-      "city": "Kolkata",
-      "region": "West Bengal",
-      "pin": 700157,
-      "lat": 22.6225413,
-      "lon": 88.4469836,
-      "schedule": {
-        "default": {
-          "open": [
-            12,
-            0
-          ],
-          "close": [
-            19,
-            30
-          ]
-        },
-        "exceptions": {}
-      },
-      "phone": {
-        "primary": "033-25722017",
-        "other": [
-          {
-            "phone": "9073387956",
-            "name": "Alternative"
-          }
-        ]
-      },
-      "rating": 4.4,
-      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
-      "cid": "10170812850672638878",
-      "gname": "P.C. Chandra Jewellers, Rajarhat",
-      "gcode": "7MJCJCFW+2Q",
       "lang": [
         "bn",
         "en",
@@ -2425,11 +2442,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2459,7 +2476,8 @@
       "key": "pcc-lites-showroom",
       "status": 1,
       "email": {
-        "primary": "pcc@vsnl.net"
+        "primary": "pcclites.manisquare@pcchandraindia.com",
+        "other": []
       },
       "street": "Ground Floor, Mani Square Mall, Kadapara, Phool Bagan, Kankurgachi",
       "city": "Kolkata",
@@ -2502,7 +2520,8 @@
         }
       },
       "phone": {
-        "primary": "033-40172660"
+        "primary": "9230989192",
+        "other": []
       },
       "rating": 4.8,
       "placeId": "ChIJq6Cs3bl3AjoRZe25dbcgcdM",
@@ -2538,7 +2557,7 @@
           ],
           "close": [
             20,
-            30
+            0
           ]
         },
         "exceptions": {
@@ -2607,11 +2626,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         }
@@ -2649,11 +2668,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2696,11 +2715,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2737,11 +2756,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2778,11 +2797,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -2838,11 +2857,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2879,11 +2898,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -2919,11 +2938,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         }
@@ -2961,11 +2980,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -3007,11 +3026,11 @@
       "schedule": {
         "default": {
           "open": [
-            10,
+            11,
             30
           ],
           "close": [
-            19,
+            20,
             0
           ]
         },
@@ -3058,11 +3077,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3106,11 +3125,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -3198,11 +3217,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
-            30
+            0
           ]
         }
       },
@@ -3239,7 +3258,7 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
             20,
@@ -3293,11 +3312,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -3340,11 +3359,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         }
       },
@@ -3390,11 +3409,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3488,11 +3507,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3531,11 +3550,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3573,11 +3592,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {
@@ -3628,11 +3647,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3714,11 +3733,11 @@
         "default": {
           "open": [
             11,
-            0
+            30
           ],
           "close": [
-            19,
-            30
+            20,
+            0
           ]
         },
         "exceptions": {}
@@ -3748,6 +3767,104 @@
       "gname": "",
       "gcode": "",
       "park": "Valet Parking",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Rajarhat",
+      "key": "rajarhat-showroom",
+      "status": 1,
+      "street": "New Town Road, near City Centre 2, Noapara, Signal, Rajarhat, Kolkata, West Bengal 700157",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700157,
+      "lat": 22.6230363,
+      "lon": 88.4502303,
+      "email": {
+        "primary": "pcc@vsnl.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "033-25722017",
+        "other": [
+          {
+            "phone": "9073387956",
+            "type": "",
+            "name": ""
+          }
+        ]
+      },
+      "placeId": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
+      "rating": 4.5,
+      "cid": "10170812850672638878",
+      "gname": "P.C. Chandra Jewellers, Rajarhat",
+      "gcode": "",
+      "park": "Street",
+      "lang": [
+        "bn",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Newtown",
+      "key": "newtown-showroom",
+      "status": 1,
+      "street": "CF/13, Action Area 1C, New Town, Kolkata - 700156 (Opposite Axis Mall)",
+      "city": "Presidency Division",
+      "region": "West Bengal",
+      "pin": 700156,
+      "lat": 22.5787255,
+      "lon": 88.4602164,
+      "email": {
+        "primary": "pccnewtown@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9073371829",
+        "other": [
+          {
+            "phone": "9073371830",
+            "type": "alternative",
+            "name": ""
+          }
+        ]
+      },
+      "placeId": "ChIJ9Q2gHTt1AjoRHktw4SVdABk",
+      "rating": 5,
+      "cid": "1801542268225604382",
+      "gname": "",
+      "gcode": "",
+      "park": "Street",
       "lang": [
         "bn",
         "hn",
