@@ -1,5 +1,5 @@
 {
-  "newtown-showroom": {
+  "rajarhat-showroom": {
     "photos": [
       {
         "h": 600,
@@ -130,6 +130,6 @@
     "last_updated": "2025-06-25T20:28:38.777Z",
     "data_source": "live_api",
     "place_id": "ChIJcYTLsNGf-DkRnhtSgWb8JY0",
-    "store_key": "newtown-showroom"
+    "store_key": "rajarhat-showroom"
   }
 }
