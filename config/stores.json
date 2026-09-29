@@ -1,5 +1,5 @@
 {
-  "VERSION": 181139,
+  "VERSION": 333136,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3879,6 +3879,50 @@
           "close": [
             20,
             0
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Bongaigaon",
+      "key": "bongaigaon-showroom",
+      "status": 1,
+      "street": "Shiv Shakti Tower, Chapaguri Rd, opposite of Shivam Nagar, North Bongaigaon, Gurunanak Nagar, Bongaigaon, Assam 783380",
+      "city": "Lower Assam Division",
+      "region": "Assam",
+      "pin": 783380,
+      "lat": 26.4918877,
+      "lon": 90.5509209,
+      "email": {
+        "primary": "pccbongaigaon@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": "9287994768",
+        "other": []
+      },
+      "placeId": "ChIJu9goSfL_WDcRrgBrQMNFecc",
+      "rating": 0,
+      "cid": "14373596390631342254",
+      "gname": "",
+      "gcode": "",
+      "park": "No parking",
+      "lang": [
+        "bn",
+        "as",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            30
           ]
         },
         "exceptions": {}
