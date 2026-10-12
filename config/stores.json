@@ -1,5 +1,5 @@
 {
-  "VERSION": 654907,
+  "VERSION": 893226,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -3923,6 +3923,60 @@
           "close": [
             20,
             30
+          ]
+        },
+        "exceptions": {}
+      }
+    },
+    {
+      "name": "P.C. Chandra Jewellers, Patia",
+      "key": "bhubaneshwar-patia-showroom",
+      "status": 1,
+      "street": "P.C. CHANDRA JEWELLERY APEX PRIVATE LIMITED Holding No. 19365 Plot No. 516/1688, College Road Patia, P.S. - Chandrasekhar Pur, District: Khurdah Bhubaneswar - 751024",
+      "city": "Central Division",
+      "region": "Odisha",
+      "pin": 751024,
+      "lat": 20.3550483,
+      "lon": 85.8280321,
+      "email": {
+        "primary": "pccpatia.odisha@pcchandraindia.com",
+        "other": []
+      },
+      "phone": {
+        "primary": " +919230961705",
+        "other": [
+          {
+            "phone": "+917047001408",
+            "type": "mobile",
+            "name": ""
+          },
+          {
+            "phone": "",
+            "type": "work",
+            "name": ""
+          }
+        ]
+      },
+      "placeId": "ChIJTVSYatIJGToR63T5KWtIptM",
+      "rating": 0,
+      "cid": "15250956813239678187",
+      "gname": "",
+      "gcode": "",
+      "park": "street parking",
+      "lang": [
+        "or",
+        "hn",
+        "en"
+      ],
+      "schedule": {
+        "default": {
+          "open": [
+            11,
+            30
+          ],
+          "close": [
+            20,
+            0
           ]
         },
         "exceptions": {}
