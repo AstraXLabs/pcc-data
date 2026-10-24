@@ -1,5 +1,5 @@
 {
-  "VERSION": 893226,
+  "VERSION": 27429,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2270,9 +2270,10 @@
       "key": "mumbai-vashi-showroom",
       "status": 1,
       "email": {
-        "primary": "pccvashi@pcchandraindia.com"
+        "primary": "pccvashi@pcchandraindia.com",
+        "other": []
       },
-      "street": "Ground Floor, Hermes Centre, 67, Sector 17, Vashi",
+      "street": "Shop No. 13, Plot No. 17, Sector 19D, Palm Beach Galleria, Vashi, Navi Mumbai – 400703",
       "city": "Mumbai",
       "region": "Maharashtra",
       "pin": 400703,
@@ -2288,10 +2289,12 @@
             20,
             0
           ]
-        }
+        },
+        "exceptions": {}
       },
       "phone": {
-        "primary": "2248257855"
+        "primary": "9748777227",
+        "other": []
       },
       "rating": 4.6,
       "placeId": "ChIJa8faqLjB5zsRupMRGKozz4w",
