@@ -1,5 +1,5 @@
 {
-  "VERSION": 27429,
+  "VERSION": 972296,
   "data": [
     {
       "name": "Ahmedabad Showroom ",
@@ -2266,7 +2266,7 @@
       "astro": true
     },
     {
-      "name": "Mumbai (Vashi) Showroom",
+      "name": "P. C. Chandra Jewellers, Vashi",
       "key": "mumbai-vashi-showroom",
       "status": 1,
       "email": {
@@ -2274,11 +2274,11 @@
         "other": []
       },
       "street": "Shop No. 13, Plot No. 17, Sector 19D, Palm Beach Galleria, Vashi, Navi Mumbai – 400703",
-      "city": "Mumbai",
+      "city": "Konkan Division",
       "region": "Maharashtra",
       "pin": 400703,
-      "lat": 19.0718804,
-      "lon": 73.0018061,
+      "lat": 19.0852274,
+      "lon": 73.0076824,
       "schedule": {
         "default": {
           "open": [
@@ -2296,7 +2296,7 @@
         "primary": "9748777227",
         "other": []
       },
-      "rating": 4.6,
+      "rating": 4.4,
       "placeId": "ChIJa8faqLjB5zsRupMRGKozz4w",
       "cid": "10146385291130278842",
       "gname": "P. C. Chandra Jewellers, Vashi",
